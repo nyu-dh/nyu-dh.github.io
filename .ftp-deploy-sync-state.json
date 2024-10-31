@@ -1,7 +1,7 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1730398078767,
+    "generatedTime": 1730398195282,
     "data": [
         {
             "type": "file",
@@ -61,7 +61,7 @@
             "type": "file",
             "name": "sitemap.xml",
             "size": 22846,
-            "hash": "d75bef4cd56c5510ad4ed5fe369ef33ac4bc80063988e81cb7ed2302afc039ac"
+            "hash": "a71b01dfba364a785bc09749d3ea4a00314a70de6e0c0cc153a74445aa65c032"
         },
         {
             "type": "folder",
@@ -135,11 +135,11 @@
         },
         {
             "type": "folder",
-            "name": "media/people"
+            "name": "media/projects"
         },
         {
             "type": "folder",
-            "name": "media/projects"
+            "name": "media/people"
         },
         {
             "type": "folder",
@@ -379,11 +379,11 @@
         },
         {
             "type": "folder",
-            "name": "projects/aponte"
+            "name": "projects/all"
         },
         {
             "type": "folder",
-            "name": "projects/all"
+            "name": "projects/aponte"
         },
         {
             "type": "folder",
@@ -395,11 +395,11 @@
         },
         {
             "type": "folder",
-            "name": "projects/brown"
+            "name": "projects/biblio-politica"
         },
         {
             "type": "folder",
-            "name": "projects/biblio-politica"
+            "name": "projects/brown"
         },
         {
             "type": "folder",
@@ -723,12 +723,6 @@
         },
         {
             "type": "file",
-            "name": "assets/css/app.css.map",
-            "size": 179519,
-            "hash": "23b742042ca065abce2404b7019b11fe17a2bfe011f07858b1de371914c28b52"
-        },
-        {
-            "type": "file",
             "name": "assets/css/app.css",
             "size": 190446,
             "hash": "f20e1f77a0a8755fb7d607357040407f2732ad6003f91ff57ae2631293436896"
@@ -738,6 +732,12 @@
             "name": "assets/css/splide.min.css",
             "size": 5002,
             "hash": "e6e2a25c4c1b69087d720776ff9569e9698c9ec52bdd5659c346bcaca9ce28d5"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/app.css.map",
+            "size": 179519,
+            "hash": "23b742042ca065abce2404b7019b11fe17a2bfe011f07858b1de371914c28b52"
         },
         {
             "type": "folder",
@@ -802,10 +802,6 @@
             "name": "funding/seed-grants/faq"
         },
         {
-            "type": "folder",
-            "name": "funding/seed-grants/grant-cycles"
-        },
-        {
             "type": "file",
             "name": "funding/seed-grants/index.html",
             "size": 49663,
@@ -813,7 +809,17 @@
         },
         {
             "type": "folder",
+            "name": "funding/seed-grants/grant-cycles"
+        },
+        {
+            "type": "folder",
             "name": "funding/seed-grants/sample-call"
+        },
+        {
+            "type": "file",
+            "name": "media/banners/courses.png",
+            "size": 463277,
+            "hash": "2f32e3bba5f43090d3709e2d887860a0c56849711b72e0851fdb91e21de88150"
         },
         {
             "type": "file",
@@ -826,12 +832,6 @@
             "name": "media/banners/getinvolved.png",
             "size": 484643,
             "hash": "e8a55a2c8c113b6fe399619c19e10e2b8a9686869322486d2adf6623ba94ed54"
-        },
-        {
-            "type": "file",
-            "name": "media/banners/courses.png",
-            "size": 463277,
-            "hash": "2f32e3bba5f43090d3709e2d887860a0c56849711b72e0851fdb91e21de88150"
         },
         {
             "type": "file",
@@ -883,15 +883,15 @@
         },
         {
             "type": "file",
-            "name": "media/icons/mail.png",
-            "size": 14931,
-            "hash": "0d1f91f46336e051ff6af7153621abd1fe6f1848b68204e4c2f0356bdefa229a"
-        },
-        {
-            "type": "file",
             "name": "media/icons/potluck.png",
             "size": 9480,
             "hash": "df3c8ef0739c4d44022016ef5c6481947672f7ad9faf954863bc3f8e93048f1c"
+        },
+        {
+            "type": "file",
+            "name": "media/icons/mail.png",
+            "size": 14931,
+            "hash": "0d1f91f46336e051ff6af7153621abd1fe6f1848b68204e4c2f0356bdefa229a"
         },
         {
             "type": "file",
@@ -919,6 +919,12 @@
         },
         {
             "type": "file",
+            "name": "media/news/20231214-DHPotluck-ISAW.png",
+            "size": 1049648,
+            "hash": "beba56306d628eb1d0b5686cd1ec845f9e77e4d88c6df23488e5de3e82543308"
+        },
+        {
+            "type": "file",
             "name": "media/news/20240313-AIandDH-DigitalTheoryLab.jpg",
             "size": 5967071,
             "hash": "e76cbf214af33184edfba86e07044d5165a3a3c8d86cf532809b21d7af591cb2"
@@ -940,12 +946,6 @@
             "name": "media/news/EdTech.jpg",
             "size": 222588,
             "hash": "b32c5a0dd77d56260fca97c38e77390cdd8aad8180b66bd2d7fc57b9dd195f5f"
-        },
-        {
-            "type": "file",
-            "name": "media/news/20231214-DHPotluck-ISAW.png",
-            "size": 1049648,
-            "hash": "beba56306d628eb1d0b5686cd1ec845f9e77e4d88c6df23488e5de3e82543308"
         },
         {
             "type": "file",
@@ -997,15 +997,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/donors-fox-screenshot2.png",
-            "size": 209646,
-            "hash": "64bbda5f1c4693baf56cc9625937b2e69cc506ceb406b2d185c35b23cbf95467"
-        },
-        {
-            "type": "file",
             "name": "media/news/donors-fox-screenshot1.png",
             "size": 747223,
             "hash": "f6c17646c808c6cf0f405b97e0c6b5cf672653fabf07f893c8135857277ccbb0"
+        },
+        {
+            "type": "file",
+            "name": "media/news/donors-fox-screenshot2.png",
+            "size": 209646,
+            "hash": "64bbda5f1c4693baf56cc9625937b2e69cc506ceb406b2d185c35b23cbf95467"
         },
         {
             "type": "file",
@@ -1081,15 +1081,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/seeds.jpg",
-            "size": 32669,
-            "hash": "183bb20aa9b19e4dd40fa8ef95fb2495d3bd588273552cf3a87632363b7d5da4"
-        },
-        {
-            "type": "file",
             "name": "media/news/potluckdoodle.jpg",
             "size": 502606,
             "hash": "3574e2234a6f37f1c90b241a69b5174da55e2665fe8690dc67337e513b978f98"
+        },
+        {
+            "type": "file",
+            "name": "media/news/seeds.jpg",
+            "size": 32669,
+            "hash": "183bb20aa9b19e4dd40fa8ef95fb2495d3bd588273552cf3a87632363b7d5da4"
         },
         {
             "type": "file",
@@ -1111,606 +1111,6 @@
         },
         {
             "type": "file",
-            "name": "media/people/ansari.jpg",
-            "size": 54366,
-            "hash": "f77d919ac8a3ac8502fcd4ad0164f5b5614199959b77801a9ce6b1543f79621c"
-        },
-        {
-            "type": "file",
-            "name": "media/people/ahlenius.jpeg",
-            "size": 108971,
-            "hash": "02dd3c107b8ddbea02fdf61493ff56b6f3fcbe7931d38f31ed66e9393ad9a937"
-        },
-        {
-            "type": "file",
-            "name": "media/people/appert.jpg",
-            "size": 15917,
-            "hash": "d523535bc8cc86da4af8052beffc777ba5c7a36d311c14156e4c830e9023a0d1"
-        },
-        {
-            "type": "file",
-            "name": "media/people/armoza.jpg",
-            "size": 73564,
-            "hash": "85ed6e3a571fe9228ae20662b998af3c327ee1c60e8691da4ef850d9e61010f2"
-        },
-        {
-            "type": "file",
-            "name": "media/people/augst.jpg",
-            "size": 74004,
-            "hash": "6cecabd10b53f6b998d08f7a918bb2755e831d6f75b2d4120ab5bd8e452134b3"
-        },
-        {
-            "type": "file",
-            "name": "media/people/ayers.jpg",
-            "size": 26634,
-            "hash": "44e0deb461a7841d9d6be8df0d98bd51a6a457e3e75b067270dadf1d2097184a"
-        },
-        {
-            "type": "file",
-            "name": "media/people/bach.jpg",
-            "size": 87784,
-            "hash": "ec7d2e2bc71181695ed712a8ceb2765ec1f7874a524f3568694c726497b091d9"
-        },
-        {
-            "type": "file",
-            "name": "media/people/beinart-smollan.jpg",
-            "size": 47441,
-            "hash": "dc4d98c68d95a7eb1679deb4c549f52dbdb34b3e15c04c63c8afc58478811d27"
-        },
-        {
-            "type": "file",
-            "name": "media/people/belantara.jpg",
-            "size": 110322,
-            "hash": "39cf86e8b3e30047c20157e0cc60d33c4f88742e399ddd94f894b4909248d35a"
-        },
-        {
-            "type": "file",
-            "name": "media/people/bernstein-bunzl.png",
-            "size": 1049645,
-            "hash": "0d3cac9ad3199c1fcbf761a64fc753ae0a5beea02569ab06a2b0b49e0566f8aa"
-        },
-        {
-            "type": "file",
-            "name": "media/people/bliziotis.jpg",
-            "size": 254953,
-            "hash": "2e69c001e737920749aca4a24ad2deb1f6d2144085dad04876b11a6bbc47cf97"
-        },
-        {
-            "type": "file",
-            "name": "media/people/binyamini.png",
-            "size": 599460,
-            "hash": "d3a386881214c427b3675cc8dbe601f4e27b09f42dce35d53f6511d3e74d265d"
-        },
-        {
-            "type": "file",
-            "name": "media/people/bradley.jpg",
-            "size": 313081,
-            "hash": "8b992115171a946b90acc620b09bdcf1e795fe6102e016402025671115ea09df"
-        },
-        {
-            "type": "file",
-            "name": "media/people/brill.jpg",
-            "size": 9211,
-            "hash": "20cce287b7e993a9441bc8fe033e1f1b1d3c9a3994a37e12b48de267f101655e"
-        },
-        {
-            "type": "file",
-            "name": "media/people/brain.jpg",
-            "size": 49541,
-            "hash": "9a44da097483efe142a0914dc328cff3c88a529e1962cf0a29bd145d49d836c5"
-        },
-        {
-            "type": "file",
-            "name": "media/people/broussard.jpg",
-            "size": 12217,
-            "hash": "99a17a5b7dd6db3c70d405734fd817bc6b8b20afe81496cae98040366a3d14ea"
-        },
-        {
-            "type": "file",
-            "name": "media/people/bunde.jpg",
-            "size": 220304,
-            "hash": "67378d60d4ef51386293b9c90dec768e1e264ec373076bb2b2ecbfa46fc8be1a"
-        },
-        {
-            "type": "file",
-            "name": "media/people/burns.jpg",
-            "size": 14019,
-            "hash": "f7d0450d9b913d69f9232a1b11c7f8b23b96b5c90e72e66a0507bf44ab3258cd"
-        },
-        {
-            "type": "file",
-            "name": "media/people/busser.jpg",
-            "size": 37624,
-            "hash": "4aefbdc772b47a3d7a2fc74173d1a751b8ec76bf36f2518dad9ac2503e9f7481"
-        },
-        {
-            "type": "file",
-            "name": "media/people/cabrera-arus.jpg",
-            "size": 10467,
-            "hash": "76a77d5d77c3739b3c684fff2e20661e63b171881c488be38309d6f0a5745f0b"
-        },
-        {
-            "type": "file",
-            "name": "media/people/chenel.jpg",
-            "size": 31899,
-            "hash": "434ffd2389a9c20bdc80a539ef86ee421940f80f7500876a5642213ff518342c"
-        },
-        {
-            "type": "file",
-            "name": "media/people/coble.jpg",
-            "size": 75665,
-            "hash": "12714dcf5b75afc0af5547464fe77c937b3417768ae1b6cbe98c431dc8e63ace"
-        },
-        {
-            "type": "file",
-            "name": "media/people/dang.png",
-            "size": 381107,
-            "hash": "8704331ba300854fce2efa7cdfd9a7db81ac2f998a1ecd30e2cc432447957755"
-        },
-        {
-            "type": "file",
-            "name": "media/people/deniz.png",
-            "size": 1072897,
-            "hash": "b3a46f35407cb62235e751ac23cbddc3b577e137404e41293ada9fb57c9944cf"
-        },
-        {
-            "type": "file",
-            "name": "media/people/desai.jpg",
-            "size": 14804,
-            "hash": "ab7986e572d1b279b5d981cf955afbac2917c581538808166e449ec3f01dca1f"
-        },
-        {
-            "type": "file",
-            "name": "media/people/duncombe.jpg",
-            "size": 87578,
-            "hash": "242005f0498cdf588b5d0d87bae8b53570bc6964184a3295986546c93ff7d08e"
-        },
-        {
-            "type": "file",
-            "name": "media/people/ferrer.jpg",
-            "size": 7475,
-            "hash": "a38a9a00857dbfd5ca4b49307ed9ee912d51edf8665ec59da85885f0bd8b6258"
-        },
-        {
-            "type": "file",
-            "name": "media/people/fischer.jpg",
-            "size": 22045,
-            "hash": "d5b1e59eb020704470c14be7ce680da0b028ffc60c34c3927d106ad76a326493"
-        },
-        {
-            "type": "file",
-            "name": "media/people/flouty.jpg",
-            "size": 341562,
-            "hash": "4f40a23a16605e596f69acdd5697a918b042ec4bdde10c1745b2309f44f7e19e"
-        },
-        {
-            "type": "file",
-            "name": "media/people/friere.jpg",
-            "size": 91359,
-            "hash": "8b52213247419489af2d8271834b2815e566bb130d57f5eb900d1130511fa547"
-        },
-        {
-            "type": "file",
-            "name": "media/people/gan.png",
-            "size": 740090,
-            "hash": "8beee64f26753629ee1ec9d23971963df6d801356978cc24d12673b3bc35eadf"
-        },
-        {
-            "type": "file",
-            "name": "media/people/gordon.jpg",
-            "size": 94320,
-            "hash": "dc72e0482dc31c99496bb30af0b350ce38c675a19013de257d1198af2528d7ab"
-        },
-        {
-            "type": "file",
-            "name": "media/people/georgieva.jpg",
-            "size": 2602042,
-            "hash": "9f7562713ce222fb9adf51175e9ccdabfc862113577f4256e5a20dba5e24435a"
-        },
-        {
-            "type": "file",
-            "name": "media/people/hassapopoulou.jpg",
-            "size": 26773,
-            "hash": "459c716c16d011f7ac0f5b974485a616fae58fc4ac93c2fbb67ea2f2f0dc0cfc"
-        },
-        {
-            "type": "file",
-            "name": "media/people/hassein.jpg",
-            "size": 346452,
-            "hash": "de68f7163bb4ad2f9cae3c42a22ef2cb74a94b9cd1da97c6bc2e645f1cd0cde3"
-        },
-        {
-            "type": "file",
-            "name": "media/people/hatanaka.jpg",
-            "size": 88855,
-            "hash": "d17a55abe4ca1ab3cc2e71d5c72b79a9c5fd06870a2dc26f8afcfd2dda0e3eea"
-        },
-        {
-            "type": "file",
-            "name": "media/people/heath.jpg",
-            "size": 7077,
-            "hash": "ceba3476d0202c36374ab3189588cd1c16599dfd541620f0f0d7bb66d3cd64b8"
-        },
-        {
-            "type": "file",
-            "name": "media/people/hoover.jpg",
-            "size": 29924,
-            "hash": "e9709a7538c2d2800fd3602d00abe2319afcebdf662472477f48b452813cfff1"
-        },
-        {
-            "type": "file",
-            "name": "media/people/hoque.png",
-            "size": 1193811,
-            "hash": "55554012f7b8e73c7f42cd3813ae2766276a1ea814803fbf76c8c832c742567f"
-        },
-        {
-            "type": "file",
-            "name": "media/people/jacobs.jpg",
-            "size": 9692,
-            "hash": "0e598ac65eba1fce8585bc55fc9723f40e3bbdb3b85a0c9863847983c27b8089"
-        },
-        {
-            "type": "file",
-            "name": "media/people/janz.png",
-            "size": 422886,
-            "hash": "44e7364c0bbacad92f33b79004583f550cc70caf43fcaca17a356f028b5c7015"
-        },
-        {
-            "type": "file",
-            "name": "media/people/joyner.jpg",
-            "size": 7707305,
-            "hash": "f78472d6e08341017fdada03a14a8a4dc39187f0842c62ce7b8f6a78976080b3"
-        },
-        {
-            "type": "file",
-            "name": "media/people/joslyn.jpg",
-            "size": 61950,
-            "hash": "b57781f9dee6cb1c747d8ba2c5eb68da4c23c7219ff0c5218a9a9991bfacb887"
-        },
-        {
-            "type": "file",
-            "name": "media/people/kapp.jpg",
-            "size": 23079,
-            "hash": "017ce1f44bdf43cc1b18a04cc3c839c17a5b56f76a06dcb6e89ac439d85e67c4"
-        },
-        {
-            "type": "file",
-            "name": "media/people/karlin.jpg",
-            "size": 1590543,
-            "hash": "0f3222c0429499797f3a61f6edd12c1bb30d7f766ba7c578a509d5b2bb5f17ca"
-        },
-        {
-            "type": "file",
-            "name": "media/people/katz.jpg",
-            "size": 16785,
-            "hash": "24c9a52f5392b2f97d655c730a7290650cc11f9fbacd5096ff2821edb2b68272"
-        },
-        {
-            "type": "file",
-            "name": "media/people/kehoe.jpg",
-            "size": 140025,
-            "hash": "35f9f1d2f95250ef5af8f5cb71bf1fda706a8ddbf03ab2f4a23aab6c5228caed"
-        },
-        {
-            "type": "file",
-            "name": "media/people/kellogg.jpg",
-            "size": 96492,
-            "hash": "f6bed8c89abf56f31becccac2cbdca46ae86fed5ff1648e485b91d7cc7b77d46"
-        },
-        {
-            "type": "file",
-            "name": "media/people/keramidas.jpg",
-            "size": 44752,
-            "hash": "90146da875c94c36e2ed9055a84574155695ec402626c02002d557ef2a5b4b30"
-        },
-        {
-            "type": "file",
-            "name": "media/people/kornstein.jpg",
-            "size": 23488,
-            "hash": "d71804bc523ef8cccda74535eb3433e6e1bf7e0009f66fb944ab44cfc012a07c"
-        },
-        {
-            "type": "file",
-            "name": "media/people/kulpa.jpg",
-            "size": 174993,
-            "hash": "74f50c3362a20825782da5e71b0b4479dd2312264bbc9526db5ad17480a1fab1"
-        },
-        {
-            "type": "file",
-            "name": "media/people/lam.jpg",
-            "size": 67989,
-            "hash": "4fa127ba188470348851b0a9169d3141c46397940de9aba61ba9f24ac510f74b"
-        },
-        {
-            "type": "file",
-            "name": "media/people/landry.jpg",
-            "size": 2422133,
-            "hash": "14aa169d47d9b22a8fde9a495b652ce057d0e6f3587ac4e676972b6827c98860"
-        },
-        {
-            "type": "file",
-            "name": "media/people/lehine.jpg",
-            "size": 46159,
-            "hash": "26232798b51df916bd5056c0e6fc23e179f25cf50f5238a7edcbdbdd527e1f93"
-        },
-        {
-            "type": "file",
-            "name": "media/people/maddox.jpg",
-            "size": 20293,
-            "hash": "c7366b18d99fe399c08bf077ea9b3ed6698412395b70f78a9ab8628a7f78c078"
-        },
-        {
-            "type": "file",
-            "name": "media/people/mahootian.jpg",
-            "size": 134670,
-            "hash": "11062456b143f368d064d7a0696a97a3f7cd7c8da0001403c1e0b32001dbd6a8"
-        },
-        {
-            "type": "file",
-            "name": "media/people/marshall.jpg",
-            "size": 213173,
-            "hash": "f54a343d50a051ed7c5574513f4f96c7644cdfec0784d8218ffc25eedf38567e"
-        },
-        {
-            "type": "file",
-            "name": "media/people/martin.jpg",
-            "size": 744507,
-            "hash": "c4a5fc12c1e2530050dd98558f88dad4a0558ef13f7335fa72530fbdb3707e23"
-        },
-        {
-            "type": "file",
-            "name": "media/people/mavromatis.jpg",
-            "size": 66643,
-            "hash": "67115feefe3e36c0ec808d4ebd111ac166c3afb2d91677f7716165ccac791e7c"
-        },
-        {
-            "type": "file",
-            "name": "media/people/mccormick.png",
-            "size": 494764,
-            "hash": "e3bc7dae734f03e07ce0709155d19d51157a85ff47527fc44fc7ed033f24c23f"
-        },
-        {
-            "type": "file",
-            "name": "media/people/mills.png",
-            "size": 44096,
-            "hash": "89b812d09484c14c402aa7643bf038083ae88dff0cc12f91e7ed52f921400832"
-        },
-        {
-            "type": "file",
-            "name": "media/people/mistry.jpg",
-            "size": 244243,
-            "hash": "3b4ae7b3fbbd896eab519653af42a8bf2cfd797f0126cffa9a884d8c95bd2979"
-        },
-        {
-            "type": "file",
-            "name": "media/people/musto.jpg",
-            "size": 10058,
-            "hash": "b8ac1d7aade16675428395644f7fbfe92a4bfe25e46623c3d9dc16c93f53fade"
-        },
-        {
-            "type": "file",
-            "name": "media/people/noonan.png",
-            "size": 38123,
-            "hash": "ea3bf7d7339522333feb0a574307d565ad7dda384885ff20991047e2586299dc"
-        },
-        {
-            "type": "file",
-            "name": "media/people/nyrop.jpg",
-            "size": 22900,
-            "hash": "bc36d0e3e570b7601d2b8a1089839777e84bda358ac6dfabf8d51d4e44ddbe94"
-        },
-        {
-            "type": "file",
-            "name": "media/people/octavio-orsag.jpg",
-            "size": 113541,
-            "hash": "b1ff381e782874443899c0521fa8c249974c67984f999609384cc196f8f3255c"
-        },
-        {
-            "type": "file",
-            "name": "media/people/ozkiral.jpg",
-            "size": 153275,
-            "hash": "68b668b7c8215cee72f69a51d13ea050ac1fe4bc16ce08cdcbb0ce88ca51441f"
-        },
-        {
-            "type": "file",
-            "name": "media/people/paz.heic",
-            "size": 880992,
-            "hash": "34cb0faf59909c740893dd270fcc29e3d910ace67626383da357935df17cd8fd"
-        },
-        {
-            "type": "file",
-            "name": "media/people/paz.jpg",
-            "size": 1258989,
-            "hash": "299f25cf95ee35d9d038639b8fe17ee5f24a35eb2231f321dec23e504859cd34"
-        },
-        {
-            "type": "file",
-            "name": "media/people/perry.jpg",
-            "size": 115355,
-            "hash": "8656fb73992a8f9cfd2ccea2a910acff433c0b88656708ee5ff617b7f3cd6390"
-        },
-        {
-            "type": "file",
-            "name": "media/people/petiwala.jpg",
-            "size": 46329,
-            "hash": "ecf75ebb066eaa7c2afc9c929762ec23014092fbb42cbdd3a9302097d7fb5bf7"
-        },
-        {
-            "type": "file",
-            "name": "media/people/pickens.jpg",
-            "size": 158150,
-            "hash": "855a0bdf2b0b7c65af982c764b1fed052958ce214929171eddf7a351e433a494"
-        },
-        {
-            "type": "file",
-            "name": "media/people/provo.jpg",
-            "size": 300925,
-            "hash": "ff7d213d5ce39823fa2bb3b6cb67a36591ea3c5f211335332868e075ad509be5"
-        },
-        {
-            "type": "file",
-            "name": "media/people/qu.jpg",
-            "size": 502452,
-            "hash": "b75000459e284d07148bd509e25def2507cedb204e7809a438feffc754cac0a9"
-        },
-        {
-            "type": "file",
-            "name": "media/people/ralph.jpg",
-            "size": 56281,
-            "hash": "065900b2040c26ebe192a3b9031582faf20ce4a009b0523c954d9c34736a3899"
-        },
-        {
-            "type": "file",
-            "name": "media/people/remes.jpg",
-            "size": 42429,
-            "hash": "0f49a0402fc5272e6dec7be7e4005abc08b31057c14759ba96a82bef7f45ddbf"
-        },
-        {
-            "type": "file",
-            "name": "media/people/rogers.png",
-            "size": 2171051,
-            "hash": "5e587a0eb25b9df385ba1ae07ea520ab27667e0dd756df7cc3698b93e9cf6873"
-        },
-        {
-            "type": "file",
-            "name": "media/people/rosenberg.jpg",
-            "size": 85701,
-            "hash": "b63719217951ad5229e785cbe529f210267e26701d0bb31b64c920244febdbfa"
-        },
-        {
-            "type": "file",
-            "name": "media/people/russell.jpg",
-            "size": 137972,
-            "hash": "40c96b590acee3016c52788459419e24e15f26bf661d50c88460152ee36a8a27"
-        },
-        {
-            "type": "file",
-            "name": "media/people/schellmann.jpg",
-            "size": 42552,
-            "hash": "9ad3aecec9518f1c035d622dab7b134aa962c6496adfe3bb536d569cbb4bbede"
-        },
-        {
-            "type": "file",
-            "name": "media/people/schmidt.png",
-            "size": 98479,
-            "hash": "659fcf386ef01035402282da8b6a8bbaef4d5ac7e5e9682ab368a7dd6da974d6"
-        },
-        {
-            "type": "file",
-            "name": "media/people/sloane.jpg",
-            "size": 26811,
-            "hash": "7521bfa91d00cda5b3c35baafcc983f089faedbf392bb89fcf5e080824048361"
-        },
-        {
-            "type": "file",
-            "name": "media/people/soffer.jpg",
-            "size": 35139,
-            "hash": "e0fb4695cec1f3aadcb9cfdbbc95d2e7d7c6747a5f020bd10b04358d95dee24b"
-        },
-        {
-            "type": "file",
-            "name": "media/people/spielman.jpg",
-            "size": 24386,
-            "hash": "1effb2f8d2813f74a2eab3c189b7aaea05176e2eb95413afa9184a10c4c6e671"
-        },
-        {
-            "type": "file",
-            "name": "media/people/stec.jpg",
-            "size": 90041,
-            "hash": "906fa0c648e6955f76e61cd4523e75eed87e48374e315faf4e74336a7c1d4f55"
-        },
-        {
-            "type": "file",
-            "name": "media/people/sparrow.jpg",
-            "size": 64501,
-            "hash": "25cd2bb62037a00d46404e6a2626d9c71901bc320d0a33220daaca6870fab0cf"
-        },
-        {
-            "type": "file",
-            "name": "media/people/stuhler.png",
-            "size": 855469,
-            "hash": "b1283b7dd3a90bca1aca00eed214522fd3355d65fd6eba2c9973e6a8ee022732"
-        },
-        {
-            "type": "file",
-            "name": "media/people/suk.jpg",
-            "size": 835696,
-            "hash": "199b0667a06b65912de0b51821bab3fda773323a10ffac686e68ad5b3be39e8b"
-        },
-        {
-            "type": "file",
-            "name": "media/people/swarns.jpg",
-            "size": 347676,
-            "hash": "d58e9a6a0bed8d0e5a3887a879b40ee10ff98cd7e5ff824ac4fa364faf0cfe55"
-        },
-        {
-            "type": "file",
-            "name": "media/people/tawil-souri.jpg",
-            "size": 92612,
-            "hash": "8b0229a44da73140359b2f361c1a97621709629a6efdf5f1b7251317cf319a9f"
-        },
-        {
-            "type": "file",
-            "name": "media/people/tsolakis.jpg",
-            "size": 15775,
-            "hash": "7b970d6d311fd5d1c6049948e6aa9ee97f32c7992d0e5ed793dd1502077960bc"
-        },
-        {
-            "type": "file",
-            "name": "media/people/veras.jpg",
-            "size": 390034,
-            "hash": "237da72ce46e87eff92b5ba5873698fc3348d08bda4a4cb3367ba3a53fc14ada"
-        },
-        {
-            "type": "file",
-            "name": "media/people/vinokour.jpg",
-            "size": 89641,
-            "hash": "3a675f39d1eb7f17c6c45f3a3440044875ad2b8f22cbdf005e53267437146a30"
-        },
-        {
-            "type": "file",
-            "name": "media/people/warsco.png",
-            "size": 952060,
-            "hash": "3685ccbdc6659a26bbbc74d29ae0485dcf764ea0cff74462a6780b14e698535a"
-        },
-        {
-            "type": "file",
-            "name": "media/people/weatherby.jpg",
-            "size": 56402,
-            "hash": "cd17a315fe649823aff15b74fb95a55882dbb50f2a0c482359d5e9e5ea093a67"
-        },
-        {
-            "type": "file",
-            "name": "media/people/whitley.jpg",
-            "size": 1097283,
-            "hash": "9e528fd605eb049903df85887de6af62a5cbf6e198c0bbba709d8959746a43e9"
-        },
-        {
-            "type": "file",
-            "name": "media/people/wolf.jpg",
-            "size": 91838,
-            "hash": "92e692a8475df442188b6ba1377226396db67f7cf30e8f9a5f37aead570c298d"
-        },
-        {
-            "type": "file",
-            "name": "media/people/wrisley.jpg",
-            "size": 11335,
-            "hash": "554670d4198833d6846ec5cc62f77142ae8fd1b7a408466ff2f5317e219f9529"
-        },
-        {
-            "type": "file",
-            "name": "media/people/zehngut-willits.jpg",
-            "size": 145679,
-            "hash": "e4df037b591b5057b030c5c91d7258af65e8fdd590298b6e408d316027f2c46b"
-        },
-        {
-            "type": "file",
-            "name": "media/people/zohar.png",
-            "size": 225677,
-            "hash": "79c35e01eabc4bfa0a3a156c80f4ea2ef59bc61a64dfbc7d9a7c555ccfba2fdd"
-        },
-        {
-            "type": "file",
             "name": "media/projects/Ehrendekrete.jpg",
             "size": 2788763,
             "hash": "5ec4cdce2466d79bc0910b27fad4c4f0f628f54796f041aa42b4250e3288a5bc"
@@ -1729,15 +1129,15 @@
         },
         {
             "type": "file",
-            "name": "media/projects/artists-archive.jpg",
-            "size": 98986,
-            "hash": "a379d7814463e48bdb7cde0a4247d282e24f96f1009fb57d29a97aabfdaa4a8d"
-        },
-        {
-            "type": "file",
             "name": "media/projects/bibliopolitica.png",
             "size": 1522285,
             "hash": "f00ecb55f414bade9b19e5b4080883999d061219779ecae3143eef9fa7b1371a"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/artists-archive.jpg",
+            "size": 98986,
+            "hash": "a379d7814463e48bdb7cde0a4247d282e24f96f1009fb57d29a97aabfdaa4a8d"
         },
         {
             "type": "file",
@@ -1771,15 +1171,15 @@
         },
         {
             "type": "file",
-            "name": "media/projects/directories.jpg",
-            "size": 74988,
-            "hash": "bbf6410d8fb1e2a6ecc5f8233ec4e272ead15a06a41d1f2c162a12f0d497a567"
-        },
-        {
-            "type": "file",
             "name": "media/projects/disability.jpg",
             "size": 610009,
             "hash": "f4ec5bc82d3713f7203ab007212ca12950608d5e5aea394c6c19141d11825864"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/directories.jpg",
+            "size": 74988,
+            "hash": "bbf6410d8fb1e2a6ecc5f8233ec4e272ead15a06a41d1f2c162a12f0d497a567"
         },
         {
             "type": "file",
@@ -1939,27 +1339,27 @@
         },
         {
             "type": "file",
-            "name": "media/projects/moss.jpg",
-            "size": 22974,
-            "hash": "b04ec1e87479db2d025e1f1610a0b77d7421c7f451e039cd201f56dfe047c814"
-        },
-        {
-            "type": "file",
             "name": "media/projects/mindmap_example.jpg",
             "size": 2834088,
             "hash": "4a4ef5b7b9a3b5eeba66da91d2abc7d5f58f31d2ba1b732364665630751e29cd"
         },
         {
             "type": "file",
-            "name": "media/projects/nlines.png",
-            "size": 187008,
-            "hash": "05ebfc0b0e0a6e8c2e4ce6463b11822c121f7a8935b5c2959eab7412c781dfa7"
+            "name": "media/projects/moss.jpg",
+            "size": 22974,
+            "hash": "b04ec1e87479db2d025e1f1610a0b77d7421c7f451e039cd201f56dfe047c814"
         },
         {
             "type": "file",
             "name": "media/projects/nyscapes.jpg",
             "size": 165094,
             "hash": "7c2710fefa0129fa838ced04f9a1d09f6c53ee6b3c6774a2714d681feb007cdd"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/nlines.png",
+            "size": 187008,
+            "hash": "05ebfc0b0e0a6e8c2e4ce6463b11822c121f7a8935b5c2959eab7412c781dfa7"
         },
         {
             "type": "file",
@@ -2017,21 +1417,621 @@
         },
         {
             "type": "file",
-            "name": "media/projects/zinecat.png",
-            "size": 46416,
-            "hash": "e171e920371b571ebe2f8ac4aea90e96b8c0d8c947d6bd0ee76bb17a7e8ff5bb"
-        },
-        {
-            "type": "file",
             "name": "media/projects/wikimedians.jpg",
             "size": 62009,
             "hash": "d72bae1a2c07bf08a881417d31e58bf2130e1b44394e4a975df15758874ca2c1"
         },
         {
             "type": "file",
+            "name": "media/projects/zinecat.png",
+            "size": 46416,
+            "hash": "e171e920371b571ebe2f8ac4aea90e96b8c0d8c947d6bd0ee76bb17a7e8ff5bb"
+        },
+        {
+            "type": "file",
             "name": "news/2021-04-01-seed-grants-2021/index.html",
             "size": 25991,
             "hash": "4e8cdd1d44fbbb324307fd2fc27bc3148ae386ec1c22ef801afb314f566745e4"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ahlenius.jpeg",
+            "size": 108971,
+            "hash": "02dd3c107b8ddbea02fdf61493ff56b6f3fcbe7931d38f31ed66e9393ad9a937"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ansari.jpg",
+            "size": 54366,
+            "hash": "f77d919ac8a3ac8502fcd4ad0164f5b5614199959b77801a9ce6b1543f79621c"
+        },
+        {
+            "type": "file",
+            "name": "media/people/appert.jpg",
+            "size": 15917,
+            "hash": "d523535bc8cc86da4af8052beffc777ba5c7a36d311c14156e4c830e9023a0d1"
+        },
+        {
+            "type": "file",
+            "name": "media/people/armoza.jpg",
+            "size": 73564,
+            "hash": "85ed6e3a571fe9228ae20662b998af3c327ee1c60e8691da4ef850d9e61010f2"
+        },
+        {
+            "type": "file",
+            "name": "media/people/augst.jpg",
+            "size": 74004,
+            "hash": "6cecabd10b53f6b998d08f7a918bb2755e831d6f75b2d4120ab5bd8e452134b3"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ayers.jpg",
+            "size": 26634,
+            "hash": "44e0deb461a7841d9d6be8df0d98bd51a6a457e3e75b067270dadf1d2097184a"
+        },
+        {
+            "type": "file",
+            "name": "media/people/bach.jpg",
+            "size": 87784,
+            "hash": "ec7d2e2bc71181695ed712a8ceb2765ec1f7874a524f3568694c726497b091d9"
+        },
+        {
+            "type": "file",
+            "name": "media/people/beinart-smollan.jpg",
+            "size": 47441,
+            "hash": "dc4d98c68d95a7eb1679deb4c549f52dbdb34b3e15c04c63c8afc58478811d27"
+        },
+        {
+            "type": "file",
+            "name": "media/people/belantara.jpg",
+            "size": 110322,
+            "hash": "39cf86e8b3e30047c20157e0cc60d33c4f88742e399ddd94f894b4909248d35a"
+        },
+        {
+            "type": "file",
+            "name": "media/people/bernstein-bunzl.png",
+            "size": 1049645,
+            "hash": "0d3cac9ad3199c1fcbf761a64fc753ae0a5beea02569ab06a2b0b49e0566f8aa"
+        },
+        {
+            "type": "file",
+            "name": "media/people/binyamini.png",
+            "size": 599460,
+            "hash": "d3a386881214c427b3675cc8dbe601f4e27b09f42dce35d53f6511d3e74d265d"
+        },
+        {
+            "type": "file",
+            "name": "media/people/bliziotis.jpg",
+            "size": 254953,
+            "hash": "2e69c001e737920749aca4a24ad2deb1f6d2144085dad04876b11a6bbc47cf97"
+        },
+        {
+            "type": "file",
+            "name": "media/people/bradley.jpg",
+            "size": 313081,
+            "hash": "8b992115171a946b90acc620b09bdcf1e795fe6102e016402025671115ea09df"
+        },
+        {
+            "type": "file",
+            "name": "media/people/brain.jpg",
+            "size": 49541,
+            "hash": "9a44da097483efe142a0914dc328cff3c88a529e1962cf0a29bd145d49d836c5"
+        },
+        {
+            "type": "file",
+            "name": "media/people/brill.jpg",
+            "size": 9211,
+            "hash": "20cce287b7e993a9441bc8fe033e1f1b1d3c9a3994a37e12b48de267f101655e"
+        },
+        {
+            "type": "file",
+            "name": "media/people/broussard.jpg",
+            "size": 12217,
+            "hash": "99a17a5b7dd6db3c70d405734fd817bc6b8b20afe81496cae98040366a3d14ea"
+        },
+        {
+            "type": "file",
+            "name": "media/people/bunde.jpg",
+            "size": 220304,
+            "hash": "67378d60d4ef51386293b9c90dec768e1e264ec373076bb2b2ecbfa46fc8be1a"
+        },
+        {
+            "type": "file",
+            "name": "media/people/burns.jpg",
+            "size": 14019,
+            "hash": "f7d0450d9b913d69f9232a1b11c7f8b23b96b5c90e72e66a0507bf44ab3258cd"
+        },
+        {
+            "type": "file",
+            "name": "media/people/busser.jpg",
+            "size": 37624,
+            "hash": "4aefbdc772b47a3d7a2fc74173d1a751b8ec76bf36f2518dad9ac2503e9f7481"
+        },
+        {
+            "type": "file",
+            "name": "media/people/cabrera-arus.jpg",
+            "size": 10467,
+            "hash": "76a77d5d77c3739b3c684fff2e20661e63b171881c488be38309d6f0a5745f0b"
+        },
+        {
+            "type": "file",
+            "name": "media/people/coble.jpg",
+            "size": 75665,
+            "hash": "12714dcf5b75afc0af5547464fe77c937b3417768ae1b6cbe98c431dc8e63ace"
+        },
+        {
+            "type": "file",
+            "name": "media/people/chenel.jpg",
+            "size": 31899,
+            "hash": "434ffd2389a9c20bdc80a539ef86ee421940f80f7500876a5642213ff518342c"
+        },
+        {
+            "type": "file",
+            "name": "media/people/dang.png",
+            "size": 381107,
+            "hash": "8704331ba300854fce2efa7cdfd9a7db81ac2f998a1ecd30e2cc432447957755"
+        },
+        {
+            "type": "file",
+            "name": "media/people/deniz.png",
+            "size": 1072897,
+            "hash": "b3a46f35407cb62235e751ac23cbddc3b577e137404e41293ada9fb57c9944cf"
+        },
+        {
+            "type": "file",
+            "name": "media/people/desai.jpg",
+            "size": 14804,
+            "hash": "ab7986e572d1b279b5d981cf955afbac2917c581538808166e449ec3f01dca1f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/duncombe.jpg",
+            "size": 87578,
+            "hash": "242005f0498cdf588b5d0d87bae8b53570bc6964184a3295986546c93ff7d08e"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ferrer.jpg",
+            "size": 7475,
+            "hash": "a38a9a00857dbfd5ca4b49307ed9ee912d51edf8665ec59da85885f0bd8b6258"
+        },
+        {
+            "type": "file",
+            "name": "media/people/fischer.jpg",
+            "size": 22045,
+            "hash": "d5b1e59eb020704470c14be7ce680da0b028ffc60c34c3927d106ad76a326493"
+        },
+        {
+            "type": "file",
+            "name": "media/people/flouty.jpg",
+            "size": 341562,
+            "hash": "4f40a23a16605e596f69acdd5697a918b042ec4bdde10c1745b2309f44f7e19e"
+        },
+        {
+            "type": "file",
+            "name": "media/people/friere.jpg",
+            "size": 91359,
+            "hash": "8b52213247419489af2d8271834b2815e566bb130d57f5eb900d1130511fa547"
+        },
+        {
+            "type": "file",
+            "name": "media/people/gan.png",
+            "size": 740090,
+            "hash": "8beee64f26753629ee1ec9d23971963df6d801356978cc24d12673b3bc35eadf"
+        },
+        {
+            "type": "file",
+            "name": "media/people/georgieva.jpg",
+            "size": 2602042,
+            "hash": "9f7562713ce222fb9adf51175e9ccdabfc862113577f4256e5a20dba5e24435a"
+        },
+        {
+            "type": "file",
+            "name": "media/people/gordon.jpg",
+            "size": 94320,
+            "hash": "dc72e0482dc31c99496bb30af0b350ce38c675a19013de257d1198af2528d7ab"
+        },
+        {
+            "type": "file",
+            "name": "media/people/hassapopoulou.jpg",
+            "size": 26773,
+            "hash": "459c716c16d011f7ac0f5b974485a616fae58fc4ac93c2fbb67ea2f2f0dc0cfc"
+        },
+        {
+            "type": "file",
+            "name": "media/people/hassein.jpg",
+            "size": 346452,
+            "hash": "de68f7163bb4ad2f9cae3c42a22ef2cb74a94b9cd1da97c6bc2e645f1cd0cde3"
+        },
+        {
+            "type": "file",
+            "name": "media/people/hatanaka.jpg",
+            "size": 88855,
+            "hash": "d17a55abe4ca1ab3cc2e71d5c72b79a9c5fd06870a2dc26f8afcfd2dda0e3eea"
+        },
+        {
+            "type": "file",
+            "name": "media/people/heath.jpg",
+            "size": 7077,
+            "hash": "ceba3476d0202c36374ab3189588cd1c16599dfd541620f0f0d7bb66d3cd64b8"
+        },
+        {
+            "type": "file",
+            "name": "media/people/hoover.jpg",
+            "size": 29924,
+            "hash": "e9709a7538c2d2800fd3602d00abe2319afcebdf662472477f48b452813cfff1"
+        },
+        {
+            "type": "file",
+            "name": "media/people/hoque.png",
+            "size": 1193811,
+            "hash": "55554012f7b8e73c7f42cd3813ae2766276a1ea814803fbf76c8c832c742567f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/jacobs.jpg",
+            "size": 9692,
+            "hash": "0e598ac65eba1fce8585bc55fc9723f40e3bbdb3b85a0c9863847983c27b8089"
+        },
+        {
+            "type": "file",
+            "name": "media/people/joslyn.jpg",
+            "size": 61950,
+            "hash": "b57781f9dee6cb1c747d8ba2c5eb68da4c23c7219ff0c5218a9a9991bfacb887"
+        },
+        {
+            "type": "file",
+            "name": "media/people/janz.png",
+            "size": 422886,
+            "hash": "44e7364c0bbacad92f33b79004583f550cc70caf43fcaca17a356f028b5c7015"
+        },
+        {
+            "type": "file",
+            "name": "media/people/joyner.jpg",
+            "size": 7707305,
+            "hash": "f78472d6e08341017fdada03a14a8a4dc39187f0842c62ce7b8f6a78976080b3"
+        },
+        {
+            "type": "file",
+            "name": "media/people/kapp.jpg",
+            "size": 23079,
+            "hash": "017ce1f44bdf43cc1b18a04cc3c839c17a5b56f76a06dcb6e89ac439d85e67c4"
+        },
+        {
+            "type": "file",
+            "name": "media/people/karlin.jpg",
+            "size": 1590543,
+            "hash": "0f3222c0429499797f3a61f6edd12c1bb30d7f766ba7c578a509d5b2bb5f17ca"
+        },
+        {
+            "type": "file",
+            "name": "media/people/katz.jpg",
+            "size": 16785,
+            "hash": "24c9a52f5392b2f97d655c730a7290650cc11f9fbacd5096ff2821edb2b68272"
+        },
+        {
+            "type": "file",
+            "name": "media/people/kehoe.jpg",
+            "size": 140025,
+            "hash": "35f9f1d2f95250ef5af8f5cb71bf1fda706a8ddbf03ab2f4a23aab6c5228caed"
+        },
+        {
+            "type": "file",
+            "name": "media/people/kellogg.jpg",
+            "size": 96492,
+            "hash": "f6bed8c89abf56f31becccac2cbdca46ae86fed5ff1648e485b91d7cc7b77d46"
+        },
+        {
+            "type": "file",
+            "name": "media/people/keramidas.jpg",
+            "size": 44752,
+            "hash": "90146da875c94c36e2ed9055a84574155695ec402626c02002d557ef2a5b4b30"
+        },
+        {
+            "type": "file",
+            "name": "media/people/kornstein.jpg",
+            "size": 23488,
+            "hash": "d71804bc523ef8cccda74535eb3433e6e1bf7e0009f66fb944ab44cfc012a07c"
+        },
+        {
+            "type": "file",
+            "name": "media/people/kulpa.jpg",
+            "size": 174993,
+            "hash": "74f50c3362a20825782da5e71b0b4479dd2312264bbc9526db5ad17480a1fab1"
+        },
+        {
+            "type": "file",
+            "name": "media/people/lam.jpg",
+            "size": 67989,
+            "hash": "4fa127ba188470348851b0a9169d3141c46397940de9aba61ba9f24ac510f74b"
+        },
+        {
+            "type": "file",
+            "name": "media/people/landry.jpg",
+            "size": 2422133,
+            "hash": "14aa169d47d9b22a8fde9a495b652ce057d0e6f3587ac4e676972b6827c98860"
+        },
+        {
+            "type": "file",
+            "name": "media/people/lehine.jpg",
+            "size": 46159,
+            "hash": "26232798b51df916bd5056c0e6fc23e179f25cf50f5238a7edcbdbdd527e1f93"
+        },
+        {
+            "type": "file",
+            "name": "media/people/maddox.jpg",
+            "size": 20293,
+            "hash": "c7366b18d99fe399c08bf077ea9b3ed6698412395b70f78a9ab8628a7f78c078"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mahootian.jpg",
+            "size": 134670,
+            "hash": "11062456b143f368d064d7a0696a97a3f7cd7c8da0001403c1e0b32001dbd6a8"
+        },
+        {
+            "type": "file",
+            "name": "media/people/marshall.jpg",
+            "size": 213173,
+            "hash": "f54a343d50a051ed7c5574513f4f96c7644cdfec0784d8218ffc25eedf38567e"
+        },
+        {
+            "type": "file",
+            "name": "media/people/martin.jpg",
+            "size": 744507,
+            "hash": "c4a5fc12c1e2530050dd98558f88dad4a0558ef13f7335fa72530fbdb3707e23"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mavromatis.jpg",
+            "size": 66643,
+            "hash": "67115feefe3e36c0ec808d4ebd111ac166c3afb2d91677f7716165ccac791e7c"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mccormick.png",
+            "size": 494764,
+            "hash": "e3bc7dae734f03e07ce0709155d19d51157a85ff47527fc44fc7ed033f24c23f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mills.png",
+            "size": 44096,
+            "hash": "89b812d09484c14c402aa7643bf038083ae88dff0cc12f91e7ed52f921400832"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mistry.jpg",
+            "size": 244243,
+            "hash": "3b4ae7b3fbbd896eab519653af42a8bf2cfd797f0126cffa9a884d8c95bd2979"
+        },
+        {
+            "type": "file",
+            "name": "media/people/musto.jpg",
+            "size": 10058,
+            "hash": "b8ac1d7aade16675428395644f7fbfe92a4bfe25e46623c3d9dc16c93f53fade"
+        },
+        {
+            "type": "file",
+            "name": "media/people/noonan.png",
+            "size": 38123,
+            "hash": "ea3bf7d7339522333feb0a574307d565ad7dda384885ff20991047e2586299dc"
+        },
+        {
+            "type": "file",
+            "name": "media/people/nyrop.jpg",
+            "size": 22900,
+            "hash": "bc36d0e3e570b7601d2b8a1089839777e84bda358ac6dfabf8d51d4e44ddbe94"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ozkiral.jpg",
+            "size": 153275,
+            "hash": "68b668b7c8215cee72f69a51d13ea050ac1fe4bc16ce08cdcbb0ce88ca51441f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/octavio-orsag.jpg",
+            "size": 113541,
+            "hash": "b1ff381e782874443899c0521fa8c249974c67984f999609384cc196f8f3255c"
+        },
+        {
+            "type": "file",
+            "name": "media/people/paz.heic",
+            "size": 880992,
+            "hash": "34cb0faf59909c740893dd270fcc29e3d910ace67626383da357935df17cd8fd"
+        },
+        {
+            "type": "file",
+            "name": "media/people/paz.jpg",
+            "size": 1258989,
+            "hash": "299f25cf95ee35d9d038639b8fe17ee5f24a35eb2231f321dec23e504859cd34"
+        },
+        {
+            "type": "file",
+            "name": "media/people/petiwala.jpg",
+            "size": 46329,
+            "hash": "ecf75ebb066eaa7c2afc9c929762ec23014092fbb42cbdd3a9302097d7fb5bf7"
+        },
+        {
+            "type": "file",
+            "name": "media/people/perry.jpg",
+            "size": 115355,
+            "hash": "8656fb73992a8f9cfd2ccea2a910acff433c0b88656708ee5ff617b7f3cd6390"
+        },
+        {
+            "type": "file",
+            "name": "media/people/pickens.jpg",
+            "size": 158150,
+            "hash": "855a0bdf2b0b7c65af982c764b1fed052958ce214929171eddf7a351e433a494"
+        },
+        {
+            "type": "file",
+            "name": "media/people/provo.jpg",
+            "size": 300925,
+            "hash": "ff7d213d5ce39823fa2bb3b6cb67a36591ea3c5f211335332868e075ad509be5"
+        },
+        {
+            "type": "file",
+            "name": "media/people/qu.jpg",
+            "size": 502452,
+            "hash": "b75000459e284d07148bd509e25def2507cedb204e7809a438feffc754cac0a9"
+        },
+        {
+            "type": "file",
+            "name": "media/people/ralph.jpg",
+            "size": 56281,
+            "hash": "065900b2040c26ebe192a3b9031582faf20ce4a009b0523c954d9c34736a3899"
+        },
+        {
+            "type": "file",
+            "name": "media/people/remes.jpg",
+            "size": 42429,
+            "hash": "0f49a0402fc5272e6dec7be7e4005abc08b31057c14759ba96a82bef7f45ddbf"
+        },
+        {
+            "type": "file",
+            "name": "media/people/rogers.png",
+            "size": 2171051,
+            "hash": "5e587a0eb25b9df385ba1ae07ea520ab27667e0dd756df7cc3698b93e9cf6873"
+        },
+        {
+            "type": "file",
+            "name": "media/people/rosenberg.jpg",
+            "size": 85701,
+            "hash": "b63719217951ad5229e785cbe529f210267e26701d0bb31b64c920244febdbfa"
+        },
+        {
+            "type": "file",
+            "name": "media/people/russell.jpg",
+            "size": 137972,
+            "hash": "40c96b590acee3016c52788459419e24e15f26bf661d50c88460152ee36a8a27"
+        },
+        {
+            "type": "file",
+            "name": "media/people/schellmann.jpg",
+            "size": 42552,
+            "hash": "9ad3aecec9518f1c035d622dab7b134aa962c6496adfe3bb536d569cbb4bbede"
+        },
+        {
+            "type": "file",
+            "name": "media/people/schmidt.png",
+            "size": 98479,
+            "hash": "659fcf386ef01035402282da8b6a8bbaef4d5ac7e5e9682ab368a7dd6da974d6"
+        },
+        {
+            "type": "file",
+            "name": "media/people/sloane.jpg",
+            "size": 26811,
+            "hash": "7521bfa91d00cda5b3c35baafcc983f089faedbf392bb89fcf5e080824048361"
+        },
+        {
+            "type": "file",
+            "name": "media/people/soffer.jpg",
+            "size": 35139,
+            "hash": "e0fb4695cec1f3aadcb9cfdbbc95d2e7d7c6747a5f020bd10b04358d95dee24b"
+        },
+        {
+            "type": "file",
+            "name": "media/people/sparrow.jpg",
+            "size": 64501,
+            "hash": "25cd2bb62037a00d46404e6a2626d9c71901bc320d0a33220daaca6870fab0cf"
+        },
+        {
+            "type": "file",
+            "name": "media/people/spielman.jpg",
+            "size": 24386,
+            "hash": "1effb2f8d2813f74a2eab3c189b7aaea05176e2eb95413afa9184a10c4c6e671"
+        },
+        {
+            "type": "file",
+            "name": "media/people/stec.jpg",
+            "size": 90041,
+            "hash": "906fa0c648e6955f76e61cd4523e75eed87e48374e315faf4e74336a7c1d4f55"
+        },
+        {
+            "type": "file",
+            "name": "media/people/stuhler.png",
+            "size": 855469,
+            "hash": "b1283b7dd3a90bca1aca00eed214522fd3355d65fd6eba2c9973e6a8ee022732"
+        },
+        {
+            "type": "file",
+            "name": "media/people/suk.jpg",
+            "size": 835696,
+            "hash": "199b0667a06b65912de0b51821bab3fda773323a10ffac686e68ad5b3be39e8b"
+        },
+        {
+            "type": "file",
+            "name": "media/people/swarns.jpg",
+            "size": 347676,
+            "hash": "d58e9a6a0bed8d0e5a3887a879b40ee10ff98cd7e5ff824ac4fa364faf0cfe55"
+        },
+        {
+            "type": "file",
+            "name": "media/people/tawil-souri.jpg",
+            "size": 92612,
+            "hash": "8b0229a44da73140359b2f361c1a97621709629a6efdf5f1b7251317cf319a9f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/tsolakis.jpg",
+            "size": 15775,
+            "hash": "7b970d6d311fd5d1c6049948e6aa9ee97f32c7992d0e5ed793dd1502077960bc"
+        },
+        {
+            "type": "file",
+            "name": "media/people/veras.jpg",
+            "size": 390034,
+            "hash": "237da72ce46e87eff92b5ba5873698fc3348d08bda4a4cb3367ba3a53fc14ada"
+        },
+        {
+            "type": "file",
+            "name": "media/people/vinokour.jpg",
+            "size": 89641,
+            "hash": "3a675f39d1eb7f17c6c45f3a3440044875ad2b8f22cbdf005e53267437146a30"
+        },
+        {
+            "type": "file",
+            "name": "media/people/warsco.png",
+            "size": 952060,
+            "hash": "3685ccbdc6659a26bbbc74d29ae0485dcf764ea0cff74462a6780b14e698535a"
+        },
+        {
+            "type": "file",
+            "name": "media/people/weatherby.jpg",
+            "size": 56402,
+            "hash": "cd17a315fe649823aff15b74fb95a55882dbb50f2a0c482359d5e9e5ea093a67"
+        },
+        {
+            "type": "file",
+            "name": "media/people/whitley.jpg",
+            "size": 1097283,
+            "hash": "9e528fd605eb049903df85887de6af62a5cbf6e198c0bbba709d8959746a43e9"
+        },
+        {
+            "type": "file",
+            "name": "media/people/wolf.jpg",
+            "size": 91838,
+            "hash": "92e692a8475df442188b6ba1377226396db67f7cf30e8f9a5f37aead570c298d"
+        },
+        {
+            "type": "file",
+            "name": "media/people/wrisley.jpg",
+            "size": 11335,
+            "hash": "554670d4198833d6846ec5cc62f77142ae8fd1b7a408466ff2f5317e219f9529"
+        },
+        {
+            "type": "file",
+            "name": "media/people/zehngut-willits.jpg",
+            "size": 145679,
+            "hash": "e4df037b591b5057b030c5c91d7258af65e8fdd590298b6e408d316027f2c46b"
+        },
+        {
+            "type": "file",
+            "name": "media/people/zohar.png",
+            "size": 225677,
+            "hash": "79c35e01eabc4bfa0a3a156c80f4ea2ef59bc61a64dfbc7d9a7c555ccfba2fdd"
         },
         {
             "type": "file",
@@ -2209,15 +2209,15 @@
         },
         {
             "type": "file",
-            "name": "news/2023-09-14-global-cochlear-neh/index.html",
-            "size": 19748,
-            "hash": "2a60413ccf8b0a18991733f426eb612dfa9b3078b0e9eee79b773a5086bdc33b"
-        },
-        {
-            "type": "file",
             "name": "news/2023-09-14-migrants-neh/index.html",
             "size": 18899,
             "hash": "c00452772daab038692ea393d84d0a6b63cee313f3a2bd2791ffabb11fa3ade7"
+        },
+        {
+            "type": "file",
+            "name": "news/2023-09-14-global-cochlear-neh/index.html",
+            "size": 19748,
+            "hash": "2a60413ccf8b0a18991733f426eb612dfa9b3078b0e9eee79b773a5086bdc33b"
         },
         {
             "type": "file",
@@ -2347,15 +2347,15 @@
         },
         {
             "type": "file",
-            "name": "people/executive-committee/index.html",
-            "size": 22902,
-            "hash": "1972b7822fdc4284407d1bb7cb5149c6df3a93dbbcd98a73e4bd9c26a4206077"
-        },
-        {
-            "type": "file",
             "name": "people/graduate-student-fellows/index.html",
             "size": 50308,
             "hash": "1369bd961a34834251da12f24fc48551ae61332ebb67d2c8f4b2007559588087"
+        },
+        {
+            "type": "file",
+            "name": "people/executive-committee/index.html",
+            "size": 22902,
+            "hash": "1972b7822fdc4284407d1bb7cb5149c6df3a93dbbcd98a73e4bd9c26a4206077"
         },
         {
             "type": "file",
@@ -2365,57 +2365,57 @@
         },
         {
             "type": "file",
-            "name": "projects/aponte/index.html",
-            "size": 18925,
-            "hash": "a412293ce60f7311ee3a949e2ba9d27ebbb903394ef17cb20b8a1ddf763d00e8"
-        },
-        {
-            "type": "file",
             "name": "projects/all/index.html",
             "size": 89599,
             "hash": "91c0b1fefaee1d2080a7ff78d7955b4f9a63ffe5585c63f1f9df4dece631945a"
         },
         {
             "type": "file",
+            "name": "projects/aponte/index.html",
+            "size": 18925,
+            "hash": "d5a86809a78eca3ef91f3f50ae99cf811c9bbcb4a7a2abf5f08b96d92c1ecd52"
+        },
+        {
+            "type": "file",
             "name": "projects/archcus/index.html",
             "size": 19804,
-            "hash": "c6460c65dec69430b11fa8216872dfb694ccbc96cc147d2daf29e44c0bdc876c"
+            "hash": "ecd5204c892eb0604d07226c76cf2cf290d45d14f126556db154190ddea75061"
         },
         {
             "type": "file",
             "name": "projects/artists-archive/index.html",
             "size": 19891,
-            "hash": "6ea356eae9dd373b5a726f44979f30ce6f66cbb00e51e008fe67756616575593"
-        },
-        {
-            "type": "file",
-            "name": "projects/brown/index.html",
-            "size": 21213,
-            "hash": "83a60bce8f8cae08d80d059edef5510828019834a7a4b08316ab0d65e998acc1"
+            "hash": "930925d3d1b5a6f780dd8974f0d6a8bb813bc62ee90d7ec98bd578d0a45df0f8"
         },
         {
             "type": "file",
             "name": "projects/biblio-politica/index.html",
             "size": 20297,
-            "hash": "6d6ed37e9cac31325ff4ecb9a501a587ce4bb7d57c1e46fe53a48845879a9c1c"
+            "hash": "dae9188c00236e7c45abea0b3e8fb91550f65ca84433b52da148e24495a8c709"
         },
         {
             "type": "file",
             "name": "projects/chem-hum/index.html",
             "size": 19216,
-            "hash": "28148908ab5fd4a042bce822312f135360f2f57c65afe3f242ada02ced05bff2"
+            "hash": "0e97d74014733b51274d1e2251717afa24ed0bdf9dc6d4a915c455cede10070e"
+        },
+        {
+            "type": "file",
+            "name": "projects/brown/index.html",
+            "size": 21213,
+            "hash": "90d9db04c9cd56c9bcb718f72ad669154c2d7941c6d010f793f38fe98d14749d"
         },
         {
             "type": "file",
             "name": "projects/city-record/index.html",
             "size": 18287,
-            "hash": "fa06a82a9676a67c73912628d63178ae403586c91c67e5527b08241d120cb7c5"
+            "hash": "665508a41d8cf5b5b995a639c686be29dece54469eed7ebcd1ce3f69c9f1837e"
         },
         {
             "type": "file",
             "name": "projects/colonial-networks/index.html",
             "size": 19071,
-            "hash": "e00d92e16f51db478f90f0b2a85cdf9e342c200dba96e0911b083a8a082bab8e"
+            "hash": "44c96908efc56d9cd37d99b0c1c50f65cd472d25c778ca82f2ff87d5111fd960"
         },
         {
             "type": "file",
@@ -2427,37 +2427,37 @@
             "type": "file",
             "name": "projects/covid-collections/index.html",
             "size": 21195,
-            "hash": "de37199ceecd3ee1ba02fe3f54aca5ac29c505b64da3bbe1c8cfa3a2e849396e"
+            "hash": "c415299a9a35066a0ac12d6948360adaf09da45a0246f62f4963e3d6270f4596"
         },
         {
             "type": "file",
             "name": "projects/dental-tools/index.html",
             "size": 19360,
-            "hash": "1cd7731958fcea73cf045e612461fb98a1b03364bca6ce5062212e975dde33e6"
+            "hash": "1c7c81a6bd1bb074fb1cc173ae2defeebfc9893c6a4b184619d9f8d71f5de0a4"
         },
         {
             "type": "file",
             "name": "projects/digital-theory-lab/index.html",
             "size": 19997,
-            "hash": "cb755e70f6da561135d845aeefa8c76d0aa73ac235d72b50fc0632b3abd5378a"
-        },
-        {
-            "type": "file",
-            "name": "projects/disability-social-media/index.html",
-            "size": 20896,
-            "hash": "e8391b58a50e117972bae8fd0861fba72ecd3dea8e847674e0e23dbdfd67a486"
+            "hash": "7b41b37979f0323bc30e6fcf2e3fd096853dd4657a65fad855c273cdbda6be1c"
         },
         {
             "type": "file",
             "name": "projects/directories/index.html",
             "size": 19489,
-            "hash": "8f00d223deb99f162a2266bf8c616d52a7c1e21b8b289944876e271ddf036fb0"
+            "hash": "0bb42c1e06b14054e2683ee7f75071bdccc53b92149d732f1fbf2e5cdc77580b"
+        },
+        {
+            "type": "file",
+            "name": "projects/disability-social-media/index.html",
+            "size": 20896,
+            "hash": "423812ce8d0e99e221f053821236da5a37d2a454d0fcf6ce7eb92fbcff018b4a"
         },
         {
             "type": "file",
             "name": "projects/errant-americas/index.html",
             "size": 19195,
-            "hash": "c4cea2bf653e03ffb04e622f5b7f20daa353b81586c7b90f142b2e058050d923"
+            "hash": "c456b9729d40ca09685f60bd7299770003d661e8b4ee95e56d06d27cabc7cdb0"
         },
         {
             "type": "file",
@@ -2469,331 +2469,331 @@
             "type": "file",
             "name": "projects/g2021armoza/index.html",
             "size": 19687,
-            "hash": "0a931688e1cdc8aa60ccc0ea0411a9856bb26f546a1570243c68062bf3e436c6"
+            "hash": "60ebbd96be8e95da3ea8d2d71d9bee14cdb6550d5d57e21af7d2d3c9f5bf3582"
         },
         {
             "type": "file",
             "name": "projects/g2021busser/index.html",
             "size": 18525,
-            "hash": "1958ef95d0c9068dfff92ad8bbbea519f790172f70e20a0fe31a7f5cf8b7a4c4"
+            "hash": "e36417d83b047b0ca89a86c42d8be4ec30d38687b40fad8f123c88103eb961fe"
         },
         {
             "type": "file",
             "name": "projects/g2021joslyn/index.html",
             "size": 18401,
-            "hash": "de610b5599999f1f5b4cbfd8e576b0bb1d3bb51b9a6d1f54455dce62e7993d8f"
+            "hash": "2a16919c86491ecf799516eac3d2b07c74a92974dc5d0b5122f39def033e66bf"
         },
         {
             "type": "file",
             "name": "projects/g2021marshall/index.html",
             "size": 18523,
-            "hash": "cfe7f773a0cb3ebd485e24a9e1bec95359010fbefeda3a7884656fe7a991ac8b"
+            "hash": "d0aa861f020e086a7bcaddd1a6c533dfc0b01973d5895eb9b26cae924f53772d"
         },
         {
             "type": "file",
             "name": "projects/g2021ozkiral/index.html",
             "size": 19627,
-            "hash": "a512965fee609293cdfaa551ebcc88bb448857ef1adad8502e1345ebb22fbc9e"
+            "hash": "23988444e521bf4f2caf0824b497daf6ae547cd27feddb30111e38fbfc488540"
         },
         {
             "type": "file",
             "name": "projects/g2021petiwala/index.html",
             "size": 19310,
-            "hash": "34a16039095e6a21739c4fff510ae1d482e8ddfff582775dd472203961d913c2"
+            "hash": "4230c83a7afe66fd6f81d9b0af3d797e8c1b6eb0228fa65c62ff08c3e7954caa"
         },
         {
             "type": "file",
             "name": "projects/g2021smith/index.html",
             "size": 19318,
-            "hash": "cacd52747233ced10c43f7ce8dcade161b63f233005e40205114e5956cbf6af0"
+            "hash": "0117bbdb578f452a3a468616e64175ae5b43668a87d59679709eaf3f34439519"
         },
         {
             "type": "file",
             "name": "projects/g2021tsolakis/index.html",
             "size": 19254,
-            "hash": "40f39f1675d7d7e639ecc1dd014789734b6d8d25de45127d31b19892a3ff2bec"
+            "hash": "a51b195eb68247590c337a1a7de4b5b5f824106deb16f072be9e07caa2973cc9"
         },
         {
             "type": "file",
             "name": "projects/g2021zehngut-willits/index.html",
             "size": 19077,
-            "hash": "62e46707d75e9527411a9ee66a68c7ce2065d70ed78c34383aadbd2889ba2b0c"
+            "hash": "9f6a42da7a93095e37a09fbe89df298b30ffc22b78aa5a5b7a5f84b275ebf0d3"
         },
         {
             "type": "file",
             "name": "projects/g2022binyamini/index.html",
             "size": 19809,
-            "hash": "9c2bbd12103a63c984fbf0c8354425b67cd681cc06ab893844baf725219a2559"
+            "hash": "0842d18decdabccb65d9076765484dc1403fe92bb9bd0219ee928722e301a0af"
         },
         {
             "type": "file",
             "name": "projects/g2022caomhanach/index.html",
             "size": 19929,
-            "hash": "1e91267a819fab8cae381c42360beccd9d3bc7c12721ab19ae3c710f92150904"
+            "hash": "85a8b0844cc3fad4b2b3cf5692090810499740b24a97da4cc77a54898461be8d"
         },
         {
             "type": "file",
             "name": "projects/g2022chenel/index.html",
             "size": 20201,
-            "hash": "f6d1b339e8b040e26bda6fdb0f780c8eccf5173ec4922f96282e8d5c87f73cc3"
+            "hash": "62f63608ab278fa8e0510104067e269809467d8b96a87d9d897eb433868b8f9c"
         },
         {
             "type": "file",
             "name": "projects/g2022deniz/index.html",
             "size": 20132,
-            "hash": "b6d5f5895da3ad0ab2a23702242516fc541205f5ccbfcc31a21385e79500ad1f"
+            "hash": "e3b94964bb8772717285e694097ca653ff0cc0aa100c00d25593e04592407184"
         },
         {
             "type": "file",
             "name": "projects/g2022hatanaka/index.html",
             "size": 19434,
-            "hash": "9eb538f9641aea8adfd8f3b2ab891374aaa72042323c0380698835ecdaae0f5c"
+            "hash": "93d42dbce4dd6fdbb5109ee77108d4afa45690174effd6b67cce4d6822acbcf3"
         },
         {
             "type": "file",
             "name": "projects/g2022musto/index.html",
             "size": 20074,
-            "hash": "be582df5075c38b5b34d2e335e143fa44c759cc8ab767e4ae5e5232762aa52f4"
+            "hash": "c4252ccaca88fc5d8c44f53c6cca3b04bd5b41c4424370467c656a89585377da"
         },
         {
             "type": "file",
             "name": "projects/g2022rosenberg/index.html",
             "size": 20316,
-            "hash": "e5c75e64bb7c3647c77e093d700c0fe6b847fc4b6bd62654df398b168622acc8"
+            "hash": "cccf002cfe8db59312b1bab02340f327750f055fcf833481a74df7aa8bb0e783"
         },
         {
             "type": "file",
             "name": "projects/g2022stec/index.html",
             "size": 20140,
-            "hash": "4fd8b3971235992575e685691314f22383a32bf9ee1cdebd631c08a5d031579a"
+            "hash": "72bd8428c4b7ac47fd35978b4008bd70a9eab6cce730d910b5ac5458ac0963a1"
         },
         {
             "type": "file",
             "name": "projects/g2022stuhler/index.html",
             "size": 19533,
-            "hash": "62206f46f7d15414472c8c4f97e1cd726d8eea248e48e630c6a3972cc60ef70b"
+            "hash": "c58540b5decd9c0ad5dc0de2cd3643dc9b4ba5bc7769df21a65eaadfbe6aff81"
         },
         {
             "type": "file",
             "name": "projects/g2022zohar/index.html",
             "size": 20089,
-            "hash": "df42c8793e6db62eed4b11e5d58d37b6a78e818334b2871a9ca0bbc8d10fd6c3"
+            "hash": "7febcfe188b3bfb6c48d204e999cd34d424d4b1d2e6abb654fcdc1e9433200f6"
         },
         {
             "type": "file",
             "name": "projects/g2023alhenius/index.html",
             "size": 19745,
-            "hash": "949c126412eef30719ffe651865d26d3ad27cbb2f0abd89543c6ae07c16e3b98"
+            "hash": "0651531da08e59ef34428a47fb739a9a79ddb1a72a788203c20cd77a5d0da015"
         },
         {
             "type": "file",
             "name": "projects/g2023bunzl/index.html",
             "size": 20287,
-            "hash": "b808342766841dbb11a8266b42e9dda6497bb17ee394954d356d065f0c902efa"
+            "hash": "68e20e91d80d4a2a3aca5f0b8714e0b51930ebc475012a47e86832419c53e548"
         },
         {
             "type": "file",
             "name": "projects/g2023dang/index.html",
             "size": 19461,
-            "hash": "56dd4dce732f71dccdd85f248325caf8efdb6d327de366029c7783e105ecc018"
+            "hash": "7d1a73f304364753297f2693afacc032fb01854c2c3d15848181437ee5f8c1d1"
         },
         {
             "type": "file",
             "name": "projects/g2023hoque/index.html",
             "size": 19261,
-            "hash": "2f32ce8d193e6dba9227235bedee664d1095e67b47e98abff510e13edcefda40"
+            "hash": "47530250af3ebf8c6251340614a55126719ac364863dfd0abd22c854d043f9f4"
         },
         {
             "type": "file",
             "name": "projects/g2023janz/index.html",
             "size": 19417,
-            "hash": "3afd4a84fa4cc3c96d3f5e11c120c75ad5e57744d3e9e1c6f85ac82695edf39b"
+            "hash": "6acc4a510eb56976eff94a939efa3ea8ff26671001e97b7c3dad5de523d3ab00"
         },
         {
             "type": "file",
             "name": "projects/g2023kellogg/index.html",
             "size": 19556,
-            "hash": "94addac9345c5ade209ca0afecd5402c2ad8665a03d416dc8b0edd91cae77789"
+            "hash": "acc39381f19581cb86b63229a9b4176ff233922aa0345cba3e0f33b73264fab5"
         },
         {
             "type": "file",
             "name": "projects/g2023lam/index.html",
             "size": 19982,
-            "hash": "a4fd6a56a42381aa0e98664e0c20c37b2ca05e94ba3f5de6858539472b39faee"
+            "hash": "87cab17882729589c324ebec532b3562ce9b804e2c0eaa150f609009db4200e6"
         },
         {
             "type": "file",
             "name": "projects/g2023lehine/index.html",
             "size": 18414,
-            "hash": "cb9870d255818aecb358b9f7db54e72675f6f95629e2f8c31a12d8fb0ec969ae"
+            "hash": "64102ce822e04ad76f9c1bfc33d9a99a5bc8ce8143e90af32e1f34d402f18fb2"
         },
         {
             "type": "file",
             "name": "projects/g2023orsag/index.html",
             "size": 19747,
-            "hash": "866bfd056f7b09a900511384455512ec0d461e1fd8c5639b304764bfb68a8cc7"
+            "hash": "e2c9068b2368beef2a37c11aaefa4c259c1969c133b4addfa1ddda28667d84f6"
         },
         {
             "type": "file",
             "name": "projects/g2023warsco/index.html",
             "size": 19316,
-            "hash": "3ee942043198933c12ae2b4a7404fd8fd10faf2c3db7dd316d6e91a208026c44"
+            "hash": "393211e954866b0e208e87b058bcd266ac1745db8dbb1218060f3169e5f68b35"
         },
         {
             "type": "file",
             "name": "projects/g2024almenara/index.html",
             "size": 19500,
-            "hash": "6351920ab7d5f1e8ff6f8be216f448732a6ac03de0668f7ffedda21ac5646cdc"
+            "hash": "af59e90fb35c1c9a1e56a714a04348432a291f49f961d5cdaab2476d35cd0352"
         },
         {
             "type": "file",
             "name": "projects/g2024bliziotis/index.html",
             "size": 19992,
-            "hash": "9980f81b042d0428f72752fd7b0876feb3218fa249df0eed062ca43ed900f191"
+            "hash": "aece0c3673620af5e5f24552ea81be24f6dc44429fbab56ff2a114b8bc00c363"
         },
         {
             "type": "file",
             "name": "projects/g2024georgieva/index.html",
             "size": 19446,
-            "hash": "ec86ed1b03ff8d21bcb481e9d44cbd0d5923b92e9281c2a19527d4db879451d5"
+            "hash": "ebb95b25c43756cf2af76755dcaabb4baed1dc549e78def6aeff512493866f96"
         },
         {
             "type": "file",
             "name": "projects/g2024hassein/index.html",
             "size": 18731,
-            "hash": "8e87b7289e15a8973b02e739541f7adfbfb5874081a079ad458ac7b1e4dbcddf"
+            "hash": "bc4fcc89f1cf6752f3e8fdf9cadf0dc30c3d395d978cbefdc09c9d88496e6bca"
         },
         {
             "type": "file",
             "name": "projects/g2024joyner/index.html",
             "size": 19090,
-            "hash": "8847ecf103b868136c143abe97612b1cf8665dce49c46b5e8c57d236520ec81c"
-        },
-        {
-            "type": "file",
-            "name": "projects/g2024kulpa/index.html",
-            "size": 18778,
-            "hash": "f587496d21421fe6be11c97dfe1d9f5b10887e43576dd89c8dd971907aefc6ab"
+            "hash": "853db7e0ac052875957ead329b962c7114a3bac9375dec0b8af68241d3160848"
         },
         {
             "type": "file",
             "name": "projects/g2024landry/index.html",
             "size": 19869,
-            "hash": "42817825266297bb6cd84e6535927ab674da0f75580b927bfbeb80d09cd58222"
+            "hash": "28bc1215b34f572d103f7966ad51ac7f02636f5a537e8a47a25ae0782edfdd11"
+        },
+        {
+            "type": "file",
+            "name": "projects/g2024kulpa/index.html",
+            "size": 18778,
+            "hash": "3063037aa77bc6442b980f1048487a4bb2e48a77456c156ed6b41daa122cea2b"
         },
         {
             "type": "file",
             "name": "projects/g2024qu/index.html",
             "size": 19229,
-            "hash": "967773708233e6f1809f8c5a5c0e65aac3ca1e0c6e964f9822212c09625b8a45"
+            "hash": "543bcdd5814434ae31dd9375639eac65e028cbe2033c8732ffd45b6eebca7a09"
         },
         {
             "type": "file",
             "name": "projects/g2024veras/index.html",
             "size": 19390,
-            "hash": "8e9ae3b15430a0bb7d1d898c5ba04f739393dacaf96c07ebad1f7e70b7eec4ce"
+            "hash": "e344b0bfbd6fde5839305495c50c7048f5dc711e39df7c0a08cf7e8224665ce1"
         },
         {
             "type": "file",
             "name": "projects/g2024whitley/index.html",
             "size": 19811,
-            "hash": "912a91660ecb2d65269604d85fbe6979eb06b967a0c78c8771a63f0b22acc35b"
+            "hash": "e14f7f043a0b69d85588e440b05344a4f7216ae52bf0bb081ca776cac5b6f777"
         },
         {
             "type": "file",
             "name": "projects/gig/index.html",
             "size": 19521,
-            "hash": "e691fbc9fa7454986d270200a534feef184c5c563c783dc4a176c9be9ccc4d99"
+            "hash": "284b71f85a5682412ead5bb6ccc8f1516bd2820fe15d0d8b4e1b113bf34c6052"
         },
         {
             "type": "file",
             "name": "projects/hidden-legacies/index.html",
             "size": 18843,
-            "hash": "2054094102cf532fc7125f62dea5a3c42c2f2c110f6fae6e75bb99e472a9b184"
+            "hash": "4c250b62c80bce9a48dadf2a35158714f36028f467ff2a51fc4cad880bebb790"
         },
         {
             "type": "file",
             "name": "projects/hiring-ai/index.html",
             "size": 21026,
-            "hash": "d412e69a0192da36d363cf27215170e61bb2ed3cf2c356dfef73cd9bc1ad258a"
+            "hash": "d54a033eceb38de312907e2c9f0eacd8cea4f387c9355abbdeb8a654f5f0c599"
         },
         {
             "type": "file",
             "name": "projects/historic-fractures/index.html",
             "size": 20706,
-            "hash": "fdabd2366dd56431bbfe765460dd32ab136831eff1ae0c14138319e4e9c9fd83"
+            "hash": "5ced86b351f677d1a18660bb6d31752bd58671bf03699124fd410060c4c6772f"
         },
         {
             "type": "file",
             "name": "projects/jewish-cookbooks/index.html",
             "size": 19672,
-            "hash": "b28b896877e8796f718a6bd0ed99d421df29afab9ec989589a4c35d095d783ec"
+            "hash": "a92ba39c0129155ed5286c53480507014750c51fc32967cf347dca06b354b4b9"
         },
         {
             "type": "file",
             "name": "projects/kalinago/index.html",
             "size": 19013,
-            "hash": "0f08b44342debbb5854734b7bc5f2e3ff54e2587bccd0ed2ae42a9dbbfa3395f"
+            "hash": "7edd292d768977e525ad4bbc0ca8fb3ff5a1c3414c305c342ee3db1a27e80827"
         },
         {
             "type": "file",
             "name": "projects/library-journal/index.html",
             "size": 19210,
-            "hash": "f66647795b0555c6a8fcdf09e8033abae980547366a30565bfe538d301aae872"
+            "hash": "8db7c57833e4cbb27bb8f59c3438755ec16cf384476e8925319c3b6335e112cc"
         },
         {
             "type": "file",
             "name": "projects/maap/index.html",
             "size": 20031,
-            "hash": "501d4522f201368e35c8e76afdcf50b857510f41717da40630aa8a2002898022"
+            "hash": "5fdf392c63fef0adeb0d32ddd1cf288dca9c455242ea4b26fac708a34f9582f3"
         },
         {
             "type": "file",
             "name": "projects/migrants-state/index.html",
             "size": 25859,
-            "hash": "2cce9733aefa5071d6f59a944c97c0d29658f9cae4f0fae09d119171380c230e"
+            "hash": "a6088558d35c38eb25730069b341e118f9fb6aa95b16a23fd388974ae8de49ef"
         },
         {
             "type": "file",
             "name": "projects/moss/index.html",
             "size": 21697,
-            "hash": "b3dacc836bbfae06dd3271d844d3f972988d27ff6271855c348a98d33963daec"
+            "hash": "a4e1dcff50544155986a7b54cf9325706983282535c899602fffd307e31fe84b"
         },
         {
             "type": "file",
             "name": "projects/mutun/index.html",
             "size": 18910,
-            "hash": "9b3e7f232351705af473581aa92f95332eede85718ac0c8cdce0a84a2ad735e1"
+            "hash": "62447b4c71f1558c5031e3f172cf5d52607bb46e8ad363322804a1b6746a1f3c"
         },
         {
             "type": "file",
             "name": "projects/nlines/index.html",
             "size": 18890,
-            "hash": "7aa3e12b6fde6680df85be2eead85de06e7548b9f95666734d48408c4f3934df"
+            "hash": "1f824fe88b82d84c22f1c182fb7e5bb8e85bb6506de37faa5ee5acf9b28dfb88"
         },
         {
             "type": "file",
             "name": "projects/nyscapes/index.html",
             "size": 19948,
-            "hash": "7d3a71bada4082d94f6709b4dfa04357fc8a94a32a507b8aecc8d0cf9782d203"
+            "hash": "8e06ec0e4dbe015163280f6d005aa0b2b6e7300d3cba48f306d78370b725dc9d"
         },
         {
             "type": "file",
             "name": "projects/occupy/index.html",
             "size": 19421,
-            "hash": "2ef5d05e0df6878df880e6149f41fb915450cfcef11c5432ac394d1671cf054e"
+            "hash": "4bfc12477d516bb7dc4115c87ee86ef0fe7af14fdc74908890d9fb6f97a624c7"
         },
         {
             "type": "file",
             "name": "projects/pep/index.html",
             "size": 19594,
-            "hash": "9b14c4126823075626d52304152e444f77f342986419b5379436657411141713"
+            "hash": "186d7ba49a162173450ca91f2490bf5b2815774f2f41f4867fef2ceb0ebeabab"
         },
         {
             "type": "file",
             "name": "projects/sanger/index.html",
             "size": 19553,
-            "hash": "c9df86bc0e0f97592ad366de27c942780c9158d7c7e2b34d7438e706dc0ae72a"
+            "hash": "4f598b22c269efa40ea6d4d91f27a72b4dbe02d951634c6c884bd2da41e1a359"
         },
         {
             "type": "file",
@@ -2805,25 +2805,25 @@
             "type": "file",
             "name": "projects/sight-site-cite/index.html",
             "size": 21343,
-            "hash": "b4c4189dc98ab5e91c68df819b67124a84baf30f38b1d0dabaa37faa0d262dd5"
+            "hash": "ea0ef163527d83f2c7037087297ba8c4f06d056c88b8f95eda9ed1784f84d88f"
         },
         {
             "type": "file",
             "name": "projects/slave-insurance/index.html",
             "size": 20103,
-            "hash": "b66fef5e21e4687600c71017f137136b1f7b9cfdd35fdec885ec68580476d637"
+            "hash": "e7ab289da6ffbf987dd3899da6c6bacef23fc114f7c25bdca558c7057223a3a8"
         },
         {
             "type": "file",
             "name": "projects/soul-of-reason/index.html",
             "size": 21708,
-            "hash": "e90d98fe217816c65b960cab11e50f9a2a0cc67d4fef2232393388f8c71f90f7"
+            "hash": "e2e5b61f032886e06ca712e3761774231766c7898104c451a2abc147ff2fcbd2"
         },
         {
             "type": "file",
             "name": "projects/soviet-sphere/index.html",
             "size": 19080,
-            "hash": "6fb27bc6b3e72d6f0e8d4acb80c6239149a285585c5fc7bdeefec967eb13a756"
+            "hash": "0d43ab2838be805746e4a745c88cb6efd40e241d72d964cd7e34bb2a77b9e444"
         },
         {
             "type": "folder",
@@ -2871,6 +2871,10 @@
         },
         {
             "type": "folder",
+            "name": "projects/tag/indigenous-studies"
+        },
+        {
+            "type": "folder",
             "name": "projects/tag/interdisciplinary-studies"
         },
         {
@@ -2879,15 +2883,7 @@
         },
         {
             "type": "folder",
-            "name": "projects/tag/indigenous-studies"
-        },
-        {
-            "type": "folder",
             "name": "projects/tag/machine-learning"
-        },
-        {
-            "type": "folder",
-            "name": "projects/tag/making"
         },
         {
             "type": "folder",
@@ -2900,6 +2896,10 @@
         {
             "type": "folder",
             "name": "projects/tag/oral-history"
+        },
+        {
+            "type": "folder",
+            "name": "projects/tag/making"
         },
         {
             "type": "folder",
@@ -2955,25 +2955,25 @@
             "type": "file",
             "name": "projects/turkish-music/index.html",
             "size": 18857,
-            "hash": "c61888b5d9ed2ec8b8a0062de343efe9d63da7fe269fac3c89d2d0b2c92f1933"
+            "hash": "aca371363e4d2a262736472164ae95c3cc6b333aad8b7537ef3ff36c5d0e0648"
         },
         {
             "type": "file",
             "name": "projects/wax/index.html",
             "size": 19128,
-            "hash": "65e69f184529bb17fdbd8adf86e5adfde452d52442b5a001c0c5da80596c9547"
+            "hash": "88ed110c54c5626f5f98a9e3b043a2908120656668454f2d103479c19ba7a35c"
         },
         {
             "type": "file",
             "name": "projects/wikimedians/index.html",
             "size": 20990,
-            "hash": "3da12c2ff22e1819d341e7e5f80361679471e590a52689af9b8362095c3baeec"
+            "hash": "dc288f033b80ff47c39c7713918dfeea7a39beafef5add6510282ef39bbae5e5"
         },
         {
             "type": "file",
             "name": "projects/zinecat/index.html",
             "size": 20187,
-            "hash": "2339d5e1cf2b16a1550f4255673605bf00f27f3d321701e3ff305fdd6ce545db"
+            "hash": "a87b91c72f5ebed0a897ee11a5da11adb69cf7f2b36e9f5ab7783960599426b5"
         },
         {
             "type": "file",
@@ -3007,21 +3007,15 @@
         },
         {
             "type": "file",
-            "name": "assets/images/banners/projects.png",
-            "size": 493655,
-            "hash": "760766a92f3db6878cf528e0fe6973244f0b7104836b1a1a6243a80c1f2f551f"
-        },
-        {
-            "type": "file",
-            "name": "assets/images/banners/resources.png",
-            "size": 334226,
-            "hash": "842e875e837b8d9ef603f3f08f8840ed03240edb3dfeb66bb5a54839eae9b4e6"
-        },
-        {
-            "type": "file",
             "name": "assets/images/banners/people.png",
             "size": 446237,
             "hash": "b83c6f9fef45b636211c2cb6dffd8d096ef0fa9940e76c613b84dd34747de1b8"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/banners/projects.png",
+            "size": 493655,
+            "hash": "760766a92f3db6878cf528e0fe6973244f0b7104836b1a1a6243a80c1f2f551f"
         },
         {
             "type": "file",
@@ -3031,9 +3025,21 @@
         },
         {
             "type": "file",
+            "name": "assets/images/banners/resources.png",
+            "size": 334226,
+            "hash": "842e875e837b8d9ef603f3f08f8840ed03240edb3dfeb66bb5a54839eae9b4e6"
+        },
+        {
+            "type": "file",
             "name": "assets/images/defaults/news.png",
             "size": 49956,
             "hash": "58c60149581a51d3f6eb15310020eb2e72b43b322b32863e99cdb39aa23ca0b2"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/defaults/people.png",
+            "size": 94318,
+            "hash": "c353afa46a526d2d67e2d48b1ff5228327f5216a3d79eb00634470c777a06f6b"
         },
         {
             "type": "file",
@@ -3046,12 +3052,6 @@
             "name": "assets/images/icons/bibliography.png",
             "size": 91404,
             "hash": "09ad9b9741ca7bc2a14c653e70633646d2c73bf8ba6094c5a3457d1b4672ef51"
-        },
-        {
-            "type": "file",
-            "name": "assets/images/defaults/people.png",
-            "size": 94318,
-            "hash": "c353afa46a526d2d67e2d48b1ff5228327f5216a3d79eb00634470c777a06f6b"
         },
         {
             "type": "file",
@@ -3117,181 +3117,181 @@
             "type": "file",
             "name": "projects/tag/AI/index.html",
             "size": 20725,
-            "hash": "cd1844aa61e740d7b5f03a87efc85dc0f8c594969091eb5887f33c22bd4f7f57"
+            "hash": "0e9a3cdddf35fd174f4ecec9f8a6d8ea6e223f0ff2c777e62c3fe8c13fafd98a"
         },
         {
             "type": "file",
             "name": "projects/tag/accessibility/index.html",
             "size": 18214,
-            "hash": "df944244789b8136b0f3ca2efa30367a136bd24a9a8d8cff544f3c08b5ba4524"
+            "hash": "4123cc3a6cc3a2cef77629740181d0d35e6dbc1c36f70a8e000f1d50364edfa7"
         },
         {
             "type": "file",
             "name": "projects/tag/archive/index.html",
             "size": 17202,
-            "hash": "aa97567dc320336410a7f27a8676356587fd1a530928525463ec821fea984c00"
+            "hash": "7b8947db06bcc4329650408943436d5d9fdcbf08c5cdb133bdde94e3db1051a6"
         },
         {
             "type": "file",
             "name": "projects/tag/computational-culture/index.html",
             "size": 17460,
-            "hash": "7e9b9505d17d1701b0ce859a57150616a11120e4a440727bd325bc180538aea5"
+            "hash": "7b6ea379829d93e6d7fac580e057159153a894d2e33c4b79b4675654d79dbfe3"
         },
         {
             "type": "file",
             "name": "projects/tag/data-visualization/index.html",
             "size": 17353,
-            "hash": "3b45bcfc614ac413efcac2fb73288040f7d081fb79d060a1336bb0d4e9312e15"
+            "hash": "a897594100870cbc0c0604b88e01f73b61043aabefc6efc720b8f5b724591ddc"
         },
         {
             "type": "file",
             "name": "projects/tag/dataset/index.html",
             "size": 20275,
-            "hash": "95c17818f8d52067db660ec9b8fe63607a8bce770be8d3dce64c199b822c722f"
+            "hash": "9cc854e1f1304b0a9224c9d038abbf8e2d7a675365928f796f8ee97d6749a379"
         },
         {
             "type": "file",
             "name": "projects/tag/digital-edition/index.html",
             "size": 17152,
-            "hash": "6ec804abfc2e0d3c804ea9f3800bd11cd3dc6ed531b950f912296a27771cf714"
+            "hash": "6d051a5c5dbf321fe534a93577e381001276719bcfce6a61fffc35d02405d748"
         },
         {
             "type": "file",
             "name": "projects/tag/digital-theory/index.html",
             "size": 17402,
-            "hash": "a25beccfb74c999ebe6f1aa1adad490f4ed06afc547cd00e6e97a641732badd6"
+            "hash": "3995e89cae4ac88ab99c7d79f649d4335d5584e3a29a696a4750adba79deeba0"
         },
         {
             "type": "file",
             "name": "projects/tag/digitization/index.html",
             "size": 19279,
-            "hash": "bfd78dbd4939e9be1c25acb3e5b6fc6cce4665ded407f6a6ef874a9cb2885cc1"
+            "hash": "778d60b578ba8b40bfcf311edd9c26b6a53c8cbcecd4ecc50270bc1a1c5306ab"
         },
         {
             "type": "file",
             "name": "projects/tag/environmental-humanities/index.html",
             "size": 18383,
-            "hash": "c13ff4ac888ee8ebb9a71a9d141f25714dc47f14c42296ad33ce4a5c210c6454"
+            "hash": "6a6c0d413940a23ad5740aec08a53fb9b9f6d5ef40db580336fab60eb35d2773"
         },
         {
             "type": "file",
             "name": "projects/tag/exhibition/index.html",
             "size": 29350,
-            "hash": "d12b2a5ee5317c3c0ded450f5a2c97a5690e76230138b19d1fcac4518aa1e77d"
-        },
-        {
-            "type": "file",
-            "name": "projects/tag/interdisciplinary-studies/index.html",
-            "size": 17292,
-            "hash": "675fadc7ed139c33225819ca8174dcdc74ad3fbe0f8f3663e4577b4c877c5199"
-        },
-        {
-            "type": "file",
-            "name": "projects/tag/linked-open-data/index.html",
-            "size": 17222,
-            "hash": "fad060cf2400e4a084c1b0b6f614a8b4d86287d064a78941c62346dfde238bbc"
+            "hash": "02cb0fd4af4c9680ee18c607a9cdbda0669b0917da6e115c531a30a3c4bf2e9e"
         },
         {
             "type": "file",
             "name": "projects/tag/indigenous-studies/index.html",
             "size": 17324,
-            "hash": "7cc0cd0e6ed9ada566632b49457ba4fb292d771a6d569826814665ffee5473e7"
+            "hash": "0e4bbab19cd22ee3ccde26434f51943e14795170446981083c19ec200844adf9"
+        },
+        {
+            "type": "file",
+            "name": "projects/tag/interdisciplinary-studies/index.html",
+            "size": 17292,
+            "hash": "519deeb34e5cec5382b5a6b9f137eb19c6ffa818e70ea3951927b9f43396c9f9"
+        },
+        {
+            "type": "file",
+            "name": "projects/tag/linked-open-data/index.html",
+            "size": 17222,
+            "hash": "2b14c359fc03f44f4354238534fc69d9c8dbe07692d65d4676017814d00bfcdf"
         },
         {
             "type": "file",
             "name": "projects/tag/machine-learning/index.html",
             "size": 20851,
-            "hash": "8f875127a6ac8e73dbd8655c7b1d08be035ea980a469f6855ed60a3a7e3639c0"
-        },
-        {
-            "type": "file",
-            "name": "projects/tag/making/index.html",
-            "size": 17222,
-            "hash": "39bb3487d8d5764a5a8e9a7431a3162b8b1e1ef015124341a35846dbd078f341"
+            "hash": "4ed11dcf1f8a69e87e7afd828c1f253bd965f6b908115059e852444b85647bb4"
         },
         {
             "type": "file",
             "name": "projects/tag/medical-humanities/index.html",
             "size": 18364,
-            "hash": "82f80034da0ab0318e3a1c7aec23661ecca6ce74c6153f7e2ae2d82c2f2f4baa"
+            "hash": "f09e4bcea85f9bce297eae269751e0046282139159e2a4ea496e2dab0f754d7d"
         },
         {
             "type": "file",
             "name": "projects/tag/multilingual-dh/index.html",
             "size": 17297,
-            "hash": "2458e55464e9b4213fcb717946a55faecafe954a58964dbdb9f68a810b115f50"
+            "hash": "36bf125c78aaa9ecb5389c73eca355be7266496f2cecfb0e8b2ebb9c4747f2e3"
         },
         {
             "type": "file",
             "name": "projects/tag/oral-history/index.html",
             "size": 17280,
-            "hash": "33993b46448f31c74a0ddc1fbce658cc9cb273cab21486061f60484485bb1a2d"
+            "hash": "d63658383ea98a550ab1b6376be46f76e02a27a361d48c66b5886b061938e2ca"
+        },
+        {
+            "type": "file",
+            "name": "projects/tag/making/index.html",
+            "size": 17222,
+            "hash": "242a7ac02e4238977cdfd818ec60b6c1076fb3815b02de9d30db29d8804fca15"
         },
         {
             "type": "file",
             "name": "projects/tag/pedagogy/index.html",
             "size": 17230,
-            "hash": "df54261a3b89fd42d3993647bc4fdb03e7dd3f5b4ea45632c1a9154565db7044"
+            "hash": "01525a2d8d3bf34232c55f43db49a839a14008d03d9dace22da0fbae30ca77aa"
         },
         {
             "type": "file",
             "name": "projects/tag/public-humanities/index.html",
             "size": 39974,
-            "hash": "d718c07fa63b62fdd54d10f8ac9e87019e16e5af15b944a089ad2fc69c0a3d4a"
+            "hash": "91995d730f55fe8eee30d7edb3a57dad15106aeef6385b4197998e6f4b21cbb0"
         },
         {
             "type": "file",
             "name": "projects/tag/science-studies/index.html",
             "size": 17290,
-            "hash": "5ac7c1a915f4b31f8ca47be1cd4e941067bb9f1a83a2e7177ca5c3b433f51c47"
+            "hash": "3806c8f2b15039fe039e829010d0374b4231090baf6da5d630082649e1ad232f"
         },
         {
             "type": "file",
             "name": "projects/tag/social-media/index.html",
             "size": 17279,
-            "hash": "66c5f819a4977ea1223f3acc939d7463d4b9196b527bf0d8a4cd8f0d1edd72ec"
+            "hash": "0d64bd49825a84253cc856d7f610afc362055043565a6795bb02262c55ace54e"
         },
         {
             "type": "file",
             "name": "projects/tag/software/index.html",
             "size": 17176,
-            "hash": "680966f9f460412058157bf78eac38edd1ac090fca95208cd07e8307cac0e101"
+            "hash": "c577eefec017d32c49fa1ae291a42e5c1838619ddb06351a4b22d6a0c1e9f4bf"
         },
         {
             "type": "file",
             "name": "projects/tag/sound-studies/index.html",
             "size": 17143,
-            "hash": "19092858229342ae636447f4b6fc66b6e5d0eb47358a69a6be73f35a3f3ce312"
+            "hash": "efffa1d3f0f8bef467be982b2d50f2eb78c5f4b80a350e47c8ae499f3fdfe1b4"
         },
         {
             "type": "file",
             "name": "projects/tag/spatial-humanities/index.html",
             "size": 29595,
-            "hash": "05d949a94e2a77fddfd997b8218cccc702e57160b7e332615571fe22d06345d2"
+            "hash": "f6eb30319ffd708e2631bf9560a0f6427e816cb48cd7554b94844e016f35a734"
         },
         {
             "type": "file",
             "name": "projects/tag/technology-studies/index.html",
             "size": 18105,
-            "hash": "4d6e83007a0404d2d565bef57ce86e6996d65e36548c8be751ae00e61d047d07"
+            "hash": "130242c452b068d103374b52594c0d1bcf906972a26d5ce92bc8e63f47d59c3f"
         },
         {
             "type": "file",
             "name": "projects/tag/text-analysis/index.html",
             "size": 27638,
-            "hash": "b284c0c9d4fc90872c19016a7b892afd749d926d27bc6fc3bcb9b23c5ef357e6"
+            "hash": "99c37285c8429c6e1980888c077f520a935f64b815916b77838dfe841820538b"
         },
         {
             "type": "file",
             "name": "projects/tag/urban-humanities/index.html",
             "size": 20178,
-            "hash": "598083dd8f72f58227dc5dc16a3e9037e0d488a1188ad2a9f4e6031ed6083922"
+            "hash": "35892837646519512eae290d61fb1c2710bd4865d429bcfc570ae87eb1641921"
         },
         {
             "type": "file",
             "name": "projects/tag/visual-culture/index.html",
             "size": 20691,
-            "hash": "86a0591911e053aea1af2656bb9c9c10c813646f07651f85d62b90897af4a518"
+            "hash": "433f746382c61e4ffe38339ff2590f31f449c849f441c03d724d6a4c582eea4f"
         }
     ]
 }
