@@ -25,15 +25,6 @@ jobs:
         run: bundle exec rake site:test
       - name: build site
         run: bundle exec jekyll build
-      - name: ftp deploy to host
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{secrets.FTP_PROD_SERVER}}
-          username: ${{secrets.FTP_PROD_USER}}
-          password: ${{secrets.FTP_PROD_PW}}
-          protocol: ftps
-          state-name: ./.ftp-deploy-sync-state.json
-          local-dir: ./_site/
       - name: gh-deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
