@@ -53,6 +53,3 @@ To apply, please use the link below. You will be asked to provide the following 
 - **NYU transcript** (official or unofficial copies accepted).
 - **Letter of support** from advisor or DGS indicating that they are aware of the student’s application. (Not a recommendation letter).
 
-**For More Information:**
-
-Please address any questions or requests for consultations are available to <dh.help@nyu.edu>.

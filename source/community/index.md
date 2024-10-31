@@ -37,9 +37,6 @@ everyone:
     url: '/resources'
     description: >
       There are many services available all across NYU to support and advance you project. Check out our <a href="/resources">Resources page</a> to browse a list of them.
-  - title: Contact Us
-    description: >
-      Have more general question or idea? You can reach out to dh.help@nyu.edu.
 grad_students:
   - title: Apply for an NYU DH Graduate Fellowship
     url: '/funding/grad-fellowships'

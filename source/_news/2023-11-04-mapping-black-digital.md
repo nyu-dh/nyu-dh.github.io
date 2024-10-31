@@ -20,6 +20,6 @@ We highly recommend exploring their map and database, where you'll find several 
 
 - [Raising the Volume! Amplifying the *Soul of Reason*](https://specialcollections.hosting.nyu.edu/projects/soul-of-reason/) was a cross-departmental initiative at NYU led by Janet Bunde, Alexandra Provo, Jasmine Sykes-Kunk, Marii Nyrop, and Steven Fullwood. Aiming to transform a historically and culturally rich radio program on Black and Latino culture into a collaboratively curated collection dataset, the project team hosted a series of transcribe-a-thon events, supported a data science project using topic modelling techniques, and contributed to Wikidata through an [wiki edit-a-thon event](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/AfroCROWD/NYU_Soul_of_Reason). This project was supported by an [NYU DH Seed Grant](/funding/seed-grants/).
 
-If you would like to add a project to the map, the Mapping the Black Digital and Public Humanities team provides a form on their [contact page](https://sites.lib.jmu.edu/mappingbdph/contact/). Let us know (dh.help at nyu dot edu) if you do!
+If you would like to add a project to the map, the Mapping the Black Digital and Public Humanities team provides a form on their [contact page](https://sites.lib.jmu.edu/mappingbdph/contact/).
 
 [![Screenshot from Mapping the Black Digital and Public Humanities](/media/news/mapping-black-dh.png)](https://sites.lib.jmu.edu/mappingbdph/)

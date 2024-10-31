@@ -23,6 +23,6 @@ The Zoom is https://nyu.zoom.us/j/91305654842.
 
 We welcome any questions about your project proposals and/or the summer program.
 
-The deadline for summer fellowships is March 6, 2022. You can also direct any questions to dh.help@nyu.edu.
+The deadline for summer fellowships is March 6, 2022. 
 
 !['What could you do with a Digital Humanities Graduate Student Summer Fellowship?' floats above a sand castle laptop, graph, book and map beside a rainbow sun umbrella and beach ball.](/media/news/what_could_you_do.jpeg)

@@ -21,7 +21,7 @@ These grants are intended to fund the initial development of new research projec
 
 For more information (and to apply), visit <a target="_none" href="https://nyuhumanities.org/opportunity/digital-humanities-seed-grants/">NYU Center for Humanities</a>.
 
-For application questions, contact dh.help@nyu.edu. You can also browse [past successful projects](/projects/seed-grants/) on our own website to get inspired.
+You can also browse [past successful projects](/projects/seed-grants/) on our own website to get inspired.
 
 We highly encourage you to attend one of our DH Seed Grant grant workshops (dates and registration links below).
 
@@ -42,7 +42,7 @@ NYU Center for the Humanities, NYU Libraries, and NYU Research and Instructional
 
 For more information (and to apply) visit, <a target="_none" href="https://nyuhumanities.org/opportunity/digital-humanities-graduate-student-summer-fellowships/">NYU Center for the Humanities</a>.
 
-For application questions, contact dh.help@nyu.edu. You can also browse [past successful projects](/projects/fellowships/) on our own website to get inspired.
+You can also browse [past successful projects](/projects/fellowships/) on our own website to get inspired.
 
 We highly encourage you to attend one of our Graduate Student Fellowship info sessions (dates and registration links below).
 

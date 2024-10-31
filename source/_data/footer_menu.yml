@@ -1,7 +1,5 @@
 columns:
   "Contact":
-    - name: Contact Us
-      link: 'mailto:dh.help@nyu.edu'
     - name: Mailing List
       link: 'https://groups.google.com/a/nyu.edu/g/nyudh-group?pli=1'
     - name: Slack Channel

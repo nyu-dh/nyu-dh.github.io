@@ -23,9 +23,6 @@ faq:
     a: |
       The Digital Humanities Seed Grants are intended to provide start-up funding for projects in their initial stages. While projects that have already received external funding are likely beyond the initial stages and would not be appropriate for a Seed Grant, projects that have received internal funding may be eligible if they are still in a preliminary phase.
   "Applications FAQ":
-  - q: "Can I talk to someone about my application in advance?"
-    a: |
-      Questions about project viability and scoping can be directed to [dh.help@nyu.edu](mailto:dh.help@nyu.edu).
   - q: "How long should the application be?"
     a: |
       Proposals should not exceed three pages, plus a single-page budget summary, and any necessary letters of commitment.
@@ -50,13 +47,13 @@ faq:
   "Budget FAQ":
   - q: "Can I see a sample/model budget?"
     a: |
-      We recommend that you model your budget on the grants that you aim to apply to. For instance, you could check out the [budget recommendations from the Office of Digital Humanities at the National Endowment for the Humanities](https://www.neh.gov/blog/planning-your-dh-institute-outcomes-and-budgets). The National Institute of Health (NIH) also provides resources to [developing your budget](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/develop-your-budget.htm). We also encourage you to check out NYU's [Office of Sponsored Programs tools for proposal development](https://www.nyu.edu/research/resources-and-support-offices/sponsored-programs/proposal-development.html) or contact [dh.help@nyu.edu](mailto:dh.help@nyu.edu) with specific questions.
+      We recommend that you model your budget on the grants that you aim to apply to. For instance, you could check out the [budget recommendations from the Office of Digital Humanities at the National Endowment for the Humanities](https://www.neh.gov/blog/planning-your-dh-institute-outcomes-and-budgets). The National Institute of Health (NIH) also provides resources to [developing your budget](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/develop-your-budget.htm). We also encourage you to check out NYU's [Office of Sponsored Programs tools for proposal development](https://www.nyu.edu/research/resources-and-support-offices/sponsored-programs/proposal-development.html).
   - q: "How much money can I ask for?"
     a: |
       Grants may range in size between $5,000 and $20,000. Collaborative projects are encouraged, but must include at least one NYU faculty member in the humanities. Final awards may be altered at the recommendation of the evaluation committee.
   - q: "What sort of expenses are allowed?"
     a: |
-      Permissible expenses include student stipends, course buy-outs, partial summer salary, and technical resources such as specific equipment, server time, or hosting. Questions regarding specific expenses can be sent to [dh.help@nyu.edu](mailto:dh.help@nyu.edu).
+      Permissible expenses include student stipends, course buy-outs, partial summer salary, and technical resources such as specific equipment, server time, or hosting.
   - q: "How do I hire a student?"
     a: |
       Check with the NYU resources for [hiring student workers](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/employers/hiring-student-employees.html). For many departments, NYU facilitates student hiring with the [Handshake](https://nyu.joinhandshake.com/login) web application. If your department does not have its own Handshake account, ask your department administrator about best practices.

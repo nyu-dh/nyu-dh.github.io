@@ -11,13 +11,6 @@ quick_links:
   - label: 'Reading + Resource Lists'
     link: '#bibs-n-guides'
 consultations:
-  - title: Digital Humanities
-    description: >
-      Email dh.help@nyu.edu for help with project design and scoping, with questions about seed grants, curricula, or graduate summer fellowships, or for advice on applying to external grants.
-  - title: Digital Scholarship Services (DSS)
-    url: 'https://library.nyu.edu/departments/digital-scholarship-services/'
-    description: >
-      We can help with digital publishing and web hosting as well as project design and scoping. 
   - title: Data Services
     url: 'https://guides.nyu.edu/dataservices'
     description: >
@@ -26,6 +19,10 @@ consultations:
     url: 'https://wp.nyu.edu/fas-edtech/'
     description: >
       We help faculty of Arts & Science integrate digital elements and methods into their teaching.
+  - title: Digital Scholarship Services (DSS)
+    url: 'https://library.nyu.edu/departments/digital-scholarship-services/'
+    description: >
+      We can help with digital publishing and web hosting as well as project design and scoping. 
   - title: High Performance Computing (HPC)
     url: 'https://www.nyu.edu/life/information-technology/research-computing-services/high-performance-computing.html'
     description: >

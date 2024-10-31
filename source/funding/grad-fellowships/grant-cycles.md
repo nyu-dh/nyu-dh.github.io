@@ -10,7 +10,7 @@ breadcrumbs:
 This annual program provides summer funding for currently enrolled NYU Graduate Students.
 
 ### Schedule
-* December: CFP circulated. Email dh.help@nyu.edu with questions.
+* December: CFP circulated. 
 * March: Applications due.
 * March: Review panel meets for evaluation period.
 * April: Decisions announced.

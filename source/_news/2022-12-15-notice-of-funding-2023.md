@@ -18,7 +18,7 @@ The Center for the Humanities, in partnership with the NYU Libraries and NYU Res
 
 For more info (and to apply), visit <a target="_none" href="https://nyuhumanities.org/opportunity/digital-humanities-seed-grants">NYU Center for Humanities</a>.
 
-For application questions, contact dh.help@nyu.edu. You can also browse [past successful projects](/projects/seed-grants/) on our own website to get inspired.
+You can also browse [past successful projects](/projects/seed-grants/) on our own website to get inspired.
 
 ---
 
@@ -30,4 +30,4 @@ The Center for the Humanities, in partnership with the NYU Libraries and NYU Res
 
 For more info (and to apply) visit, <a target="_none" href="https://nyuhumanities.org/opportunity/digital-humanities-graduate-student-summer-fellowships">NYU Center for Humanities</a>.
 
-For application questions, contact dh.help@nyu.edu. You can also browse [past successful projects](/projects/fellowships/) on our own website to get inspired.
+You can also browse [past successful projects](/projects/fellowships/) on our own website to get inspired.

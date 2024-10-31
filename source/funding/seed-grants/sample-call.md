@@ -84,7 +84,3 @@ _Proposals should not exceed three pages_, plus a single-page budget summary, an
 - **Single page budget**. Grants may range in size between $5,000 and $20,000. Permissible expenses include student stipends, course buy-outs, partial summer salary, and specific equipment, server time, or hosting. Personal computer purchases are not permitted. Final awards may be altered at the recommendation of the evaluation committee
 
 - **LETTERS OF COMMITMENT**: Faculty requesting a course release must include a letter from their department chair (or, for Gallatin applicants, dean) indicating the department’s willingness to free the grantee from teaching assignments. It should specify the proposed course release and resulting course assignment and describe how the department will address the impact, if any, on the department’s undergraduate program.
-
-**For More Information:**
-
-Please address any questions or requests for consultations are available to <dh.help@nyu.edu>.
