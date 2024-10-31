@@ -1,13 +1,13 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1729107534867,
+    "generatedTime": 1730398078767,
     "data": [
         {
             "type": "file",
             "name": "404.html",
-            "size": 15761,
-            "hash": "77464f5bf2a3fec0087c7cf249f8d80364f045e364e2bb2ea0ae3c30c3f6949f"
+            "size": 15607,
+            "hash": "6186127abe8cfd674975e5f78b21cd06b15e657c8f3f56aa145ecf2ed26e7282"
         },
         {
             "type": "folder",
@@ -28,8 +28,8 @@
         {
             "type": "file",
             "name": "index.html",
-            "size": 73935,
-            "hash": "d7723b94ed8ec0ef2c0387f3de5a9921268eeb37ea60cadaba9d717da3aade30"
+            "size": 73781,
+            "hash": "6c9d2b33705459faa1701c7e61275fd101aa40ac811b054988dcce08901823fb"
         },
         {
             "type": "folder",
@@ -61,7 +61,7 @@
             "type": "file",
             "name": "sitemap.xml",
             "size": 22846,
-            "hash": "6fd1e2ad599832af5bd56393e846f080059fd23f04ec63aaf4ff9bc439befc48"
+            "hash": "d75bef4cd56c5510ad4ed5fe369ef33ac4bc80063988e81cb7ed2302afc039ac"
         },
         {
             "type": "folder",
@@ -102,8 +102,8 @@
         {
             "type": "file",
             "name": "community/index.html",
-            "size": 24618,
-            "hash": "a58f88a7423ab8ddee5e9d5bae5423acf86484377e97981d66ca14dcbc69522e"
+            "size": 24087,
+            "hash": "bd16c74b14406f94221f607fbeb6023f6765dfc31f8371f9f4661591ef7915e9"
         },
         {
             "type": "folder",
@@ -159,11 +159,11 @@
         },
         {
             "type": "folder",
-            "name": "news/2021-12-15-notice-of-funding"
+            "name": "news/2021-12-15-spring-2022-classes"
         },
         {
             "type": "folder",
-            "name": "news/2021-12-15-spring-2022-classes"
+            "name": "news/2021-12-15-notice-of-funding"
         },
         {
             "type": "folder",
@@ -323,11 +323,11 @@
         },
         {
             "type": "folder",
-            "name": "news/announcements"
+            "name": "news/2024-06-05-manifold-spotlight-gordon"
         },
         {
             "type": "folder",
-            "name": "news/2024-06-05-manifold-spotlight-gordon"
+            "name": "news/announcements"
         },
         {
             "type": "folder",
@@ -340,8 +340,8 @@
         {
             "type": "file",
             "name": "news/index.html",
-            "size": 65726,
-            "hash": "d29c4c8afca2a21d21012b1f736f73b940f9d814af9b6f6ac3d44ae0265cbbfe"
+            "size": 65572,
+            "hash": "1482491309cc95eea7dac19c5fb4f37630692eb13b7a4c82b7bb092b42038528"
         },
         {
             "type": "folder",
@@ -370,8 +370,8 @@
         {
             "type": "file",
             "name": "people/index.html",
-            "size": 35230,
-            "hash": "3b3cb690e2a1fdef994766b2b67e4cdd7033ac7ec417bbedab155fc9ddf8d277"
+            "size": 35076,
+            "hash": "954b0da0c228faf3c124f7c27f658c2f45ff3f6918f8dbdcdeaa9a862d3c341c"
         },
         {
             "type": "folder",
@@ -379,11 +379,11 @@
         },
         {
             "type": "folder",
-            "name": "projects/all"
+            "name": "projects/aponte"
         },
         {
             "type": "folder",
-            "name": "projects/aponte"
+            "name": "projects/all"
         },
         {
             "type": "folder",
@@ -395,11 +395,11 @@
         },
         {
             "type": "folder",
-            "name": "projects/biblio-politica"
+            "name": "projects/brown"
         },
         {
             "type": "folder",
-            "name": "projects/brown"
+            "name": "projects/biblio-politica"
         },
         {
             "type": "folder",
@@ -620,8 +620,8 @@
         {
             "type": "file",
             "name": "projects/index.html",
-            "size": 103335,
-            "hash": "560ebc9e1fa8d602a5738a36bb6485b1970d37fec827889ba27e737e06187b57"
+            "size": 103181,
+            "hash": "76934bbf885c4826b3e33de5de4b5120b9754e79769b631230277e3ace4c31e3"
         },
         {
             "type": "folder",
@@ -718,20 +718,20 @@
         {
             "type": "file",
             "name": "resources/index.html",
-            "size": 29701,
-            "hash": "97cc4b8d6748a703972cdcac9d0201c1d63f769929790c7cc6f87c70d327d1cd"
-        },
-        {
-            "type": "file",
-            "name": "assets/css/app.css",
-            "size": 190446,
-            "hash": "f20e1f77a0a8755fb7d607357040407f2732ad6003f91ff57ae2631293436896"
+            "size": 29049,
+            "hash": "39df4780368bc3ea42e5f0b796967ba38c4834d7bd6df4f5cdfdea113bdf51a7"
         },
         {
             "type": "file",
             "name": "assets/css/app.css.map",
             "size": 179519,
             "hash": "23b742042ca065abce2404b7019b11fe17a2bfe011f07858b1de371914c28b52"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/app.css",
+            "size": 190446,
+            "hash": "f20e1f77a0a8755fb7d607357040407f2732ad6003f91ff57ae2631293436896"
         },
         {
             "type": "file",
@@ -766,8 +766,8 @@
         {
             "type": "file",
             "name": "community/potlucks/index.html",
-            "size": 20956,
-            "hash": "e2efb36582f7469b1116713ecf3df9e254328cd360472365847e5c5f6a0c8955"
+            "size": 20802,
+            "hash": "3d110cd829b9560ad732a71b775ff1ad7f9e624a9128b21af15e2fe448f23203"
         },
         {
             "type": "folder",
@@ -776,8 +776,8 @@
         {
             "type": "file",
             "name": "curriculum/courses/index.html",
-            "size": 20054,
-            "hash": "3090ad02f41671bd4c797fce9910fa0a4f3e3d85f5c972fa0ed6f9fc7aa4c709"
+            "size": 19900,
+            "hash": "b2f2abf40389706a37063427cdac25d729822f1281c8cce24a6e03f7f3007f02"
         },
         {
             "type": "folder",
@@ -790,8 +790,8 @@
         {
             "type": "file",
             "name": "funding/grad-fellowships/index.html",
-            "size": 50756,
-            "hash": "867639e8a230a8537b883606ef7f44fde8dc2dcb19fc6d884c44c6dadaa71e1a"
+            "size": 50602,
+            "hash": "afb968c398d8e64b4ff29be551c05dcdfcb6a51f20472596357cfaeaa918ebb1"
         },
         {
             "type": "folder",
@@ -808,8 +808,8 @@
         {
             "type": "file",
             "name": "funding/seed-grants/index.html",
-            "size": 49817,
-            "hash": "99e0152a300eee2ceccf125921fcd0fc186f4880796f3937a59d1f1586541184"
+            "size": 49663,
+            "hash": "3df335b567b0e6667e470617502d8c27bfacd5067b024ecf6061ec47e5e33a74"
         },
         {
             "type": "folder",
@@ -817,15 +817,21 @@
         },
         {
             "type": "file",
-            "name": "media/banners/courses.png",
-            "size": 463277,
-            "hash": "2f32e3bba5f43090d3709e2d887860a0c56849711b72e0851fdb91e21de88150"
+            "name": "media/banners/fellows.png",
+            "size": 430988,
+            "hash": "0e49cd471e4bfb8614f8f08cc49e68436d7daea6330ec8dc5b5c1e954a010dd0"
         },
         {
             "type": "file",
             "name": "media/banners/getinvolved.png",
             "size": 484643,
             "hash": "e8a55a2c8c113b6fe399619c19e10e2b8a9686869322486d2adf6623ba94ed54"
+        },
+        {
+            "type": "file",
+            "name": "media/banners/courses.png",
+            "size": 463277,
+            "hash": "2f32e3bba5f43090d3709e2d887860a0c56849711b72e0851fdb91e21de88150"
         },
         {
             "type": "file",
@@ -838,12 +844,6 @@
             "name": "media/banners/news.png",
             "size": 433382,
             "hash": "44b79072bb9181ccb60a00129582e2cb7f6f9fd88928e5ff28cd6c0194db67ca"
-        },
-        {
-            "type": "file",
-            "name": "media/banners/fellows.png",
-            "size": 430988,
-            "hash": "0e49cd471e4bfb8614f8f08cc49e68436d7daea6330ec8dc5b5c1e954a010dd0"
         },
         {
             "type": "file",
@@ -919,12 +919,6 @@
         },
         {
             "type": "file",
-            "name": "media/news/20231214-DHPotluck-ISAW.png",
-            "size": 1049648,
-            "hash": "beba56306d628eb1d0b5686cd1ec845f9e77e4d88c6df23488e5de3e82543308"
-        },
-        {
-            "type": "file",
             "name": "media/news/20240313-AIandDH-DigitalTheoryLab.jpg",
             "size": 5967071,
             "hash": "e76cbf214af33184edfba86e07044d5165a3a3c8d86cf532809b21d7af591cb2"
@@ -943,27 +937,27 @@
         },
         {
             "type": "file",
-            "name": "media/news/SeedGrantHands.jpg",
-            "size": 294098,
-            "hash": "ea112ab8318d49ba68aa9caa0f094c5556058f5f52d38a2ea0e60ca80d2f18f5"
-        },
-        {
-            "type": "file",
             "name": "media/news/EdTech.jpg",
             "size": 222588,
             "hash": "b32c5a0dd77d56260fca97c38e77390cdd8aad8180b66bd2d7fc57b9dd195f5f"
         },
         {
             "type": "file",
-            "name": "media/news/TextAnalysisDoodle.jpg",
-            "size": 920958,
-            "hash": "a3cf21fc768a9ebc0ecf7c5b49b5966259618d2caf9c24be752cfb0441171c66"
+            "name": "media/news/20231214-DHPotluck-ISAW.png",
+            "size": 1049648,
+            "hash": "beba56306d628eb1d0b5686cd1ec845f9e77e4d88c6df23488e5de3e82543308"
         },
         {
             "type": "file",
-            "name": "media/news/banner-hatanaka.jpg",
-            "size": 152471,
-            "hash": "2a60c41bf7ab931ad47d2f0b9107de06fa285da91c34537733875b5a8dca6384"
+            "name": "media/news/SeedGrantHands.jpg",
+            "size": 294098,
+            "hash": "ea112ab8318d49ba68aa9caa0f094c5556058f5f52d38a2ea0e60ca80d2f18f5"
+        },
+        {
+            "type": "file",
+            "name": "media/news/TextAnalysisDoodle.jpg",
+            "size": 920958,
+            "hash": "a3cf21fc768a9ebc0ecf7c5b49b5966259618d2caf9c24be752cfb0441171c66"
         },
         {
             "type": "file",
@@ -976,6 +970,12 @@
             "name": "media/news/brownies.jpeg",
             "size": 99845,
             "hash": "3ef6bf7c3f0d7ab98cd4d4ae5512a1b2c74c917867f39b938f659c1df243dae3"
+        },
+        {
+            "type": "file",
+            "name": "media/news/banner-hatanaka.jpg",
+            "size": 152471,
+            "hash": "2a60c41bf7ab931ad47d2f0b9107de06fa285da91c34537733875b5a8dca6384"
         },
         {
             "type": "file",
@@ -997,15 +997,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/donors-fox-screenshot1.png",
-            "size": 747223,
-            "hash": "f6c17646c808c6cf0f405b97e0c6b5cf672653fabf07f893c8135857277ccbb0"
-        },
-        {
-            "type": "file",
             "name": "media/news/donors-fox-screenshot2.png",
             "size": 209646,
             "hash": "64bbda5f1c4693baf56cc9625937b2e69cc506ceb406b2d185c35b23cbf95467"
+        },
+        {
+            "type": "file",
+            "name": "media/news/donors-fox-screenshot1.png",
+            "size": 747223,
+            "hash": "f6c17646c808c6cf0f405b97e0c6b5cf672653fabf07f893c8135857277ccbb0"
         },
         {
             "type": "file",
@@ -1057,15 +1057,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/isaw-library.jpg",
-            "size": 1183172,
-            "hash": "ce678e358ee6a1d284d210c7642cd0a7da22981be54a17c2d2e69c598e914de6"
-        },
-        {
-            "type": "file",
             "name": "media/news/mapping-black-dh.png",
             "size": 314214,
             "hash": "015112d73c4078f92bb6399578f5dc20d0a6c604c9b4087c1a6bcb5fa5af8729"
+        },
+        {
+            "type": "file",
+            "name": "media/news/isaw-library.jpg",
+            "size": 1183172,
+            "hash": "ce678e358ee6a1d284d210c7642cd0a7da22981be54a17c2d2e69c598e914de6"
         },
         {
             "type": "file",
@@ -1081,21 +1081,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/potluckdoodle.jpg",
-            "size": 502606,
-            "hash": "3574e2234a6f37f1c90b241a69b5174da55e2665fe8690dc67337e513b978f98"
-        },
-        {
-            "type": "file",
             "name": "media/news/seeds.jpg",
             "size": 32669,
             "hash": "183bb20aa9b19e4dd40fa8ef95fb2495d3bd588273552cf3a87632363b7d5da4"
         },
         {
             "type": "file",
-            "name": "media/news/spiral-staircase.jpg",
-            "size": 1119456,
-            "hash": "bba5f6a1b174a3c12d1cc6931eeee2c7c7992ec321a17bae7696400a985535e7"
+            "name": "media/news/potluckdoodle.jpg",
+            "size": 502606,
+            "hash": "3574e2234a6f37f1c90b241a69b5174da55e2665fe8690dc67337e513b978f98"
         },
         {
             "type": "file",
@@ -1105,15 +1099,15 @@
         },
         {
             "type": "file",
-            "name": "media/news/what_could_you_do.jpeg",
-            "size": 217292,
-            "hash": "52a4f8ea1b118dd0d762d78e78e7213e148f3eb9c2d071ef8c91a69c94b03961"
+            "name": "media/news/spiral-staircase.jpg",
+            "size": 1119456,
+            "hash": "bba5f6a1b174a3c12d1cc6931eeee2c7c7992ec321a17bae7696400a985535e7"
         },
         {
             "type": "file",
-            "name": "media/people/ahlenius.jpeg",
-            "size": 108971,
-            "hash": "02dd3c107b8ddbea02fdf61493ff56b6f3fcbe7931d38f31ed66e9393ad9a937"
+            "name": "media/news/what_could_you_do.jpeg",
+            "size": 217292,
+            "hash": "52a4f8ea1b118dd0d762d78e78e7213e148f3eb9c2d071ef8c91a69c94b03961"
         },
         {
             "type": "file",
@@ -1123,15 +1117,21 @@
         },
         {
             "type": "file",
-            "name": "media/people/armoza.jpg",
-            "size": 73564,
-            "hash": "85ed6e3a571fe9228ae20662b998af3c327ee1c60e8691da4ef850d9e61010f2"
+            "name": "media/people/ahlenius.jpeg",
+            "size": 108971,
+            "hash": "02dd3c107b8ddbea02fdf61493ff56b6f3fcbe7931d38f31ed66e9393ad9a937"
         },
         {
             "type": "file",
             "name": "media/people/appert.jpg",
             "size": 15917,
             "hash": "d523535bc8cc86da4af8052beffc777ba5c7a36d311c14156e4c830e9023a0d1"
+        },
+        {
+            "type": "file",
+            "name": "media/people/armoza.jpg",
+            "size": 73564,
+            "hash": "85ed6e3a571fe9228ae20662b998af3c327ee1c60e8691da4ef850d9e61010f2"
         },
         {
             "type": "file",
@@ -1171,15 +1171,15 @@
         },
         {
             "type": "file",
-            "name": "media/people/binyamini.png",
-            "size": 599460,
-            "hash": "d3a386881214c427b3675cc8dbe601f4e27b09f42dce35d53f6511d3e74d265d"
-        },
-        {
-            "type": "file",
             "name": "media/people/bliziotis.jpg",
             "size": 254953,
             "hash": "2e69c001e737920749aca4a24ad2deb1f6d2144085dad04876b11a6bbc47cf97"
+        },
+        {
+            "type": "file",
+            "name": "media/people/binyamini.png",
+            "size": 599460,
+            "hash": "d3a386881214c427b3675cc8dbe601f4e27b09f42dce35d53f6511d3e74d265d"
         },
         {
             "type": "file",
@@ -1189,15 +1189,15 @@
         },
         {
             "type": "file",
-            "name": "media/people/brain.jpg",
-            "size": 49541,
-            "hash": "9a44da097483efe142a0914dc328cff3c88a529e1962cf0a29bd145d49d836c5"
-        },
-        {
-            "type": "file",
             "name": "media/people/brill.jpg",
             "size": 9211,
             "hash": "20cce287b7e993a9441bc8fe033e1f1b1d3c9a3994a37e12b48de267f101655e"
+        },
+        {
+            "type": "file",
+            "name": "media/people/brain.jpg",
+            "size": 49541,
+            "hash": "9a44da097483efe142a0914dc328cff3c88a529e1962cf0a29bd145d49d836c5"
         },
         {
             "type": "file",
@@ -1297,15 +1297,15 @@
         },
         {
             "type": "file",
-            "name": "media/people/georgieva.jpg",
-            "size": 2602042,
-            "hash": "9f7562713ce222fb9adf51175e9ccdabfc862113577f4256e5a20dba5e24435a"
-        },
-        {
-            "type": "file",
             "name": "media/people/gordon.jpg",
             "size": 94320,
             "hash": "dc72e0482dc31c99496bb30af0b350ce38c675a19013de257d1198af2528d7ab"
+        },
+        {
+            "type": "file",
+            "name": "media/people/georgieva.jpg",
+            "size": 2602042,
+            "hash": "9f7562713ce222fb9adf51175e9ccdabfc862113577f4256e5a20dba5e24435a"
         },
         {
             "type": "file",
@@ -1357,15 +1357,15 @@
         },
         {
             "type": "file",
-            "name": "media/people/joslyn.jpg",
-            "size": 61950,
-            "hash": "b57781f9dee6cb1c747d8ba2c5eb68da4c23c7219ff0c5218a9a9991bfacb887"
-        },
-        {
-            "type": "file",
             "name": "media/people/joyner.jpg",
             "size": 7707305,
             "hash": "f78472d6e08341017fdada03a14a8a4dc39187f0842c62ce7b8f6a78976080b3"
+        },
+        {
+            "type": "file",
+            "name": "media/people/joslyn.jpg",
+            "size": 61950,
+            "hash": "b57781f9dee6cb1c747d8ba2c5eb68da4c23c7219ff0c5218a9a9991bfacb887"
         },
         {
             "type": "file",
@@ -1465,15 +1465,15 @@
         },
         {
             "type": "file",
-            "name": "media/people/mills.png",
-            "size": 44096,
-            "hash": "89b812d09484c14c402aa7643bf038083ae88dff0cc12f91e7ed52f921400832"
-        },
-        {
-            "type": "file",
             "name": "media/people/mccormick.png",
             "size": 494764,
             "hash": "e3bc7dae734f03e07ce0709155d19d51157a85ff47527fc44fc7ed033f24c23f"
+        },
+        {
+            "type": "file",
+            "name": "media/people/mills.png",
+            "size": 44096,
+            "hash": "89b812d09484c14c402aa7643bf038083ae88dff0cc12f91e7ed52f921400832"
         },
         {
             "type": "file",
@@ -1609,12 +1609,6 @@
         },
         {
             "type": "file",
-            "name": "media/people/sparrow.jpg",
-            "size": 64501,
-            "hash": "25cd2bb62037a00d46404e6a2626d9c71901bc320d0a33220daaca6870fab0cf"
-        },
-        {
-            "type": "file",
             "name": "media/people/spielman.jpg",
             "size": 24386,
             "hash": "1effb2f8d2813f74a2eab3c189b7aaea05176e2eb95413afa9184a10c4c6e671"
@@ -1624,6 +1618,12 @@
             "name": "media/people/stec.jpg",
             "size": 90041,
             "hash": "906fa0c648e6955f76e61cd4523e75eed87e48374e315faf4e74336a7c1d4f55"
+        },
+        {
+            "type": "file",
+            "name": "media/people/sparrow.jpg",
+            "size": 64501,
+            "hash": "25cd2bb62037a00d46404e6a2626d9c71901bc320d0a33220daaca6870fab0cf"
         },
         {
             "type": "file",
@@ -1711,15 +1711,15 @@
         },
         {
             "type": "file",
-            "name": "media/projects/aponte.jpg",
-            "size": 349327,
-            "hash": "8c50ae86e66171b7785921506c788586d4010bcc9f52adfad860024bdaefe3e5"
-        },
-        {
-            "type": "file",
             "name": "media/projects/Ehrendekrete.jpg",
             "size": 2788763,
             "hash": "5ec4cdce2466d79bc0910b27fad4c4f0f628f54796f041aa42b4250e3288a5bc"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/aponte.jpg",
+            "size": 349327,
+            "hash": "8c50ae86e66171b7785921506c788586d4010bcc9f52adfad860024bdaefe3e5"
         },
         {
             "type": "file",
@@ -1759,15 +1759,15 @@
         },
         {
             "type": "file",
-            "name": "media/projects/digital-theory.jpg",
-            "size": 398278,
-            "hash": "101d9b14611b53691c47beb72ba1f8e3e97e3f479a3fd5fba7d2e2b7ed74b4e7"
-        },
-        {
-            "type": "file",
             "name": "media/projects/dental-tools.png",
             "size": 1853041,
             "hash": "27f01665cc12e98fadf109f2e01ed9638ce397e51c436c143700257175cc6c15"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/digital-theory.jpg",
+            "size": 398278,
+            "hash": "101d9b14611b53691c47beb72ba1f8e3e97e3f479a3fd5fba7d2e2b7ed74b4e7"
         },
         {
             "type": "file",
@@ -1939,15 +1939,15 @@
         },
         {
             "type": "file",
-            "name": "media/projects/mindmap_example.jpg",
-            "size": 2834088,
-            "hash": "4a4ef5b7b9a3b5eeba66da91d2abc7d5f58f31d2ba1b732364665630751e29cd"
-        },
-        {
-            "type": "file",
             "name": "media/projects/moss.jpg",
             "size": 22974,
             "hash": "b04ec1e87479db2d025e1f1610a0b77d7421c7f451e039cd201f56dfe047c814"
+        },
+        {
+            "type": "file",
+            "name": "media/projects/mindmap_example.jpg",
+            "size": 2834088,
+            "hash": "4a4ef5b7b9a3b5eeba66da91d2abc7d5f58f31d2ba1b732364665630751e29cd"
         },
         {
             "type": "file",
@@ -2017,813 +2017,813 @@
         },
         {
             "type": "file",
-            "name": "media/projects/wikimedians.jpg",
-            "size": 62009,
-            "hash": "d72bae1a2c07bf08a881417d31e58bf2130e1b44394e4a975df15758874ca2c1"
-        },
-        {
-            "type": "file",
             "name": "media/projects/zinecat.png",
             "size": 46416,
             "hash": "e171e920371b571ebe2f8ac4aea90e96b8c0d8c947d6bd0ee76bb17a7e8ff5bb"
         },
         {
             "type": "file",
+            "name": "media/projects/wikimedians.jpg",
+            "size": 62009,
+            "hash": "d72bae1a2c07bf08a881417d31e58bf2130e1b44394e4a975df15758874ca2c1"
+        },
+        {
+            "type": "file",
             "name": "news/2021-04-01-seed-grants-2021/index.html",
-            "size": 26145,
-            "hash": "a4ad1e67209d632f10a0454bab289050b8c5efe32f22ca0e520075d1776d532c"
+            "size": 25991,
+            "hash": "4e8cdd1d44fbbb324307fd2fc27bc3148ae386ec1c22ef801afb314f566745e4"
         },
         {
             "type": "file",
             "name": "news/2021-05-01-dh-summer-fellows-2021/index.html",
-            "size": 27017,
-            "hash": "acb5a1812b1dcb81b0d9a0eb4be8195668a032b237e76e18e7100da5767eca6e"
+            "size": 26863,
+            "hash": "a815c097cfd72897b4652c85afe5ab4be243a2e4fb972ade8da61eef3c3b6c15"
         },
         {
             "type": "file",
             "name": "news/2021-09-28-showcase2021/index.html",
-            "size": 19661,
-            "hash": "0acf0e8950cb640eeb0b01fe2bc5e6b2cf5da2aa9f6c4d4e4901f3b1e33057d5"
+            "size": 19507,
+            "hash": "e86102e139ee0c9015775d8e7c3f19445cdd6a967107a5a630bf3085714d069d"
         },
         {
             "type": "file",
             "name": "news/2021-12-15-gumshoe-mcgovern/index.html",
-            "size": 19695,
-            "hash": "1856c91b1bcf395a438a0e817ad2c184c84644decfb9f161c7a3a55095c7b6bf"
-        },
-        {
-            "type": "file",
-            "name": "news/2021-12-15-notice-of-funding/index.html",
-            "size": 19646,
-            "hash": "4cc84c1ade28749b2af68e5df27fbf1ff67eb1e78323652e623efa9c495cea03"
+            "size": 19541,
+            "hash": "3cce07d82d8ffa71fdfde8ecdf45b8599ccf1d3d4fecc895b0eaa627bd9e816f"
         },
         {
             "type": "file",
             "name": "news/2021-12-15-spring-2022-classes/index.html",
-            "size": 17719,
-            "hash": "ed89af1b3e8d017755140b41af12781453402978f221e7d5be7643b4fdf36553"
+            "size": 17565,
+            "hash": "3aaa8d429f8007a1414a8de12871ad8e13e114254e93229fbb67014421cfeef6"
+        },
+        {
+            "type": "file",
+            "name": "news/2021-12-15-notice-of-funding/index.html",
+            "size": 19388,
+            "hash": "890bf2b4420c2e1ce0a0a88416a3de0e47f23de13900507092583590eaf0dbce"
         },
         {
             "type": "file",
             "name": "news/2022-01-15-moss/index.html",
-            "size": 18599,
-            "hash": "c400d0cec0fde688dcd858e0b7d79aa348adffcd6ccd3846b1d3961ace1d96d6"
+            "size": 18445,
+            "hash": "5a849817fd1da659039597e72e860befc2bc8ae76ac31c6d8bdb9b26e1dae782"
         },
         {
             "type": "file",
             "name": "news/2022-02-01-open_houses/index.html",
-            "size": 18225,
-            "hash": "596e4a41582e6d76ba9c9ddf23df89e575e7113f0c6451fb035d3b37f9cfc3fa"
+            "size": 18017,
+            "hash": "7ace85c2cfc5140336352c103933a719f7cadacf5ef469769f0206fcac0212a4"
         },
         {
             "type": "file",
             "name": "news/2022-02-08-nycdh-week-js/index.html",
-            "size": 20001,
-            "hash": "79dfff7c6dd5178706d45ee06b07368a1730b4679ec6bd040d9b7f39aaf86630"
+            "size": 19847,
+            "hash": "9ae520b2649a1943851407299b98a7d2d7732040b3cb280c42a6b0dd6e8bfc73"
         },
         {
             "type": "file",
             "name": "news/2022-02-09-nycdh-week/index.html",
-            "size": 20191,
-            "hash": "d972c11168a6c1f44ed25b83bea10c9851cea5950d2ed4ecd3fd173870dd27d3"
+            "size": 20037,
+            "hash": "d4d7c24e61727b47809df892e23b1ba388e0ddaa22f815dc8091921815582389"
         },
         {
             "type": "file",
             "name": "news/2022-05-20-DH-Grad-Fellows/index.html",
-            "size": 20939,
-            "hash": "fa19a17f4e7e3459067d387d523d70705ed899be2dcc00a74fa968bebff7b45c"
+            "size": 20785,
+            "hash": "f884e912be034553567fadf035424d5232485dc3c28af709735b19990f6ba793"
         },
         {
             "type": "file",
             "name": "news/2022-05-20-seed-grants-2022/index.html",
-            "size": 26995,
-            "hash": "f57d4d42b8df8725b89a482cda677c203d5fedbb6c0f297bd45c2391216067d3"
+            "size": 26841,
+            "hash": "218468bafd458ad2040e3ef09527da482042e73a1bc9f89ccb207ad5c9b02f7d"
         },
         {
             "type": "file",
             "name": "news/2022-08-15-farewell-colleagues/index.html",
-            "size": 22146,
-            "hash": "62d7cd455fb9726e5a25490f9250afc7c7ad5fc7703d6c0e96ac452d1f3c172f"
+            "size": 21992,
+            "hash": "f13fe2ec6e4f5f0b8a6e5febdba896999933bb29f6238bfe08d63a979b6cdc1a"
         },
         {
             "type": "file",
             "name": "news/2022-08-31-NYU-DH-Welcome/index.html",
-            "size": 20439,
-            "hash": "f216e9f3b8214f88a6c8ebc44dbaca811f3280ec3d6b7c57c28537b2b6446951"
+            "size": 20183,
+            "hash": "bac7e1de502dad9093eaea486a47898c6bc8557bb19749eb020a1b7df7945ca1"
         },
         {
             "type": "file",
             "name": "news/2022-10-06-dh-showcase/index.html",
-            "size": 18732,
-            "hash": "5377c0f3e5a023ff3aaf39be302e78218b97e7eb57ee87a54e4ecbfc7181b5f8"
+            "size": 18578,
+            "hash": "afec0f34ad13f19749f3cf35c1122ef05edfc8e47f4a95b6a14a1a4509f81471"
         },
         {
             "type": "file",
             "name": "news/2022-11-01-seed-grant-spotlight-wunderkammer/index.html",
-            "size": 21768,
-            "hash": "a1fe43cbaf06dcada9380e04ec4a98a0852e3ee18272b1783b7fdffb962fb213"
+            "size": 21614,
+            "hash": "7d902392560aa5e78c6c052a2f88790b1a2e3471ec1f9caba274e8dc8369675a"
         },
         {
             "type": "file",
             "name": "news/2022-11-15-virtual-dental-museum/index.html",
-            "size": 34833,
-            "hash": "454a27218f546c9aa6b9ea2cafc06e6644fcddc3405d677e04e763bf5ed6270d"
+            "size": 34679,
+            "hash": "873914c58fb611dacd4aaeef03f39f88214196b6e573de5b69e52d498f81e330"
         },
         {
             "type": "file",
             "name": "news/2022-11-21-Seed-Grant-Spotlight-ArchCuS/index.html",
-            "size": 20473,
-            "hash": "932117b10b725821980d27c2ac61af60310bf717884bf5e3bda273f730d8a48e"
+            "size": 20319,
+            "hash": "5dc020dbf52f1e85ded45b87530e4563d1b63f77856d7e49a4a557a31c29c760"
         },
         {
             "type": "file",
             "name": "news/2022-11-22-seed-grant-spotlight-covid-collections/index.html",
-            "size": 20905,
-            "hash": "7770a6bd124e83625f6871b5717cb2f1afdf859c81269e37bc218ddd7c8b3c15"
+            "size": 20751,
+            "hash": "6dbe2c65cb806fc3ab713c6aba8f24b4f90210e989ce3f37dde1b1e5131d37f4"
         },
         {
             "type": "file",
             "name": "news/2022-12-08-fellow-post-donors-fox/index.html",
-            "size": 24486,
-            "hash": "f78a71fa1b43932d7c392ca5ebead233a01183c48e0d1365c8df741a3cb24855"
+            "size": 24332,
+            "hash": "8a642dfec9ab9448699dffadb815ba613ebfa11b65c9598efba6bc0cd50b0980"
         },
         {
             "type": "file",
             "name": "news/2022-12-15-notice-of-funding-2023/index.html",
-            "size": 19731,
-            "hash": "0be33c3d05c6716701b6329ea660a8ecf82bb4155f0d0451affb8dcbf68d338b"
+            "size": 19473,
+            "hash": "9cfc69c54a4ac9ca7f8c4d72eaae73d216a657a9db7c16051351cb28a9cdd038"
         },
         {
             "type": "file",
             "name": "news/2023-02-13-Love-Data-Week/index.html",
-            "size": 20096,
-            "hash": "da3f5ed6fd570f5b1a353419c2651fd3535851a0a60f9e770aba66a80d126fea"
+            "size": 19942,
+            "hash": "d1f1059b38b3de4897232b63f27f4fc92bc6e7fd93c971d6482c4a00f0b1a79c"
         },
         {
             "type": "file",
             "name": "news/2023-05-19-dh-grad-fellows/index.html",
-            "size": 21123,
-            "hash": "d8a255fb4be4a7dec911c057b7fdcfc1bf2a4cb58e07ef1d57b322ae342f8b21"
+            "size": 20969,
+            "hash": "40e2dc84872e66fa9983aae97077cf64b526b41eeb04d81cf1ed785877ea7591"
         },
         {
             "type": "file",
             "name": "news/2023-05-19-seed-grants-2023/index.html",
-            "size": 24799,
-            "hash": "34d7ec60798b446a8a2228beec71fe6d0eaa55873197999e0ec394d036e16511"
+            "size": 24645,
+            "hash": "afec09b69a08b0c6bef06c2f0dbba75daa5c40209ef897f8815be38ac26f5225"
         },
         {
             "type": "file",
             "name": "news/2023-06-15-fellow-spotlight-brownies-book/index.html",
-            "size": 18885,
-            "hash": "703add56eaffdc0cb600e03b663869df380c3250a2ffd91b4efc32754e922160"
+            "size": 18731,
+            "hash": "897a66aa70cffe7d0d859ba9791aee320dee25a017907f81909589ef36e4e90e"
         },
         {
             "type": "file",
             "name": "news/2023-06-20-FORC-Pilot/index.html",
-            "size": 21732,
-            "hash": "c77a7771c42c89d1144d38da2dd7097bc1e81c732bea4b00a6f36d8e4295364a"
+            "size": 21578,
+            "hash": "6ee201a361a75a5e0cf6556db4989044218c3ecab4abd10ffca8f53ff7d88ebc"
         },
         {
             "type": "file",
             "name": "news/2023-06-22-fellow-spotlight-black-burials/index.html",
-            "size": 19519,
-            "hash": "cc369c474416bdff9b12e750a537fb3fe35d3786c487c77cd9ade9e2afc2f5cc"
+            "size": 19365,
+            "hash": "84a91d2420bcc3a64383e209247c30d2333f164b5ca37ac68bb830cdd81dbc43"
         },
         {
             "type": "file",
             "name": "news/2023-06-23-fellow-spotlight-ACS-in-SoHo/index.html",
-            "size": 20255,
-            "hash": "271c96c737bd3563bbd3ff585966e6a20080302f624c5c3f09237d51bee5cd20"
+            "size": 20101,
+            "hash": "b97d74a792ac0b696a17007248a766c015c1065f7d403157fa5e8d7fea453eac"
         },
         {
             "type": "file",
             "name": "news/2023-06-28-hayles-deacon-recordings/index.html",
-            "size": 24252,
-            "hash": "a295ba6e43652f86a503e828835338eed98e528d0c74bc0d9fcd9bc7940decf3"
+            "size": 24098,
+            "hash": "52033d0de177f4f00dc50910e33b9fee91402207ad2dd890bf8b9f06df23aeb8"
         },
         {
             "type": "file",
             "name": "news/2023-08-28-thank-you-zach/index.html",
-            "size": 20653,
-            "hash": "350b8483b6c871f9b604c9df785c7de912621eeb259112ebc09556c3cf8cb4ec"
+            "size": 20499,
+            "hash": "82c5505462093fbeec7a04019ca7dba6bce0ecaa11e57380e514243b20125f1b"
         },
         {
             "type": "file",
             "name": "news/2023-09-14-global-cochlear-neh/index.html",
-            "size": 19902,
-            "hash": "a3aeba458c7fac6c9e7ae2fd0793f2c9132ab42348c675f85f323431dd46dacd"
+            "size": 19748,
+            "hash": "2a60413ccf8b0a18991733f426eb612dfa9b3078b0e9eee79b773a5086bdc33b"
         },
         {
             "type": "file",
             "name": "news/2023-09-14-migrants-neh/index.html",
-            "size": 19053,
-            "hash": "71e78fe347632a29126b23194385aae799b39e386a88fab8764f25c9dee4cdf1"
+            "size": 18899,
+            "hash": "c00452772daab038692ea393d84d0a6b63cee313f3a2bd2791ffabb11fa3ade7"
         },
         {
             "type": "file",
             "name": "news/2023-11-04-mapping-black-digital/index.html",
-            "size": 21568,
-            "hash": "9c958aad28ad5554a7320e37251be4552548d9ad2beccb28ceee21be9a383289"
+            "size": 21366,
+            "hash": "09d6ac1aa4f314506d42116d56c5c6a5f3f635f4967674e07215f4ddcbdfd8b7"
         },
         {
             "type": "file",
             "name": "news/2023-11-06-dh-showcase/index.html",
-            "size": 21940,
-            "hash": "f7a89d399fef0b714c6f30ed8037760c4b9370ac7dac771a790278501201bfd2"
+            "size": 21786,
+            "hash": "dddf811892c5071953327ba2aa3749adc37cb73ae862b0cb3970ae08905930df"
         },
         {
             "type": "file",
             "name": "news/2023-11-07-hypertext-garden/index.html",
-            "size": 24364,
-            "hash": "25ef5aaf8eca7cb844ea29d6777a8e497020afb433aeecfba70738e5b3664fcb"
+            "size": 24210,
+            "hash": "a405c85c02242944a10700d1dcb956f4237df3eeb0aa2ac3ffb4a95f66b119cb"
         },
         {
             "type": "file",
             "name": "news/2023-11-10-fall-potlucks/index.html",
-            "size": 19501,
-            "hash": "b242a8f2abb43c644b6aa37238b894559fac58b07ad64a3d8bb33ff8af65e991"
+            "size": 19347,
+            "hash": "5e699be63aa761c780888b9cf29086f08418289f9cdbab9941b0caab747f2843"
         },
         {
             "type": "file",
             "name": "news/2023-12-15-notice-of-funding-2024/index.html",
-            "size": 21287,
-            "hash": "718e462e645618fe652ca69a6f7b5b83cb669d54d385dc113bfcc6c1c377de7f"
+            "size": 21029,
+            "hash": "ab9127d3caaebab19bb08e722dc7e06543f217ca5b4e80893fe43b5cd38122b9"
         },
         {
             "type": "file",
             "name": "news/2023-12-21-isaw-potluck/index.html",
-            "size": 20175,
-            "hash": "56cbba30077574cf5c7d058fca08c6729182169cb27bd2bb6a2da34e68b19e37"
+            "size": 20021,
+            "hash": "9aed3b46fd81a4a8312f88ecd9a900ca1f2ca8271c5b6a0e74c657c16431887c"
         },
         {
             "type": "file",
             "name": "news/2024-01-26-seed-grant-spotlight-nlines/index.html",
-            "size": 23913,
-            "hash": "27d16f9d59903a7dfe954cd82d996ff6c5098ed4fe0c0ebea7e8d708963f00ed"
+            "size": 23759,
+            "hash": "6787733da8f927a50a453c7a56fe3b769ec5606d7d7c156423d189ac5bd5a0a9"
         },
         {
             "type": "file",
             "name": "news/2024-02-13-Love-Data-Week/index.html",
-            "size": 20781,
-            "hash": "7e0b927d97426e5e292794627aafdb5ce26d7f6e8937086a541b7093c3f0a9d7"
+            "size": 20627,
+            "hash": "de443b6680ff3823903db772e012905708860387034995a3590156e6e70fcc38"
         },
         {
             "type": "file",
             "name": "news/2024-02-26-seed-grant-spotlight-zinecat/index.html",
-            "size": 21516,
-            "hash": "40e03657c070328510919475aecb4a212c7a97faf885e7c29baa19a7e2efd031"
+            "size": 21362,
+            "hash": "00aa4bb5dad36f86cd43eeb8e44d0ba299d4d7c14a565e138fb38ea4f2171475"
         },
         {
             "type": "file",
             "name": "news/2024-03-29-nyudh-ai-seminar/index.html",
-            "size": 19767,
-            "hash": "da9cbb10fab719afb7b93e4b6ae198729887a4604e399b8fb916aeb883a3f45c"
+            "size": 19613,
+            "hash": "9262b39d92c4691003995842cfd8e29f10b47a9a16da8df312cb33376f5e4f09"
         },
         {
             "type": "file",
             "name": "news/2024-04-18-exploratory-text-analysis/index.html",
-            "size": 21176,
-            "hash": "32b7d5ea13cf596a0880059d7045998745d7a3907e840177812be851b919caa0"
+            "size": 21022,
+            "hash": "896de814c0adfc8e09e77ee619f0774b6a8209ec097ce432ee2ed48ff62d56d0"
         },
         {
             "type": "file",
             "name": "news/2024-04-25-dh-grad-fellows/index.html",
-            "size": 21212,
-            "hash": "765ca05716350c7c8f6a4afed49c9b0d4a52ade64703eac99517c09d4a2feb66"
+            "size": 21058,
+            "hash": "7ceeac1fd73dddbf63b3aa70462989c8b27c5d3ee1340d531a91dd4d594ca6f9"
         },
         {
             "type": "file",
             "name": "news/2024-04-30-seed-grants-2024/index.html",
-            "size": 28519,
-            "hash": "f9c5173b536c0fd1d0074b77df049a04c76677c0f09cc6256c69b92c7121e242"
-        },
-        {
-            "type": "file",
-            "name": "news/announcements/index.html",
-            "size": 34099,
-            "hash": "382d632afc0f5f87c6020240a7591e92bf0839de8c374f760da0fe435f6a639e"
+            "size": 28365,
+            "hash": "838e65a336305599835d7e4021a8715cb812d7d3ae67f1468a19377d4779eeec"
         },
         {
             "type": "file",
             "name": "news/2024-06-05-manifold-spotlight-gordon/index.html",
-            "size": 22735,
-            "hash": "77fcbde5f09dbbf82563005e6794ac3c786eea001948f993cc37b1878fc04c91"
+            "size": 22581,
+            "hash": "97f89ab79b78cc51370c4333f6ce013f19e35171822a119f11c1f97986eaff76"
+        },
+        {
+            "type": "file",
+            "name": "news/announcements/index.html",
+            "size": 33945,
+            "hash": "33237420e0226f7da4ab407a7e3d208b9a31b50b8ef8b170aff4d36fbb4e2ab8"
         },
         {
             "type": "file",
             "name": "news/events/index.html",
-            "size": 21793,
-            "hash": "4368fcebcb8efb23b3b71e64d6819fd732f1c574139c79c4c71132a680e82458"
+            "size": 21639,
+            "hash": "9ce26e393bac65269eb7ca6ea840b3da61512871506844703971badf8842a378"
         },
         {
             "type": "file",
             "name": "news/graduate-fellow-spotlights/index.html",
-            "size": 20514,
-            "hash": "67fe8a3532dc973b4e6aee928bc3c00e8f1cd790ba41f78047e46c9d7680261a"
+            "size": 20360,
+            "hash": "3a1e35084b5e878f94e14bf396a16746c52cfa378aafcd3f64d9c42462e4c496"
         },
         {
             "type": "file",
             "name": "news/seed-grant-spotlights/index.html",
-            "size": 21501,
-            "hash": "958fceff5010891783ea5a989fb52b3e9397732798debe23088c8bc718cc4ee2"
+            "size": 21347,
+            "hash": "35c344807424db96f1a43ace0fca6d3010f884e1809f9b6355375e4c95c44e1f"
         },
         {
             "type": "file",
             "name": "news/spotlights/index.html",
-            "size": 30843,
-            "hash": "f23939cd081a9af2edb1d49f46fedca6cbc9ad5d01fe7321a135ac56f07f9a03"
+            "size": 30689,
+            "hash": "84237397569d4492decfd3461ad00ea10fcdc6ec9315498e03e8140cb95b2d1a"
         },
         {
             "type": "file",
             "name": "people/affiliated-faculty/index.html",
-            "size": 23578,
-            "hash": "52f27338e2e7532eba13f3b13de850183772d4ab6bbab76defa6970a6913b56c"
+            "size": 23424,
+            "hash": "92108ecb2f23e12d5091a6a84bf2be7c1427463beb5b8ef280ba77e1509ddda4"
         },
         {
             "type": "file",
             "name": "people/alumni/index.html",
-            "size": 23438,
-            "hash": "91767002d2331e389f7edee0c980ed9efa9e6a28173529d4debcef91d84596dd"
+            "size": 23284,
+            "hash": "d56f0a6ee64abf884eb3cfc4c46fffdd44132372f258b02e961436eb5161fbb8"
         },
         {
             "type": "file",
             "name": "people/executive-committee/index.html",
-            "size": 23056,
-            "hash": "7b34b97635e74cd9d609caab0debb2357171024fdd1a3fc3eb5313d0841a7576"
+            "size": 22902,
+            "hash": "1972b7822fdc4284407d1bb7cb5149c6df3a93dbbcd98a73e4bd9c26a4206077"
         },
         {
             "type": "file",
             "name": "people/graduate-student-fellows/index.html",
-            "size": 50462,
-            "hash": "6b3f2d1b186dae1469f38b26bbd03aafb2127d4a5c81d2c683ff9e9aa8522d66"
+            "size": 50308,
+            "hash": "1369bd961a34834251da12f24fc48551ae61332ebb67d2c8f4b2007559588087"
         },
         {
             "type": "file",
             "name": "people/project-pis/index.html",
-            "size": 52229,
-            "hash": "610a88fbd36196032a7cb847f9d1403c5191e5d1748480b7f26e4a0df564c573"
-        },
-        {
-            "type": "file",
-            "name": "projects/all/index.html",
-            "size": 89753,
-            "hash": "99c526a3495998ca33e5d45435188b92d14e945938b1694b6abc96a50c4a6996"
+            "size": 52075,
+            "hash": "58ec3fa078155f17ebfc983f15b69bdbfb8ee83bcd89aaad4b5ca838af934d51"
         },
         {
             "type": "file",
             "name": "projects/aponte/index.html",
-            "size": 19079,
-            "hash": "2ccda232f5d7e4d19f5c9fb6b4c41eb2c142fd7f56f8ba90ff00567e62fdd14e"
+            "size": 18925,
+            "hash": "a412293ce60f7311ee3a949e2ba9d27ebbb903394ef17cb20b8a1ddf763d00e8"
+        },
+        {
+            "type": "file",
+            "name": "projects/all/index.html",
+            "size": 89599,
+            "hash": "91c0b1fefaee1d2080a7ff78d7955b4f9a63ffe5585c63f1f9df4dece631945a"
         },
         {
             "type": "file",
             "name": "projects/archcus/index.html",
-            "size": 19958,
-            "hash": "d21e4aabdec3adefaa41f5ec67f17783fe1e5bc0d05fa87a00e23c626655dc08"
+            "size": 19804,
+            "hash": "c6460c65dec69430b11fa8216872dfb694ccbc96cc147d2daf29e44c0bdc876c"
         },
         {
             "type": "file",
             "name": "projects/artists-archive/index.html",
-            "size": 20045,
-            "hash": "e0893460e20602abef0ca842482dc0d4238d01b7b901a11d9391c93b1f8a083e"
-        },
-        {
-            "type": "file",
-            "name": "projects/biblio-politica/index.html",
-            "size": 20451,
-            "hash": "bd25b66ea4f7c64cc90b9ed3c370b77592c2ab344d1d610fbb11800339c4f0de"
+            "size": 19891,
+            "hash": "6ea356eae9dd373b5a726f44979f30ce6f66cbb00e51e008fe67756616575593"
         },
         {
             "type": "file",
             "name": "projects/brown/index.html",
-            "size": 21367,
-            "hash": "a1e83b8f881532755b2ac49c252955b161d204981917971e6e51cf509b5053be"
+            "size": 21213,
+            "hash": "83a60bce8f8cae08d80d059edef5510828019834a7a4b08316ab0d65e998acc1"
+        },
+        {
+            "type": "file",
+            "name": "projects/biblio-politica/index.html",
+            "size": 20297,
+            "hash": "6d6ed37e9cac31325ff4ecb9a501a587ce4bb7d57c1e46fe53a48845879a9c1c"
         },
         {
             "type": "file",
             "name": "projects/chem-hum/index.html",
-            "size": 19370,
-            "hash": "deb446dfa7a72ff91da39d041bebb03cfed3ce60cdd4d93e9976ac285addc1f1"
+            "size": 19216,
+            "hash": "28148908ab5fd4a042bce822312f135360f2f57c65afe3f242ada02ced05bff2"
         },
         {
             "type": "file",
             "name": "projects/city-record/index.html",
-            "size": 18441,
-            "hash": "f84be5d721a1806326e529aee988699c430e3f0e45893479167eb394e190e31d"
+            "size": 18287,
+            "hash": "fa06a82a9676a67c73912628d63178ae403586c91c67e5527b08241d120cb7c5"
         },
         {
             "type": "file",
             "name": "projects/colonial-networks/index.html",
-            "size": 19225,
-            "hash": "61a8a32d603748409f78471dbe6edee136bedaa12a7fa1ad9339b69fccdaa8f3"
+            "size": 19071,
+            "hash": "e00d92e16f51db478f90f0b2a85cdf9e342c200dba96e0911b083a8a082bab8e"
         },
         {
             "type": "file",
             "name": "projects/community/index.html",
-            "size": 28074,
-            "hash": "bbfbe923f5d22a2591038434279b5f2df5e68c589549c26bfb7816e534c0f42f"
+            "size": 27920,
+            "hash": "74b7c9292995ee7ddc4d03a744a3718436810029a7617696db921d285326e546"
         },
         {
             "type": "file",
             "name": "projects/covid-collections/index.html",
-            "size": 21349,
-            "hash": "eea330ea2a82e68c3c79930aa2f43b242f8d1780bbde931986a07d0df524bd83"
+            "size": 21195,
+            "hash": "de37199ceecd3ee1ba02fe3f54aca5ac29c505b64da3bbe1c8cfa3a2e849396e"
         },
         {
             "type": "file",
             "name": "projects/dental-tools/index.html",
-            "size": 19514,
-            "hash": "4fa1b4d5516dba349bae2ff5c4fef29ea6899fbd75159792abe8af6a83b90cf7"
+            "size": 19360,
+            "hash": "1cd7731958fcea73cf045e612461fb98a1b03364bca6ce5062212e975dde33e6"
         },
         {
             "type": "file",
             "name": "projects/digital-theory-lab/index.html",
-            "size": 20151,
-            "hash": "18dab96019264a049a047f41341cbea7661938d7d0cefaabf0680ff803a6cfeb"
-        },
-        {
-            "type": "file",
-            "name": "projects/directories/index.html",
-            "size": 19643,
-            "hash": "5aceae2c889964161b0f67512adae381b0ee3c5a7845d4323210a82a522478c4"
+            "size": 19997,
+            "hash": "cb755e70f6da561135d845aeefa8c76d0aa73ac235d72b50fc0632b3abd5378a"
         },
         {
             "type": "file",
             "name": "projects/disability-social-media/index.html",
-            "size": 21050,
-            "hash": "cf307d0dae70f22233a2a18649f9e6aa94c73a6fd3052ed2ae3f9437cc577bcd"
+            "size": 20896,
+            "hash": "e8391b58a50e117972bae8fd0861fba72ecd3dea8e847674e0e23dbdfd67a486"
+        },
+        {
+            "type": "file",
+            "name": "projects/directories/index.html",
+            "size": 19489,
+            "hash": "8f00d223deb99f162a2266bf8c616d52a7c1e21b8b289944876e271ddf036fb0"
         },
         {
             "type": "file",
             "name": "projects/errant-americas/index.html",
-            "size": 19349,
-            "hash": "fb54bae22c40c778380667d88835954273412620bbedb2b7713e19b9b25ce98a"
+            "size": 19195,
+            "hash": "c4cea2bf653e03ffb04e622f5b7f20daa353b81586c7b90f142b2e058050d923"
         },
         {
             "type": "file",
             "name": "projects/fellowships/index.html",
-            "size": 53823,
-            "hash": "11398bcda20c779867e04e6fd529e20eaa2a0a586e79d8f4fadf16bcb8448579"
+            "size": 53669,
+            "hash": "edea4bc780931dbdefd06a992c748a0724b231432aa9182cbeef90327c70a1f2"
         },
         {
             "type": "file",
             "name": "projects/g2021armoza/index.html",
-            "size": 19841,
-            "hash": "d29963b3347e45460036a81b4048a40b1f3d022f7d84b88db3feb3a7b2d6230d"
+            "size": 19687,
+            "hash": "0a931688e1cdc8aa60ccc0ea0411a9856bb26f546a1570243c68062bf3e436c6"
         },
         {
             "type": "file",
             "name": "projects/g2021busser/index.html",
-            "size": 18679,
-            "hash": "de3c373b9230dfcb0a0204f5ddb1e4c038c01bbe23efee81e5a7f92bea4cfe85"
+            "size": 18525,
+            "hash": "1958ef95d0c9068dfff92ad8bbbea519f790172f70e20a0fe31a7f5cf8b7a4c4"
         },
         {
             "type": "file",
             "name": "projects/g2021joslyn/index.html",
-            "size": 18555,
-            "hash": "140e96328bc869f77c1ac132cae70433d40fc0b52858752019603c7d5ad8ff60"
+            "size": 18401,
+            "hash": "de610b5599999f1f5b4cbfd8e576b0bb1d3bb51b9a6d1f54455dce62e7993d8f"
         },
         {
             "type": "file",
             "name": "projects/g2021marshall/index.html",
-            "size": 18677,
-            "hash": "97a09bf4ea24cbc54e99b9412f346ab04eed4720402312a68eef621694d4031e"
+            "size": 18523,
+            "hash": "cfe7f773a0cb3ebd485e24a9e1bec95359010fbefeda3a7884656fe7a991ac8b"
         },
         {
             "type": "file",
             "name": "projects/g2021ozkiral/index.html",
-            "size": 19781,
-            "hash": "264fdf6df0637cd984b9f872a30e2c74099b3e555241a41f0788bdd7b6a30810"
+            "size": 19627,
+            "hash": "a512965fee609293cdfaa551ebcc88bb448857ef1adad8502e1345ebb22fbc9e"
         },
         {
             "type": "file",
             "name": "projects/g2021petiwala/index.html",
-            "size": 19464,
-            "hash": "24ec6cccbc5e79a100a29fcb3076082c2b5f2488d07dd077b95bdd8a5005f62a"
+            "size": 19310,
+            "hash": "34a16039095e6a21739c4fff510ae1d482e8ddfff582775dd472203961d913c2"
         },
         {
             "type": "file",
             "name": "projects/g2021smith/index.html",
-            "size": 19472,
-            "hash": "955ef1b2ae68afb101c5f904f841d5f7b9169fc74fc221d483e8b01fed0d1e21"
+            "size": 19318,
+            "hash": "cacd52747233ced10c43f7ce8dcade161b63f233005e40205114e5956cbf6af0"
         },
         {
             "type": "file",
             "name": "projects/g2021tsolakis/index.html",
-            "size": 19408,
-            "hash": "b3cfc868eace0b7e8a6757955438bc4fd2a53bc41dd2d8b8c327b7633fec52b4"
+            "size": 19254,
+            "hash": "40f39f1675d7d7e639ecc1dd014789734b6d8d25de45127d31b19892a3ff2bec"
         },
         {
             "type": "file",
             "name": "projects/g2021zehngut-willits/index.html",
-            "size": 19231,
-            "hash": "0524485d6e0e1242b680511e478271003728364e7a69b2625ba42bfc10af1de0"
+            "size": 19077,
+            "hash": "62e46707d75e9527411a9ee66a68c7ce2065d70ed78c34383aadbd2889ba2b0c"
         },
         {
             "type": "file",
             "name": "projects/g2022binyamini/index.html",
-            "size": 19963,
-            "hash": "756931346191368871991c1bdfded27e9a43ad42f293e3d4428b70ed254fc5f7"
+            "size": 19809,
+            "hash": "9c2bbd12103a63c984fbf0c8354425b67cd681cc06ab893844baf725219a2559"
         },
         {
             "type": "file",
             "name": "projects/g2022caomhanach/index.html",
-            "size": 20083,
-            "hash": "41c18fb8c70db5ec2e14dfd7566c8e280a2b553acc2d620ae9507ad2020218cf"
+            "size": 19929,
+            "hash": "1e91267a819fab8cae381c42360beccd9d3bc7c12721ab19ae3c710f92150904"
         },
         {
             "type": "file",
             "name": "projects/g2022chenel/index.html",
-            "size": 20355,
-            "hash": "945d977174afbccdbee98e19bd090440881cf9453ba1a94cc692139b5689a211"
+            "size": 20201,
+            "hash": "f6d1b339e8b040e26bda6fdb0f780c8eccf5173ec4922f96282e8d5c87f73cc3"
         },
         {
             "type": "file",
             "name": "projects/g2022deniz/index.html",
-            "size": 20286,
-            "hash": "60411a0d71bf55bed3a090faee6859eada0ef83276ceeb9d90e7c4141d7d2631"
+            "size": 20132,
+            "hash": "b6d5f5895da3ad0ab2a23702242516fc541205f5ccbfcc31a21385e79500ad1f"
         },
         {
             "type": "file",
             "name": "projects/g2022hatanaka/index.html",
-            "size": 19588,
-            "hash": "275962fc1ca75e9d41cc17383ad4892a9d24d220b7d35f1088e4e2bfba762e90"
+            "size": 19434,
+            "hash": "9eb538f9641aea8adfd8f3b2ab891374aaa72042323c0380698835ecdaae0f5c"
         },
         {
             "type": "file",
             "name": "projects/g2022musto/index.html",
-            "size": 20228,
-            "hash": "8f423bf50e3b60dda0c3724f07c26643c2b7d1684fd550629c27f62fae802bd6"
+            "size": 20074,
+            "hash": "be582df5075c38b5b34d2e335e143fa44c759cc8ab767e4ae5e5232762aa52f4"
         },
         {
             "type": "file",
             "name": "projects/g2022rosenberg/index.html",
-            "size": 20470,
-            "hash": "5b94b744f12e0054842895d7f9cecb3b95262cf28870c735073e13c0ff530ff4"
+            "size": 20316,
+            "hash": "e5c75e64bb7c3647c77e093d700c0fe6b847fc4b6bd62654df398b168622acc8"
         },
         {
             "type": "file",
             "name": "projects/g2022stec/index.html",
-            "size": 20294,
-            "hash": "56a7cbdb1514dcc93c7580bc257ad8f51128b149880f1be6ab94ca37f39e3023"
+            "size": 20140,
+            "hash": "4fd8b3971235992575e685691314f22383a32bf9ee1cdebd631c08a5d031579a"
         },
         {
             "type": "file",
             "name": "projects/g2022stuhler/index.html",
-            "size": 19687,
-            "hash": "0a8329451ec7d8930fd4a86bc42846a4bed7ca23cc95e2c76bcb79147c787783"
+            "size": 19533,
+            "hash": "62206f46f7d15414472c8c4f97e1cd726d8eea248e48e630c6a3972cc60ef70b"
         },
         {
             "type": "file",
             "name": "projects/g2022zohar/index.html",
-            "size": 20243,
-            "hash": "5b1a99fec231d9806d7ae50479485d33eac35067fe3783394184c1d3122d80a0"
+            "size": 20089,
+            "hash": "df42c8793e6db62eed4b11e5d58d37b6a78e818334b2871a9ca0bbc8d10fd6c3"
         },
         {
             "type": "file",
             "name": "projects/g2023alhenius/index.html",
-            "size": 19899,
-            "hash": "6d1f85652894f6f3b46b8039f17ad744241f360047116bb89a27614d76fb306e"
+            "size": 19745,
+            "hash": "949c126412eef30719ffe651865d26d3ad27cbb2f0abd89543c6ae07c16e3b98"
         },
         {
             "type": "file",
             "name": "projects/g2023bunzl/index.html",
-            "size": 20441,
-            "hash": "436614f21873fa310242bbc2825bd8e5289a9e7283e2e5316cdfc656072293f2"
+            "size": 20287,
+            "hash": "b808342766841dbb11a8266b42e9dda6497bb17ee394954d356d065f0c902efa"
         },
         {
             "type": "file",
             "name": "projects/g2023dang/index.html",
-            "size": 19615,
-            "hash": "efac1955f10b94ddfa4f79e7422887d04a7ec4a772fcf4e93d0822c05e2cb248"
+            "size": 19461,
+            "hash": "56dd4dce732f71dccdd85f248325caf8efdb6d327de366029c7783e105ecc018"
         },
         {
             "type": "file",
             "name": "projects/g2023hoque/index.html",
-            "size": 19415,
-            "hash": "56c2223fef71610a213a33cfe8cb852ebe61902ee725b173be1fb9bbf980c749"
+            "size": 19261,
+            "hash": "2f32ce8d193e6dba9227235bedee664d1095e67b47e98abff510e13edcefda40"
         },
         {
             "type": "file",
             "name": "projects/g2023janz/index.html",
-            "size": 19571,
-            "hash": "9772066605a2f04ba6c98d0bb1ec0bc46bae60853669b8648e2bd6252f00ac73"
+            "size": 19417,
+            "hash": "3afd4a84fa4cc3c96d3f5e11c120c75ad5e57744d3e9e1c6f85ac82695edf39b"
         },
         {
             "type": "file",
             "name": "projects/g2023kellogg/index.html",
-            "size": 19710,
-            "hash": "e441b4a9ec400bfd021b2a92bd98a3d0cfa05f4ec391329e3b0c03de4ef1c951"
+            "size": 19556,
+            "hash": "94addac9345c5ade209ca0afecd5402c2ad8665a03d416dc8b0edd91cae77789"
         },
         {
             "type": "file",
             "name": "projects/g2023lam/index.html",
-            "size": 20136,
-            "hash": "210042c014c8558cd59c98064da744e23111821066b6731dad664b41501c5a8a"
+            "size": 19982,
+            "hash": "a4fd6a56a42381aa0e98664e0c20c37b2ca05e94ba3f5de6858539472b39faee"
         },
         {
             "type": "file",
             "name": "projects/g2023lehine/index.html",
-            "size": 18568,
-            "hash": "16b9a730de98278c025ca11eafc9e66c94005d3b39ea17a678705bf3ac60f65e"
+            "size": 18414,
+            "hash": "cb9870d255818aecb358b9f7db54e72675f6f95629e2f8c31a12d8fb0ec969ae"
         },
         {
             "type": "file",
             "name": "projects/g2023orsag/index.html",
-            "size": 19901,
-            "hash": "1ec5be1cc34576d9c4f91c4f553bb67a40613904f1e01b3153c197a6f5ccc4bf"
+            "size": 19747,
+            "hash": "866bfd056f7b09a900511384455512ec0d461e1fd8c5639b304764bfb68a8cc7"
         },
         {
             "type": "file",
             "name": "projects/g2023warsco/index.html",
-            "size": 19470,
-            "hash": "f88326efb3a802656e57f28b1fa8ab4d85435157b8d1c12bd10e4c4a71ccacd3"
+            "size": 19316,
+            "hash": "3ee942043198933c12ae2b4a7404fd8fd10faf2c3db7dd316d6e91a208026c44"
         },
         {
             "type": "file",
             "name": "projects/g2024almenara/index.html",
-            "size": 19654,
-            "hash": "dc09b59116b92fb2af012d646bf87428dfb798e0615acce2c58339c85cefc432"
+            "size": 19500,
+            "hash": "6351920ab7d5f1e8ff6f8be216f448732a6ac03de0668f7ffedda21ac5646cdc"
         },
         {
             "type": "file",
             "name": "projects/g2024bliziotis/index.html",
-            "size": 20146,
-            "hash": "6f672c54046a1a140fb47ad37c7d6d662da9ae7fed32ddc627d38866ac7840c8"
+            "size": 19992,
+            "hash": "9980f81b042d0428f72752fd7b0876feb3218fa249df0eed062ca43ed900f191"
         },
         {
             "type": "file",
             "name": "projects/g2024georgieva/index.html",
-            "size": 19600,
-            "hash": "4b20bfd39a4baa7f9ebff31be7fd3c6e626675ec839451eec41eb5d70eb8ec5b"
+            "size": 19446,
+            "hash": "ec86ed1b03ff8d21bcb481e9d44cbd0d5923b92e9281c2a19527d4db879451d5"
         },
         {
             "type": "file",
             "name": "projects/g2024hassein/index.html",
-            "size": 18885,
-            "hash": "b4f8c8ea9bff2a1aed73f545e02925c3a66903770f636e8478b74e46ffc48610"
+            "size": 18731,
+            "hash": "8e87b7289e15a8973b02e739541f7adfbfb5874081a079ad458ac7b1e4dbcddf"
         },
         {
             "type": "file",
             "name": "projects/g2024joyner/index.html",
-            "size": 19244,
-            "hash": "7568000845ba1a1e948e9649a34af4e5c9e051d00eef308dd8086df07a16279a"
+            "size": 19090,
+            "hash": "8847ecf103b868136c143abe97612b1cf8665dce49c46b5e8c57d236520ec81c"
         },
         {
             "type": "file",
             "name": "projects/g2024kulpa/index.html",
-            "size": 18932,
-            "hash": "3896e75c5df24c3ea200c2edad404644b44e9e45dd151f5dd42558f492230e8e"
+            "size": 18778,
+            "hash": "f587496d21421fe6be11c97dfe1d9f5b10887e43576dd89c8dd971907aefc6ab"
         },
         {
             "type": "file",
             "name": "projects/g2024landry/index.html",
-            "size": 20023,
-            "hash": "107181fe969e25fe25002e7701daa0d8d77d45558fceb99c94ee37d68f699161"
+            "size": 19869,
+            "hash": "42817825266297bb6cd84e6535927ab674da0f75580b927bfbeb80d09cd58222"
         },
         {
             "type": "file",
             "name": "projects/g2024qu/index.html",
-            "size": 19383,
-            "hash": "e65b705241d07cc079643ab7d0a581b876e3e0ce96fa207dcffe5c23751fdcd2"
+            "size": 19229,
+            "hash": "967773708233e6f1809f8c5a5c0e65aac3ca1e0c6e964f9822212c09625b8a45"
         },
         {
             "type": "file",
             "name": "projects/g2024veras/index.html",
-            "size": 19544,
-            "hash": "3aaaf05b602c6827d839372bb5e6e46b48a73dddd7117af67a5cb674ff41a569"
+            "size": 19390,
+            "hash": "8e9ae3b15430a0bb7d1d898c5ba04f739393dacaf96c07ebad1f7e70b7eec4ce"
         },
         {
             "type": "file",
             "name": "projects/g2024whitley/index.html",
-            "size": 19965,
-            "hash": "63ae8b2d8e53c19636af4c9902e60aba83a63daa3fe7bdad26c822bc72c8c20e"
+            "size": 19811,
+            "hash": "912a91660ecb2d65269604d85fbe6979eb06b967a0c78c8771a63f0b22acc35b"
         },
         {
             "type": "file",
             "name": "projects/gig/index.html",
-            "size": 19675,
-            "hash": "4a2a6b7ff20485356b93bc1ecb9fad984a46c6e37cce8049c3f0c37797aced41"
+            "size": 19521,
+            "hash": "e691fbc9fa7454986d270200a534feef184c5c563c783dc4a176c9be9ccc4d99"
         },
         {
             "type": "file",
             "name": "projects/hidden-legacies/index.html",
-            "size": 18997,
-            "hash": "04d6e0a88aaf478edb0bbb9da1638d2b88c665a0cbad11cbfcc997f1ff7ffae1"
+            "size": 18843,
+            "hash": "2054094102cf532fc7125f62dea5a3c42c2f2c110f6fae6e75bb99e472a9b184"
         },
         {
             "type": "file",
             "name": "projects/hiring-ai/index.html",
-            "size": 21180,
-            "hash": "73715b0c8517043b4d2c76b187501753ba2a9542bd425d47e65a528bf9f99502"
+            "size": 21026,
+            "hash": "d412e69a0192da36d363cf27215170e61bb2ed3cf2c356dfef73cd9bc1ad258a"
         },
         {
             "type": "file",
             "name": "projects/historic-fractures/index.html",
-            "size": 20860,
-            "hash": "1018eefa8b3e77582ada84f7ff8beed3a3b513436f50bc9fe6e2c8f771a6c635"
+            "size": 20706,
+            "hash": "fdabd2366dd56431bbfe765460dd32ab136831eff1ae0c14138319e4e9c9fd83"
         },
         {
             "type": "file",
             "name": "projects/jewish-cookbooks/index.html",
-            "size": 19826,
-            "hash": "5c5816b2acdf3b008e90a5d24136327962aecea681828d23549a0898ec35db90"
+            "size": 19672,
+            "hash": "b28b896877e8796f718a6bd0ed99d421df29afab9ec989589a4c35d095d783ec"
         },
         {
             "type": "file",
             "name": "projects/kalinago/index.html",
-            "size": 19167,
-            "hash": "6a60a34a325731ad284ff327062ffff7be1bf584de33e507229d6fe2f92691a4"
+            "size": 19013,
+            "hash": "0f08b44342debbb5854734b7bc5f2e3ff54e2587bccd0ed2ae42a9dbbfa3395f"
         },
         {
             "type": "file",
             "name": "projects/library-journal/index.html",
-            "size": 19364,
-            "hash": "cba2d550da7dadef1b44c8fb365c78eb0764820541e4dca78b6eca625c978a87"
+            "size": 19210,
+            "hash": "f66647795b0555c6a8fcdf09e8033abae980547366a30565bfe538d301aae872"
         },
         {
             "type": "file",
             "name": "projects/maap/index.html",
-            "size": 20185,
-            "hash": "9b12f0ecc4319b3e6253387eb4880db737cf549fe0c2a36004187856a5e6aa52"
+            "size": 20031,
+            "hash": "501d4522f201368e35c8e76afdcf50b857510f41717da40630aa8a2002898022"
         },
         {
             "type": "file",
             "name": "projects/migrants-state/index.html",
-            "size": 26013,
-            "hash": "6d7b193cbbad738f41ac3ce727caebd25922614fff328e1d3b6d855a773a673a"
+            "size": 25859,
+            "hash": "2cce9733aefa5071d6f59a944c97c0d29658f9cae4f0fae09d119171380c230e"
         },
         {
             "type": "file",
             "name": "projects/moss/index.html",
-            "size": 21851,
-            "hash": "f5b3099fb0b5490eb6fe256135a53e7c2ebb27742935fdf41024db27015f24de"
+            "size": 21697,
+            "hash": "b3dacc836bbfae06dd3271d844d3f972988d27ff6271855c348a98d33963daec"
         },
         {
             "type": "file",
             "name": "projects/mutun/index.html",
-            "size": 19064,
-            "hash": "9d4a01ebcdfdcb8b5a0240cc07a26658a32a8c640f7ea020c53e03356a702896"
+            "size": 18910,
+            "hash": "9b3e7f232351705af473581aa92f95332eede85718ac0c8cdce0a84a2ad735e1"
         },
         {
             "type": "file",
             "name": "projects/nlines/index.html",
-            "size": 19044,
-            "hash": "d490dcc5814eee975e473c15af91c8b7b74553ce59cb9655560f8189093560ae"
+            "size": 18890,
+            "hash": "7aa3e12b6fde6680df85be2eead85de06e7548b9f95666734d48408c4f3934df"
         },
         {
             "type": "file",
             "name": "projects/nyscapes/index.html",
-            "size": 20102,
-            "hash": "429dfe00ef1295f26cbb677b10156fe0e121f5729139b8cd711ef55febb011d8"
+            "size": 19948,
+            "hash": "7d3a71bada4082d94f6709b4dfa04357fc8a94a32a507b8aecc8d0cf9782d203"
         },
         {
             "type": "file",
             "name": "projects/occupy/index.html",
-            "size": 19575,
-            "hash": "3f7b989611944cc20d7a5fbd57b6caca7bce6745f63d88faa375ae6378297bab"
+            "size": 19421,
+            "hash": "2ef5d05e0df6878df880e6149f41fb915450cfcef11c5432ac394d1671cf054e"
         },
         {
             "type": "file",
             "name": "projects/pep/index.html",
-            "size": 19748,
-            "hash": "8ec758b8ae56725daea83cf7130c626d065996ed6ba329e438732fd55a109b0c"
+            "size": 19594,
+            "hash": "9b14c4126823075626d52304152e444f77f342986419b5379436657411141713"
         },
         {
             "type": "file",
             "name": "projects/sanger/index.html",
-            "size": 19707,
-            "hash": "0d43fcee6247eb5e6a5ea7a1a924726c9a0c28ec5ddc19db566a22551cb2e02d"
+            "size": 19553,
+            "hash": "c9df86bc0e0f97592ad366de27c942780c9158d7c7e2b34d7438e706dc0ae72a"
         },
         {
             "type": "file",
             "name": "projects/seed-grants/index.html",
-            "size": 42392,
-            "hash": "653dab0877b6cb35e7056cacfa05a403e70a9cb865e434308b5b609ad3071fc4"
+            "size": 42238,
+            "hash": "133f155e1a786faf13a59df077f4509b82b7421ea235b531b2e7f11c16326358"
         },
         {
             "type": "file",
             "name": "projects/sight-site-cite/index.html",
-            "size": 21497,
-            "hash": "b1b6b3f77bd9c8e70100232cfe8817491e8fd083991cd9f8393c7db0ac612762"
+            "size": 21343,
+            "hash": "b4c4189dc98ab5e91c68df819b67124a84baf30f38b1d0dabaa37faa0d262dd5"
         },
         {
             "type": "file",
             "name": "projects/slave-insurance/index.html",
-            "size": 20257,
-            "hash": "a05f22a96f45b4f686bae2065bb4769a29eef0efc8c72f57d5d05de2d5cf90f9"
+            "size": 20103,
+            "hash": "b66fef5e21e4687600c71017f137136b1f7b9cfdd35fdec885ec68580476d637"
         },
         {
             "type": "file",
             "name": "projects/soul-of-reason/index.html",
-            "size": 21862,
-            "hash": "eebc7634e2bc046ea63f87758633f1b6bc1855f25ef8de5985c93b42e62407e5"
+            "size": 21708,
+            "hash": "e90d98fe217816c65b960cab11e50f9a2a0cc67d4fef2232393388f8c71f90f7"
         },
         {
             "type": "file",
             "name": "projects/soviet-sphere/index.html",
-            "size": 19234,
-            "hash": "26aa4134dd704fa49bb6f98b7f943114ca3995866ba7cf3035de901d43ed8378"
+            "size": 19080,
+            "hash": "6fb27bc6b3e72d6f0e8d4acb80c6239149a285585c5fc7bdeefec967eb13a756"
         },
         {
             "type": "folder",
@@ -2851,11 +2851,11 @@
         },
         {
             "type": "folder",
-            "name": "projects/tag/digital-theory"
+            "name": "projects/tag/digital-edition"
         },
         {
             "type": "folder",
-            "name": "projects/tag/digital-edition"
+            "name": "projects/tag/digital-theory"
         },
         {
             "type": "folder",
@@ -2871,15 +2871,15 @@
         },
         {
             "type": "folder",
-            "name": "projects/tag/indigenous-studies"
-        },
-        {
-            "type": "folder",
             "name": "projects/tag/interdisciplinary-studies"
         },
         {
             "type": "folder",
             "name": "projects/tag/linked-open-data"
+        },
+        {
+            "type": "folder",
+            "name": "projects/tag/indigenous-studies"
         },
         {
             "type": "folder",
@@ -2948,32 +2948,32 @@
         {
             "type": "file",
             "name": "projects/tags/index.html",
-            "size": 18435,
-            "hash": "820ad2d9bbbfc16459f7971e26960095f6200c172a3d0e6dda1d70b1c9b95099"
+            "size": 18281,
+            "hash": "a0613f61a7dcac230aafdc752d9888df8d4e1d1439040855d7f95a83f99e74ed"
         },
         {
             "type": "file",
             "name": "projects/turkish-music/index.html",
-            "size": 19011,
-            "hash": "1d1c1246e21752462ca1aacf01f25a017feacbbd795f381cf5eab65849ce0fa5"
+            "size": 18857,
+            "hash": "c61888b5d9ed2ec8b8a0062de343efe9d63da7fe269fac3c89d2d0b2c92f1933"
         },
         {
             "type": "file",
             "name": "projects/wax/index.html",
-            "size": 19282,
-            "hash": "3bb732bb68bc1cdbd714fd4ad98a20ef6f108ab29b357c34add1ff43833c7e58"
+            "size": 19128,
+            "hash": "65e69f184529bb17fdbd8adf86e5adfde452d52442b5a001c0c5da80596c9547"
         },
         {
             "type": "file",
             "name": "projects/wikimedians/index.html",
-            "size": 21144,
-            "hash": "268f535646a300668fd54097776020a301cb3225eef2f5f8475ff44e969a6c22"
+            "size": 20990,
+            "hash": "3da12c2ff22e1819d341e7e5f80361679471e590a52689af9b8362095c3baeec"
         },
         {
             "type": "file",
             "name": "projects/zinecat/index.html",
-            "size": 20341,
-            "hash": "309cd56fdc0b8215bf6e77bdb784ede3bed130a79e1e4fa4d3a174b0e13dcdba"
+            "size": 20187,
+            "hash": "2339d5e1cf2b16a1550f4255673605bf00f27f3d321701e3ff305fdd6ce545db"
         },
         {
             "type": "file",
@@ -3007,12 +3007,6 @@
         },
         {
             "type": "file",
-            "name": "assets/images/banners/people.png",
-            "size": 446237,
-            "hash": "b83c6f9fef45b636211c2cb6dffd8d096ef0fa9940e76c613b84dd34747de1b8"
-        },
-        {
-            "type": "file",
             "name": "assets/images/banners/projects.png",
             "size": 493655,
             "hash": "760766a92f3db6878cf528e0fe6973244f0b7104836b1a1a6243a80c1f2f551f"
@@ -3022,6 +3016,12 @@
             "name": "assets/images/banners/resources.png",
             "size": 334226,
             "hash": "842e875e837b8d9ef603f3f08f8840ed03240edb3dfeb66bb5a54839eae9b4e6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/banners/people.png",
+            "size": 446237,
+            "hash": "b83c6f9fef45b636211c2cb6dffd8d096ef0fa9940e76c613b84dd34747de1b8"
         },
         {
             "type": "file",
@@ -3037,12 +3037,6 @@
         },
         {
             "type": "file",
-            "name": "assets/images/defaults/people.png",
-            "size": 94318,
-            "hash": "c353afa46a526d2d67e2d48b1ff5228327f5216a3d79eb00634470c777a06f6b"
-        },
-        {
-            "type": "file",
             "name": "assets/images/defaults/projects.png",
             "size": 87080,
             "hash": "51064a8f99594ed89c83ec6a32b063b085413910e5d1d6de2ccb0fa235219b4d"
@@ -3052,6 +3046,12 @@
             "name": "assets/images/icons/bibliography.png",
             "size": 91404,
             "hash": "09ad9b9741ca7bc2a14c653e70633646d2c73bf8ba6094c5a3457d1b4672ef51"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/defaults/people.png",
+            "size": 94318,
+            "hash": "c353afa46a526d2d67e2d48b1ff5228327f5216a3d79eb00634470c777a06f6b"
         },
         {
             "type": "file",
@@ -3074,224 +3074,224 @@
         {
             "type": "file",
             "name": "curriculum/courses/archive/index.html",
-            "size": 39513,
-            "hash": "27efb8fa2c5b100bd0e35af8370a41764b5dd5fc57e5b9786f91492a13c8535e"
+            "size": 39359,
+            "hash": "98c059ac6a4bda1a4cb4b03e8295a2478fade7eeebc133480d207162372fdee6"
         },
         {
             "type": "file",
             "name": "funding/grad-fellowships/faq/index.html",
-            "size": 22585,
-            "hash": "c6b27dfd0253b3a4625c7e46f677a068a34e3cd4a199a6e02671d0c65f435063"
+            "size": 22431,
+            "hash": "23ebf3ba08c1d3c00fbd4f69aa581e37e6ec5c251d71e3ca759994ce42643c56"
         },
         {
             "type": "file",
             "name": "funding/grad-fellowships/grant-cycles/index.html",
-            "size": 17169,
-            "hash": "ab6aef9c8e597c3e58119a16672228395230c83d58e815cc5955b89514ea7718"
+            "size": 16977,
+            "hash": "442d3d2b18631d9ad2d41ed3f296b94a4cd2fb3402ed262a68410aa637514f6e"
         },
         {
             "type": "file",
             "name": "funding/grad-fellowships/sample-call/index.html",
-            "size": 20574,
-            "hash": "ebb49fe812c5b54ac1d65ea0686216da093a2c8353c66c71e02051bc0aefe3ce"
+            "size": 20236,
+            "hash": "ea02fef4fe20cf2c07938b8d8e791a790d1ea7d6c0724af63807c602ddf50b1c"
         },
         {
             "type": "file",
             "name": "funding/seed-grants/faq/index.html",
-            "size": 29942,
-            "hash": "67fb321884302535889ed01b89f5d09299dcf602ab78ed4e03158d966bd68cfb"
+            "size": 29151,
+            "hash": "a1fb39624c11db08b75b4f798e4b8a9716da0d8a62e8ecbc562616ba5f765df2"
         },
         {
             "type": "file",
             "name": "funding/seed-grants/grant-cycles/index.html",
-            "size": 17556,
-            "hash": "3ed8c754d4120ee9c921cf68d237f548467cd19c9800d4a51012b76701d70918"
+            "size": 17212,
+            "hash": "2821eb84635f576c04bfbe3ddc2167740d826b4be1f665dd498c3ae1964b1bad"
         },
         {
             "type": "file",
             "name": "funding/seed-grants/sample-call/index.html",
-            "size": 24118,
-            "hash": "fd7cec075a29349060425f9021b2a8a73adf0ca68b8c603b2a252378958012e2"
+            "size": 23779,
+            "hash": "d9c0425b37afd1bbe878794b4eb5344a3d56d8904ed7769d337a7a0ca9df6f93"
         },
         {
             "type": "file",
             "name": "projects/tag/AI/index.html",
-            "size": 20879,
-            "hash": "422f54d759f7011cf1b367118fd27d373b1ba550812f8d6e1a1a697453e35034"
+            "size": 20725,
+            "hash": "cd1844aa61e740d7b5f03a87efc85dc0f8c594969091eb5887f33c22bd4f7f57"
         },
         {
             "type": "file",
             "name": "projects/tag/accessibility/index.html",
-            "size": 18368,
-            "hash": "1a519abcfa7031a52b3797025dec535004748071343e4e2362b583522b694442"
+            "size": 18214,
+            "hash": "df944244789b8136b0f3ca2efa30367a136bd24a9a8d8cff544f3c08b5ba4524"
         },
         {
             "type": "file",
             "name": "projects/tag/archive/index.html",
-            "size": 17356,
-            "hash": "d29a2ca8a2967f7766878270df3f0da966b04b0f1bf4489cbb6f2b4ac614d78a"
+            "size": 17202,
+            "hash": "aa97567dc320336410a7f27a8676356587fd1a530928525463ec821fea984c00"
         },
         {
             "type": "file",
             "name": "projects/tag/computational-culture/index.html",
-            "size": 17614,
-            "hash": "b7dca2f1b20f9681e4c306381f7085e397f1fc1895fcc088dc51e12a62388d18"
+            "size": 17460,
+            "hash": "7e9b9505d17d1701b0ce859a57150616a11120e4a440727bd325bc180538aea5"
         },
         {
             "type": "file",
             "name": "projects/tag/data-visualization/index.html",
-            "size": 17507,
-            "hash": "2cb4b117783e9cfe9b38761c054454e1d8d6fe34b29b4f9c6978d766d801ac6f"
+            "size": 17353,
+            "hash": "3b45bcfc614ac413efcac2fb73288040f7d081fb79d060a1336bb0d4e9312e15"
         },
         {
             "type": "file",
             "name": "projects/tag/dataset/index.html",
-            "size": 20429,
-            "hash": "db2c683eb727a21c33d2db04a8ac39849d694fd5bb88c49d164de6e3fa79a0bd"
-        },
-        {
-            "type": "file",
-            "name": "projects/tag/digital-theory/index.html",
-            "size": 17556,
-            "hash": "a1229994351ff57da4cdd906fbbd1134cbf43b2fcb223cfac91db8daa4b0644e"
+            "size": 20275,
+            "hash": "95c17818f8d52067db660ec9b8fe63607a8bce770be8d3dce64c199b822c722f"
         },
         {
             "type": "file",
             "name": "projects/tag/digital-edition/index.html",
-            "size": 17306,
-            "hash": "fb3e01864619ebfe229af18ef92d5f8eb1f666563e094c1d90e94bd8d4dc377e"
+            "size": 17152,
+            "hash": "6ec804abfc2e0d3c804ea9f3800bd11cd3dc6ed531b950f912296a27771cf714"
+        },
+        {
+            "type": "file",
+            "name": "projects/tag/digital-theory/index.html",
+            "size": 17402,
+            "hash": "a25beccfb74c999ebe6f1aa1adad490f4ed06afc547cd00e6e97a641732badd6"
         },
         {
             "type": "file",
             "name": "projects/tag/digitization/index.html",
-            "size": 19433,
-            "hash": "22097436545ee4f0f18ecafaee170f9384387a56a29bb82a4b746346cda8e747"
+            "size": 19279,
+            "hash": "bfd78dbd4939e9be1c25acb3e5b6fc6cce4665ded407f6a6ef874a9cb2885cc1"
         },
         {
             "type": "file",
             "name": "projects/tag/environmental-humanities/index.html",
-            "size": 18537,
-            "hash": "51cb21f49484d53edf77a27b3547a6413f07f683b5413c7018e4d50fec7ff736"
+            "size": 18383,
+            "hash": "c13ff4ac888ee8ebb9a71a9d141f25714dc47f14c42296ad33ce4a5c210c6454"
         },
         {
             "type": "file",
             "name": "projects/tag/exhibition/index.html",
-            "size": 29504,
-            "hash": "27202898c9795a09c255f94333e19528d3a9fa6986a047c1a2c94c6f90bfbeda"
-        },
-        {
-            "type": "file",
-            "name": "projects/tag/indigenous-studies/index.html",
-            "size": 17478,
-            "hash": "6a1423fdef134e9c8ae63448a2d4cd184d76ed1e86cb0d5461a4ad8076fb1d8c"
+            "size": 29350,
+            "hash": "d12b2a5ee5317c3c0ded450f5a2c97a5690e76230138b19d1fcac4518aa1e77d"
         },
         {
             "type": "file",
             "name": "projects/tag/interdisciplinary-studies/index.html",
-            "size": 17446,
-            "hash": "ad96e38d8352c6f721a16245f2d3cf3e581781e737129fe5a3a14d9fd27e1d93"
+            "size": 17292,
+            "hash": "675fadc7ed139c33225819ca8174dcdc74ad3fbe0f8f3663e4577b4c877c5199"
         },
         {
             "type": "file",
             "name": "projects/tag/linked-open-data/index.html",
-            "size": 17376,
-            "hash": "c0eec2621e12df1540bbc8f596ef08b1dcea3a93ed9ed049fc0fd0de47c485e2"
+            "size": 17222,
+            "hash": "fad060cf2400e4a084c1b0b6f614a8b4d86287d064a78941c62346dfde238bbc"
+        },
+        {
+            "type": "file",
+            "name": "projects/tag/indigenous-studies/index.html",
+            "size": 17324,
+            "hash": "7cc0cd0e6ed9ada566632b49457ba4fb292d771a6d569826814665ffee5473e7"
         },
         {
             "type": "file",
             "name": "projects/tag/machine-learning/index.html",
-            "size": 21005,
-            "hash": "bfe514f5a2d8b39324b8b4642669ef9b2470ad1039d88d73c0aecf72abe471ac"
+            "size": 20851,
+            "hash": "8f875127a6ac8e73dbd8655c7b1d08be035ea980a469f6855ed60a3a7e3639c0"
         },
         {
             "type": "file",
             "name": "projects/tag/making/index.html",
-            "size": 17376,
-            "hash": "58e2d1f186a8fa36a905e833f11d4cae3b79ab502dccbb5111b972a0ed1e38bf"
+            "size": 17222,
+            "hash": "39bb3487d8d5764a5a8e9a7431a3162b8b1e1ef015124341a35846dbd078f341"
         },
         {
             "type": "file",
             "name": "projects/tag/medical-humanities/index.html",
-            "size": 18518,
-            "hash": "02f6069229d0e1bbc57fa1f9451d44317f4bfb075a8a173c3fb7492a1df32254"
+            "size": 18364,
+            "hash": "82f80034da0ab0318e3a1c7aec23661ecca6ce74c6153f7e2ae2d82c2f2f4baa"
         },
         {
             "type": "file",
             "name": "projects/tag/multilingual-dh/index.html",
-            "size": 17451,
-            "hash": "dc5eced2d6ecf5499033ac0c0137acef15d3f6af1917a249c69c7f2f2545e413"
+            "size": 17297,
+            "hash": "2458e55464e9b4213fcb717946a55faecafe954a58964dbdb9f68a810b115f50"
         },
         {
             "type": "file",
             "name": "projects/tag/oral-history/index.html",
-            "size": 17434,
-            "hash": "892bbd573d2aa1d16e35530aa346220c6c241150a2e3589e970316a0bbad6aa9"
+            "size": 17280,
+            "hash": "33993b46448f31c74a0ddc1fbce658cc9cb273cab21486061f60484485bb1a2d"
         },
         {
             "type": "file",
             "name": "projects/tag/pedagogy/index.html",
-            "size": 17384,
-            "hash": "a58c5f4801678202365237011d7f9c31a2a09a9c6839c5dccaa307d7cd5683fa"
+            "size": 17230,
+            "hash": "df54261a3b89fd42d3993647bc4fdb03e7dd3f5b4ea45632c1a9154565db7044"
         },
         {
             "type": "file",
             "name": "projects/tag/public-humanities/index.html",
-            "size": 40128,
-            "hash": "ec60a66ee9ef2927e8a525b5116bd654634cab58282fef99721c47769b929d9c"
+            "size": 39974,
+            "hash": "d718c07fa63b62fdd54d10f8ac9e87019e16e5af15b944a089ad2fc69c0a3d4a"
         },
         {
             "type": "file",
             "name": "projects/tag/science-studies/index.html",
-            "size": 17444,
-            "hash": "deb264f1e47127cf46a1e1789c21301dda318884d860f147d7169778cd118f4a"
+            "size": 17290,
+            "hash": "5ac7c1a915f4b31f8ca47be1cd4e941067bb9f1a83a2e7177ca5c3b433f51c47"
         },
         {
             "type": "file",
             "name": "projects/tag/social-media/index.html",
-            "size": 17433,
-            "hash": "0433f20bc912931c4ccee2d7f83b4a4490a088bf7c1a7c8dc4dabcb668438c09"
+            "size": 17279,
+            "hash": "66c5f819a4977ea1223f3acc939d7463d4b9196b527bf0d8a4cd8f0d1edd72ec"
         },
         {
             "type": "file",
             "name": "projects/tag/software/index.html",
-            "size": 17330,
-            "hash": "d6456e87161d8fe9aa48de008b171b360895ebba5d8210171c0d9d6fc805d7e5"
+            "size": 17176,
+            "hash": "680966f9f460412058157bf78eac38edd1ac090fca95208cd07e8307cac0e101"
         },
         {
             "type": "file",
             "name": "projects/tag/sound-studies/index.html",
-            "size": 17297,
-            "hash": "5c6cfd7c36bb138875a451d29e5a9098bdda659705511fe6d8c0df10111cd924"
+            "size": 17143,
+            "hash": "19092858229342ae636447f4b6fc66b6e5d0eb47358a69a6be73f35a3f3ce312"
         },
         {
             "type": "file",
             "name": "projects/tag/spatial-humanities/index.html",
-            "size": 29749,
-            "hash": "168e9d05a149d89cc29275f5ea984f044f2870b2a6c49d4efa7aaf1c9665a9b7"
+            "size": 29595,
+            "hash": "05d949a94e2a77fddfd997b8218cccc702e57160b7e332615571fe22d06345d2"
         },
         {
             "type": "file",
             "name": "projects/tag/technology-studies/index.html",
-            "size": 18259,
-            "hash": "c797e8d86574b09ea07950d6e1a6646b241971505ecb2ba4315e4488dc697fc4"
+            "size": 18105,
+            "hash": "4d6e83007a0404d2d565bef57ce86e6996d65e36548c8be751ae00e61d047d07"
         },
         {
             "type": "file",
             "name": "projects/tag/text-analysis/index.html",
-            "size": 27792,
-            "hash": "9658a6adaf2357fe1c63a5ed0653c604de90f8f1ad0c3db8b66df042c8cd8518"
+            "size": 27638,
+            "hash": "b284c0c9d4fc90872c19016a7b892afd749d926d27bc6fc3bcb9b23c5ef357e6"
         },
         {
             "type": "file",
             "name": "projects/tag/urban-humanities/index.html",
-            "size": 20332,
-            "hash": "51f0c96aa103f45c8ff72fe56412bbbd9f1159a0b7b410b14a259eb18a3e1304"
+            "size": 20178,
+            "hash": "598083dd8f72f58227dc5dc16a3e9037e0d488a1188ad2a9f4e6031ed6083922"
         },
         {
             "type": "file",
             "name": "projects/tag/visual-culture/index.html",
-            "size": 20845,
-            "hash": "2cd3c3356327ddf98f53f1925b5389a40a564b5c1d6a92af5c095b6ebe1168bf"
+            "size": 20691,
+            "hash": "86a0591911e053aea1af2656bb9c9c10c813646f07651f85d62b90897af4a518"
         }
     ]
 }
