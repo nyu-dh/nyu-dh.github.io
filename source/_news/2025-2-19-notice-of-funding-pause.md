@@ -1,5 +1,5 @@
 ---
-title: "Notice: DH Grant Program on Pause for This Year"
+title: "Notice: NYU DH Grant Programs on Pause for This Year"
 category: announcement
 date: 2025-02-19
 tags:
